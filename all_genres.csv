@@ -1,0 +1,2490 @@
+Genre,Movie Name,Duration,Duration Minutes,Rating,Votes,genre
+Action,Kraven the Hunter,2h 7m,127.0,5.5,52000.0,Scripts\action_movies
+Action,Gladiator II,2h 28m,148.0,6.5,224000.0,Scripts\action_movies
+Action,Twisters,2h 2m,122.0,6.5,165000.0,Scripts\action_movies
+Action,Sonic the Hedgehog 3,1h 50m,110.0,6.9,56000.0,Scripts\action_movies
+Action,Venom: The Last Dance,1h 50m,110.0,6.0,114000.0,Scripts\action_movies
+Action,Deadpool & Wolverine,2h 8m,128.0,7.6,487000.0,Scripts\action_movies
+Action,Pushpa: The Rule - Part 2,3h 21m,201.0,6.1,55000.0,Scripts\action_movies
+Action,Dune: Part Two,2h 46m,166.0,8.5,620000.0,Scripts\action_movies
+Action,The Ministry of Ungentlemanly Warfare,2h 2m,122.0,6.8,134000.0,Scripts\action_movies
+Action,Freaky Tales,1h 46m,106.0,7.1,732.0,Scripts\action_movies
+Action,The Beekeeper,1h 45m,105.0,6.3,155000.0,Scripts\action_movies
+Action,Carry-On,1h 59m,119.0,6.5,163000.0,Scripts\action_movies
+Action,Furiosa: A Mad Max Saga,2h 28m,148.0,7.5,283000.0,Scripts\action_movies
+Action,Civil War,1h 49m,109.0,7.0,235000.0,Scripts\action_movies
+Action,Fight or Flight,1h 37m,97.0,6.4,5900.0,Scripts\action_movies
+Action,Solo Leveling: ReAwakening,2h 1m,121.0,8.9,11000.0,Scripts\action_movies
+Action,Borderlands,1h 41m,101.0,4.7,47000.0,Scripts\action_movies
+Action,Elevation,1h 31m,91.0,5.6,21000.0,Scripts\action_movies
+Action,The Fall Guy,2h 6m,126.0,6.8,219000.0,Scripts\action_movies
+Action,The Count of Monte-Cristo,2h 58m,178.0,7.6,33000.0,Scripts\action_movies
+Action,Transformers One,1h 44m,104.0,7.6,49000.0,Scripts\action_movies
+Action,Hellboy: The Crooked Man,1h 39m,99.0,4.5,13000.0,Scripts\action_movies
+Action,The Lord of the Rings: The War of the Rohirrim,2h 14m,134.0,6.3,29000.0,Scripts\action_movies
+Action,The Crow,1h 51m,111.0,4.7,34000.0,Scripts\action_movies
+Action,William Tell,2h 13m,133.0,5.7,2200.0,Scripts\action_movies
+Action,Madame Web,1h 56m,116.0,4.0,100000.0,Scripts\action_movies
+Action,Rebel Ridge,2h 11m,131.0,6.8,87000.0,Scripts\action_movies
+Action,Road House,2h 1m,121.0,6.2,167000.0,Scripts\action_movies
+Action,Bad Boys: Ride or Die,1h 55m,115.0,6.5,99000.0,Scripts\action_movies
+Action,Kingdom of the Planet of the Apes,2h 25m,145.0,6.9,151000.0,Scripts\action_movies
+Action,Godzilla x Kong: The New Empire,1h 55m,115.0,6.0,121000.0,Scripts\action_movies
+Action,Argylle,2h 19m,139.0,5.6,92000.0,Scripts\action_movies
+Action,Marco,2h 25m,145.0,6.9,21000.0,Scripts\action_movies
+Action,Damsel,1h 50m,110.0,6.1,109000.0,Scripts\action_movies
+Action,Red One,2h 3m,123.0,6.3,139000.0,Scripts\action_movies
+Action,Homestead,1h 52m,112.0,5.3,3500.0,Scripts\action_movies
+Action,Love Lies Bleeding,1h 44m,104.0,6.6,56000.0,Scripts\action_movies
+Action,The Killer's Game,1h 44m,104.0,5.8,17000.0,Scripts\action_movies
+Action,Land of Bad,1h 53m,113.0,6.6,51000.0,Scripts\action_movies
+Action,Monkey Man,2h 1m,121.0,6.8,91000.0,Scripts\action_movies
+Action,Uglies,1h 40m,100.0,4.7,32000.0,Scripts\action_movies
+Action,Old Guy,1h 34m,94.0,5.2,2200.0,Scripts\action_movies
+Action,Dirty Angels,1h 44m,104.0,4.3,3300.0,Scripts\action_movies
+Action,Blitz,2h,120.0,6.2,16000.0,Scripts\action_movies
+Action,The Union,1h 47m,107.0,5.4,53000.0,Scripts\action_movies
+Action,Kung Fu Panda 4,1h 34m,94.0,6.3,67000.0,Scripts\action_movies
+Action,Toofan,2h 25m,145.0,7.4,7500.0,Scripts\action_movies
+Action,Thelma,1h 38m,98.0,7.0,22000.0,Scripts\action_movies
+Action,Arcadian,1h 32m,92.0,5.5,23000.0,Scripts\action_movies
+Action,Attack on Titan the Movie: The Last Attack,2h 25m,145.0,9.2,15000.0,Scripts\action_movies
+Action,Gunner,1h 46m,106.0,3.2,2500.0,Scripts\action_movies
+Action,Lift,1h 47m,107.0,5.5,49000.0,Scripts\action_movies
+Action,Werewolves,1h 33m,93.0,4.4,6300.0,Scripts\action_movies
+Action,The Killer,2h 6m,126.0,5.7,13000.0,Scripts\action_movies
+Action,Aftermath,1h 37m,97.0,5.1,3800.0,Scripts\action_movies
+Action,Beverly Hills Cop: Axel F,1h 58m,118.0,6.4,81000.0,Scripts\action_movies
+Action,Maharaja,2h 21m,141.0,8.4,66000.0,Scripts\action_movies
+Action,Survive,1h 30m,90.0,4.6,2300.0,Scripts\action_movies
+Action,The Instigators,1h 41m,101.0,6.2,37000.0,Scripts\action_movies
+Action,Twilight of the Warriors: Walled In,2h 6m,126.0,7.0,9300.0,Scripts\action_movies
+Action,Drive-Away Dolls,1h 24m,84.0,5.4,23000.0,Scripts\action_movies
+Action,Absolution,1h 52m,112.0,5.2,7700.0,Scripts\action_movies
+Action,Apocalypse Z: The Beginning of the End,1h 57m,117.0,6.1,20000.0,Scripts\action_movies
+Action,Azrael,1h 26m,86.0,5.4,10000.0,Scripts\action_movies
+Action,Classified,1h 45m,105.0,3.6,2400.0,Scripts\action_movies
+Action,Atlas,1h 58m,118.0,5.6,56000.0,Scripts\action_movies
+Action,The Prosecutor,1h 57m,117.0,6.7,1700.0,Scripts\action_movies
+Action,Rebel Moon - Part Two: The Scargiver,2h 2m,122.0,5.3,59000.0,Scripts\action_movies
+Action,Descendants: The Rise of Red,1h 31m,91.0,4.7,7000.0,Scripts\action_movies
+Action,Kalki 2898 AD,3h,180.0,7.0,66000.0,Scripts\action_movies
+Action,Long Gone Heroes,1h 41m,101.0,5.2,1000.0,Scripts\action_movies
+Action,Brothers,1h 29m,89.0,5.4,13000.0,Scripts\action_movies
+Action,Canary Black,1h 41m,101.0,5.3,11000.0,Scripts\action_movies
+Action,Under Paris,1h 44m,104.0,5.2,36000.0,Scripts\action_movies
+Action,Trigger Warning,1h 46m,106.0,4.6,19000.0,Scripts\action_movies
+Action,Armor,1h 29m,89.0,3.6,3700.0,Scripts\action_movies
+Action,Watchmen: Chapter I,1h 23m,83.0,7.0,6400.0,Scripts\action_movies
+Action,One More Shot,1h 43m,103.0,5.4,3600.0,Scripts\action_movies
+Action,Amaran,2h 47m,167.0,8.2,18000.0,Scripts\action_movies
+Action,The Shadow Strays,2h 24m,144.0,6.5,9100.0,Scripts\action_movies
+Action,Jackpot!,1h 46m,106.0,5.8,30000.0,Scripts\action_movies
+Action,Cash Out,1h 32m,92.0,4.8,2900.0,Scripts\action_movies
+Action,Weekend in Taipei,1h 40m,100.0,5.7,4500.0,Scripts\action_movies
+Action,The Silent Hour,1h 39m,99.0,6.1,7300.0,Scripts\action_movies
+Action,Duchess,1h 54m,114.0,4.6,1300.0,Scripts\action_movies
+Action,Watchmen: Chapter II,1h 30m,90.0,7.0,2900.0,Scripts\action_movies
+Action,Red Right Hand,1h 51m,111.0,5.5,5800.0,Scripts\action_movies
+Action,Chief of Station,1h 37m,97.0,4.7,4600.0,Scripts\action_movies
+Action,Fighter,2h 46m,166.0,6.2,52000.0,Scripts\action_movies
+Action,Boneyard,1h 36m,96.0,4.1,4900.0,Scripts\action_movies
+Action,Rogue Elements: A Ryan Drake Story,44m,44.0,4.7,946.0,Scripts\action_movies
+Action,Hitpig,1h 26m,86.0,5.1,905.0,Scripts\action_movies
+Action,Aavesham,2h 35m,155.0,7.8,28000.0,Scripts\action_movies
+Action,Karma,2h 47m,167.0,8.0,1400.0,Scripts\action_movies
+Action,Harbin,1h 48m,108.0,6.4,558.0,Scripts\action_movies
+Action,Baby Invasion,1h 20m,80.0,4.6,387.0,Scripts\action_movies
+Action,Uprising,2h 6m,126.0,6.6,5400.0,Scripts\action_movies
+Action,No Way Up,1h 30m,90.0,4.6,10000.0,Scripts\action_movies
+Action,Baby John,2h 39m,159.0,5.4,17000.0,Scripts\action_movies
+Action,Megamind vs. The Doom Syndicate,1h 23m,83.0,2.5,5500.0,Scripts\action_movies
+Action,Sikandar Ka Muqaddar,2h 22m,142.0,6.0,24000.0,Scripts\action_movies
+Action,The Fix,1h 38m,98.0,4.6,1200.0,Scripts\action_movies
+Action,River of Blood,1h 26m,86.0,5.3,1700.0,Scripts\action_movies
+Action,Black Heat,1h 33m,93.0,8.6,117.0,Scripts\action_movies
+Action,Viduthalai Part 2,2h 50m,170.0,7.9,16000.0,Scripts\action_movies
+Action,The Wages of Fear,1h 44m,104.0,4.6,4100.0,Scripts\action_movies
+Action,Damaged,1h 37m,97.0,4.7,7200.0,Scripts\action_movies
+Action,Devil's Knight,1h 30m,90.0,5.4,800.0,Scripts\action_movies
+Action,Dominique,1h 40m,100.0,5.3,2200.0,Scripts\action_movies
+Action,The Quiet Ones,1h 50m,110.0,6.4,652.0,Scripts\action_movies
+Action,Take Cover,1h 30m,90.0,5.1,2400.0,Scripts\action_movies
+Action,Overlord: The Sacred Kingdom,2h 15m,135.0,6.9,877.0,Scripts\action_movies
+Action,Operation Undead,1h 50m,110.0,4.6,394.0,Scripts\action_movies
+Action,Devara Part 1,2h 56m,176.0,6.0,20000.0,Scripts\action_movies
+Action,Role Play,1h 40m,100.0,5.5,19000.0,Scripts\action_movies
+Action,Justice League: Crisis on Infinite Earths - Part One,1h 33m,93.0,6.2,8400.0,Scripts\action_movies
+Action,Justice League: Crisis on Infinite Earths - Part Three,1h 34m,94.0,6.1,4400.0,Scripts\action_movies
+Action,Trouble,1h 38m,98.0,6.2,6700.0,Scripts\action_movies
+Action,Levels,1h 33m,93.0,5.0,1500.0,Scripts\action_movies
+Action,Prey,1h 26m,86.0,3.7,3300.0,Scripts\action_movies
+Action,Singham Again,2h 24m,144.0,4.8,75000.0,Scripts\action_movies
+Action,Bangkok Dog,1h 25m,85.0,5.0,148.0,Scripts\action_movies
+Action,Anaconda,1h 24m,84.0,4.8,622.0,Scripts\action_movies
+Action,Hagen,2h 19m,139.0,6.1,1200.0,Scripts\action_movies
+Action,The Thundermans Return,1h 10m,70.0,5.0,1800.0,Scripts\action_movies
+Action,Night Call,1h 37m,97.0,6.8,1900.0,Scripts\action_movies
+Action,My Spy: The Eternal City,1h 52m,112.0,5.7,11000.0,Scripts\action_movies
+Action,Dark Match,1h 34m,94.0,5.5,919.0,Scripts\action_movies
+Action,The Roundup: Punishment,1h 49m,109.0,6.6,5200.0,Scripts\action_movies
+Action,Hounds of War,1h 35m,95.0,4.5,1700.0,Scripts\action_movies
+Action,Hanu Man,2h 38m,158.0,7.7,29000.0,Scripts\action_movies
+Action,Rifle Club,1h 53m,113.0,7.0,4100.0,Scripts\action_movies
+Action,Jigra,2h 33m,153.0,6.0,23000.0,Scripts\action_movies
+Action,Mafia Wars,1h 34m,94.0,3.4,232.0,Scripts\action_movies
+Action,"I, the Executioner",1h 58m,118.0,6.3,1700.0,Scripts\action_movies
+Action,The Price of Money: A Largo Winch Adventure,1h 40m,100.0,5.0,1100.0,Scripts\action_movies
+Action,Badland Hunters,1h 47m,107.0,5.9,12000.0,Scripts\action_movies
+Action,Sunray: Fallen Soldier,1h 55m,115.0,4.3,622.0,Scripts\action_movies
+Action,Ultraman: Rising,1h 57m,117.0,6.9,6300.0,Scripts\action_movies
+Action,The Clean Up Crew,1h 35m,95.0,4.1,1100.0,Scripts\action_movies
+Action,Death Whisperer 2,1h 50m,110.0,6.4,1300.0,Scripts\action_movies
+Action,Bougainvillea,2h 18m,138.0,6.4,3100.0,Scripts\action_movies
+Action,Officer Black Belt,1h 48m,108.0,6.8,8100.0,Scripts\action_movies
+Action,Panda Plan,1h 39m,99.0,5.1,1200.0,Scripts\action_movies
+Action,Code 8: Part II,1h 40m,100.0,5.7,16000.0,Scripts\action_movies
+Action,Pani,2h 23m,143.0,6.9,2900.0,Scripts\action_movies
+Action,The Courier,1h 41m,101.0,6.0,4400.0,Scripts\action_movies
+Action,Joe Baby,1h 26m,86.0,7.6,29.0,Scripts\action_movies
+Action,Air Force One Down,1h 24m,84.0,4.4,2900.0,Scripts\action_movies
+Action,Cesium Fallout,2h 16m,136.0,6.6,559.0,Scripts\action_movies
+Action,11 Rebels,2h 35m,155.0,6.2,353.0,Scripts\action_movies
+Action,Rats!,1h 25m,85.0,6.5,114.0,Scripts\action_movies
+Action,A Legend,2h 9m,129.0,4.7,884.0,Scripts\action_movies
+Action,My Hero Academia: You're Next,1h 50m,110.0,7.0,2000.0,Scripts\action_movies
+Action,Cloud,2h 4m,124.0,6.3,1000.0,Scripts\action_movies
+Action,Vanvaas,2h 40m,160.0,6.6,1300.0,Scripts\action_movies
+Action,Kill Em All 2,1h 28m,88.0,4.1,1300.0,Scripts\action_movies
+Action,Dan Da Dan: First Encounter,1h 23m,83.0,8.2,2700.0,Scripts\action_movies
+Action,Article 370,2h 38m,158.0,7.8,25000.0,Scripts\action_movies
+Action,Darkness of Man,1h 49m,109.0,4.8,3100.0,Scripts\action_movies
+Action,200% Wolf,1h 38m,98.0,5.9,1300.0,Scripts\action_movies
+Action,Latency,1h 34m,94.0,4.2,2400.0,Scripts\action_movies
+Action,Elyas,1h 45m,105.0,6.1,1300.0,Scripts\action_movies
+Action,Operation Blood Hunt,1h 33m,93.0,3.4,477.0,Scripts\action_movies
+Action,The Tiger's Apprentice,1h 24m,84.0,5.7,2200.0,Scripts\action_movies
+Action,Life After Fighting,2h 6m,126.0,6.4,2000.0,Scripts\action_movies
+Action,Simarik,1h 51m,111.0,6.4,2500.0,Scripts\action_movies
+Action,Die Hart 2: Die Harter,1h 32m,92.0,4.3,5500.0,Scripts\action_movies
+Action,Raqa,1h 47m,107.0,5.7,174.0,Scripts\action_movies
+Action,Murder Company,1h 26m,86.0,3.7,1500.0,Scripts\action_movies
+Action,Lights Out,1h 30m,90.0,4.9,1800.0,Scripts\action_movies
+Action,Justice League: Crisis on Infinite Earths - Part Two,1h 34m,94.0,5.5,5300.0,Scripts\action_movies
+Action,Black Creek,1h 56m,116.0,8.6,7.0,Scripts\action_movies
+Action,City Hunter,1h 42m,102.0,6.3,5600.0,Scripts\action_movies
+Action,Snow White and the Seven Samurai,1h 28m,88.0,3.2,285.0,Scripts\action_movies
+Action,Hijack 1971,1h 40m,100.0,6.8,3300.0,Scripts\action_movies
+Action,Revolver,1h 54m,114.0,5.4,842.0,Scripts\action_movies
+Action,One Fast Move,1h 48m,108.0,5.0,2200.0,Scripts\action_movies
+Action,Sixty Minutes,1h 28m,88.0,5.7,5200.0,Scripts\action_movies
+Action,Khadaan,2h 17m,137.0,7.2,2100.0,Scripts\action_movies
+Action,Outlaw,1h 22m,82.0,5.2,922.0,Scripts\action_movies
+Action,Golden Kamuy,2h 7m,127.0,6.3,2500.0,Scripts\action_movies
+Action,Agent Recon,1h 25m,85.0,2.4,668.0,Scripts\action_movies
+Action,Freedom,1h 50m,110.0,5.9,1400.0,Scripts\action_movies
+Action,Agni,2h 2m,122.0,7.3,15000.0,Scripts\action_movies
+Action,Alien Country,1h 36m,96.0,4.4,361.0,Scripts\action_movies
+Action,Utopia,1h 31m,91.0,3.6,357.0,Scripts\action_movies
+Action,Angels Fallen: Warriors of Peace,1h 43m,103.0,4.9,5800.0,Scripts\action_movies
+Action,How to Rob a Bank,1h 28m,88.0,6.6,4200.0,Scripts\action_movies
+Action,Arena Wars,1h 36m,96.0,4.9,2000.0,Scripts\action_movies
+Action,The Twisters,1h 26m,86.0,2.6,325.0,Scripts\action_movies
+Action,The Last Kumite,1h 45m,105.0,4.6,2300.0,Scripts\action_movies
+Action,Wynonna Earp: Vengeance,1h 36m,96.0,5.5,1500.0,Scripts\action_movies
+Action,Jacob Tyler,2h 13m,133.0,4.3,55.0,Scripts\action_movies
+Action,Hellhound,1h 43m,103.0,4.3,502.0,Scripts\action_movies
+Action,Handsome Guys,1h 41m,101.0,6.5,801.0,Scripts\action_movies
+Action,Zero,1h 28m,88.0,6.1,41.0,Scripts\action_movies
+Action,Fight Another Day,1h 37m,97.0,4.9,345.0,Scripts\action_movies
+Action,Wanted Man,1h 25m,85.0,4.8,2600.0,Scripts\action_movies
+Action,Paradox Effect,1h 27m,87.0,6.0,8600.0,Scripts\action_movies
+Action,Heart of the Hunter,1h 45m,105.0,4.7,2100.0,Scripts\action_movies
+Action,Continental Split,1h 28m,88.0,3.5,544.0,Scripts\action_movies
+Action,Tales Beyond the Galaxy,1h 16m,76.0,4.8,171.0,Scripts\action_movies
+Action,Vettaiyan,2h 43m,163.0,7.0,39000.0,Scripts\action_movies
+Action,Nice Girls,1h 32m,92.0,4.2,1200.0,Scripts\action_movies
+Action,72 Hours,1h 27m,87.0,4.1,285.0,Scripts\action_movies
+Action,Striking Rescue,1h 46m,106.0,5.6,382.0,Scripts\action_movies
+Action,Saripodhaa Sanivaaram,2h 46m,166.0,7.0,9000.0,Scripts\action_movies
+Action,Sorgavaasal,2h 18m,138.0,6.6,1300.0,Scripts\action_movies
+Action,Alien: Rubicon,1h 26m,86.0,2.4,336.0,Scripts\action_movies
+Action,Agents,1h 22m,82.0,3.4,924.0,Scripts\action_movies
+Action,Troubleshooters,1h 50m,110.0,6.7,409.0,Scripts\action_movies
+Action,Bade Miyan Chote Miyan,2h 43m,163.0,3.7,39000.0,Scripts\action_movies
+Action,Demon Slayer: Kimetsu No Yaiba - To the Hashira Training,1h 44m,104.0,7.1,8400.0,Scripts\action_movies
+Action,London Calling,1h 49m,109.0,7.8,20.0,Scripts\action_movies
+Action,The Hangman,1h 32m,92.0,3.3,997.0,Scripts\action_movies
+Action,Terminator: Skynet Rising,1h 28m,88.0,6.8,263.0,Scripts\action_movies
+Action,Roadkill,1h 30m,90.0,3.7,677.0,Scripts\action_movies
+Action,Max,2h 12m,132.0,7.1,3300.0,Scripts\action_movies
+Action,WWII: Operation Phoenix,1h 46m,106.0,6.2,71.0,Scripts\action_movies
+Action,Escape,1h 34m,94.0,6.4,2000.0,Scripts\action_movies
+Action,Ferry 2,1h 34m,94.0,5.6,3700.0,Scripts\action_movies
+Action,No Time to Spy: A Loud House Movie,1h 21m,81.0,6.4,444.0,Scripts\action_movies
+Action,War of the Worlds: Extinction,1h 24m,84.0,3.1,200.0,Scripts\action_movies
+Action,Murder at Hollow Creek,1h 24m,,4.1,82.0,Scripts\action_movies
+Action,Savi,2h 6m,126.0,6.2,35000.0,Scripts\action_movies
+Action,Chandu Champion,2h 22m,142.0,7.8,34000.0,Scripts\action_movies
+Action,The Family Star,2h 39m,159.0,5.4,5400.0,Scripts\action_movies
+Action,40 Acres,1h 53m,113.0,6.8,127.0,Scripts\action_movies
+Action,Drive Back,1h 34m,94.0,4.7,298.0,Scripts\action_movies
+Action,12 to Midnight,1h 36m,96.0,3.6,283.0,Scripts\action_movies
+Action,Raayan,2h 25m,145.0,6.5,11000.0,Scripts\action_movies
+Action,A.R.M,2h 30m,150.0,7.1,8600.0,Scripts\action_movies
+Action,The Last Front,1h 38m,98.0,5.5,607.0,Scripts\action_movies
+Action,Escape from the 21st Century,1h 38m,98.0,6.5,855.0,Scripts\action_movies
+Action,The Lockdown,1h 57m,117.0,4.3,603.0,Scripts\action_movies
+Action,"Love, Courage and the Battle of Bushy Run",1h 53m,113.0,4.9,179.0,Scripts\action_movies
+Action,GTMax,1h 40m,100.0,5.0,1200.0,Scripts\action_movies
+Action,The Greatest of All Time,3h 3m,183.0,5.7,22000.0,Scripts\action_movies
+Action,Stuntman,1h 54m,114.0,7.0,161.0,Scripts\action_movies
+Action,Bionic,1h 50m,110.0,4.3,1700.0,Scripts\action_movies
+Action,Thangalaan,2h 36m,156.0,6.6,6600.0,Scripts\action_movies
+Action,Purushothamudu,2h,120.0,5.1,2200.0,Scripts\action_movies
+Action,Kanguva,2h 32m,152.0,4.5,15000.0,Scripts\action_movies
+Action,Get Fast,1h 28m,88.0,3.6,448.0,Scripts\action_movies
+Action,Baby Assassins: Nice Days,1h 43m,103.0,7.3,290.0,Scripts\action_movies
+Action,The Lost Tiger,1h 30m,90.0,7.8,44.0,Scripts\action_movies
+Action,Vedaa,2h 25m,145.0,6.0,4300.0,Scripts\action_movies
+Action,Big Rage,1h 55m,115.0,3.6,163.0,Scripts\action_movies
+Action,Bagheera,2h 38m,158.0,6.7,7300.0,Scripts\action_movies
+Action,KA,2h 31m,151.0,7.2,1500.0,Scripts\action_movies
+Action,The Ballad of Davy Crockett,1h 36m,96.0,4.6,246.0,Scripts\action_movies
+Action,The Last Ronin,1h 55m,115.0,4.8,566.0,Scripts\action_movies
+Action,Ryan's World the Movie: Titan Universe Adventure,1h 20m,80.0,1.8,681.0,Scripts\action_movies
+Action,Spiders on a Plane,1h 18m,78.0,5.2,371.0,Scripts\action_movies
+Action,Exorcism Chronicles: The Beginning,1h 25m,85.0,7.2,96.0,Scripts\action_movies
+Action,Indian 2,1h 25m,,3.8,16000.0,Scripts\action_movies
+Action,Invasion,1h 31m,91.0,4.8,671.0,Scripts\action_movies
+Action,Yodha,2h 10m,130.0,5.7,8800.0,Scripts\action_movies
+Action,Ghosts of Red Ridge,1h 21m,81.0,3.3,154.0,Scripts\action_movies
+Action,Alienoid: The Return to the Future,2h 2m,122.0,6.5,2600.0,Scripts\action_movies
+Action,Yolo,2h 9m,129.0,6.9,3700.0,Scripts\action_movies
+Action,Everybody Loves Jenifa,2h 15m,135.0,8.3,82.0,Scripts\action_movies
+Action,Pimpinero: Blood and Oil,2h 1m,121.0,5.6,544.0,Scripts\action_movies
+Action,The Friendly,1h 41m,101.0,8.1,15.0,Scripts\action_movies
+Action,Ka Whawhai Tonu,1h 55m,115.0,7.4,176.0,Scripts\action_movies
+Action,Razakar: The Silent Genocide of Hyderabad,2h 46m,166.0,7.4,5300.0,Scripts\action_movies
+Action,Guntur Kaaram,2h 39m,159.0,5.4,25000.0,Scripts\action_movies
+Action,Tillu Square,2h 17m,137.0,6.6,3400.0,Scripts\action_movies
+Action,Sons of Rizk 3,2h 5m,125.0,6.7,1700.0,Scripts\action_movies
+Action,UI,2h 15m,135.0,6.9,5700.0,Scripts\action_movies
+Action,The Last of Us: Immunity,1h 4m,64.0,5.8,14.0,Scripts\action_movies
+Action,Mission: Cross,1h 45m,105.0,6.1,2600.0,Scripts\action_movies
+Action,Don't Mess with Grandma,1h 21m,81.0,6.0,151.0,Scripts\action_movies
+Action,Hunting with Tigers,1h 49m,109.0,5.6,521.0,Scripts\action_movies
+Action,Kingdom 4: Return of the Great General,2h 25m,145.0,7.1,1300.0,Scripts\action_movies
+Action,Ayalaan,2h 35m,155.0,6.0,4000.0,Scripts\action_movies
+Action,The Moon Thieves,1h 48m,108.0,6.1,242.0,Scripts\action_movies
+Action,Game of Death - The six Doors to Hell,1h 48m,,,,Scripts\action_movies
+Action,Mura,2h 9m,129.0,7.3,6200.0,Scripts\action_movies
+Action,The Charisma Killers,1h 41m,101.0,6.2,653.0,Scripts\action_movies
+Action,Customs Frontline,1h 55m,115.0,5.4,477.0,Scripts\action_movies
+Action,Citizen of a Kind,1h 54m,114.0,6.7,792.0,Scripts\action_movies
+Action,Auron Mein Kahan Dum Tha,2h 30m,150.0,6.6,41000.0,Scripts\action_movies
+Action,Barroz: Guardian of Treasures,2h 35m,155.0,3.5,988.0,Scripts\action_movies
+Action,Bureau 749,2h 3m,123.0,4.1,519.0,Scripts\action_movies
+Action,Eagle,2h 39m,159.0,5.9,4900.0,Scripts\action_movies
+Action,Je Jatt Vigarh Gya,2h 12m,132.0,5.7,821.0,Scripts\action_movies
+Action,The Plot,1h 40m,100.0,4.8,375.0,Scripts\action_movies
+Action,School of Magical Animals 3,1h 45m,105.0,5.9,307.0,Scripts\action_movies
+Action,Cassino in Ischia,1h 53m,113.0,4.4,239.0,Scripts\action_movies
+Action,Snatched,1h 41m,101.0,4.9,209.0,Scripts\action_movies
+Action,Hunt the Wicked,1h 42m,102.0,5.3,109.0,Scripts\action_movies
+Action,Deaner '89,1h 30m,90.0,5.9,416.0,Scripts\action_movies
+Action,Cells at Work!,1h 49m,109.0,6.8,191.0,Scripts\action_movies
+Action,Lady Scorpions,1h 41m,101.0,3.6,366.0,Scripts\action_movies
+Action,Kondal,2h 27m,147.0,5.4,766.0,Scripts\action_movies
+Action,Sabari,2h 9m,129.0,8.4,5400.0,Scripts\action_movies
+Action,The Unbreakable Bunch,R,0.0,7.2,26.0,Scripts\action_movies
+Action,Sasan,2h 35m,155.0,8.6,67.0,Scripts\action_movies
+Action,The Actor,2h 8m,128.0,3.3,725.0,Scripts\action_movies
+Action,Taken from Rio Bravo,1h 20m,80.0,3.0,311.0,Scripts\action_movies
+Action,I Am What I Am 2,2h 14m,134.0,7.5,199.0,Scripts\action_movies
+Action,Crakk: Jeetega... Toh Jiyegaa,2h 34m,154.0,4.7,6500.0,Scripts\action_movies
+Action,Son's Will,2h 34m,,7.4,843.0,Scripts\action_movies
+Action,Shark Warning,1h 34m,94.0,3.4,261.0,Scripts\action_movies
+Action,Crisis Negotiators,2h,120.0,6.7,706.0,Scripts\action_movies
+Action,Garudan,2h 13m,133.0,7.1,3300.0,Scripts\action_movies
+Action,First Nights at Freddy's,1h 38m,98.0,9.3,15.0,Scripts\action_movies
+Action,Martin,2h 27m,147.0,2.3,36000.0,Scripts\action_movies
+Action,Yudhra,2h 22m,142.0,5.0,13000.0,Scripts\action_movies
+Action,Non Negotiable,1h 27m,87.0,5.4,1200.0,Scripts\action_movies
+Action,Dharmarakshak Mahaveer Chhatrapati Sambhaji Maharaj,2h 54m,174.0,8.2,655.0,Scripts\action_movies
+Action,(Pri)sons,1h 40m,100.0,5.1,267.0,Scripts\action_movies
+Action,Sheriff,2h 13m,133.0,6.9,1100.0,Scripts\action_movies
+Action,Baki Hanma VS Kengan Ashura,1h 2m,62.0,5.7,1900.0,Scripts\action_movies
+Action,I Heart Robots,1h 16m,76.0,4.6,2400.0,Scripts\action_movies
+Action,Team of Two,1h 16m,,5.0,108.0,Scripts\action_movies
+Action,The Firefighters,1h 46m,106.0,5.7,177.0,Scripts\action_movies
+Action,Rajakili,2h 2m,122.0,7.4,569.0,Scripts\action_movies
+Action,Operation Hope,2h 2m,,7.0,22.0,Scripts\action_movies
+Action,The Day Everything Changed,1h 37m,97.0,7.9,79.0,Scripts\action_movies
+Action,Young Lion of the West,1h 33m,93.0,5.2,108.0,Scripts\action_movies
+Action,American Underdog,1h 29m,89.0,8.8,23.0,Scripts\action_movies
+Action,Art of Eight Limbs,1h 41m,101.0,3.9,309.0,Scripts\action_movies
+Action,Alangu,2h 11m,131.0,8.2,1200.0,Scripts\action_movies
+Action,Lal Salaam,2h 30m,150.0,4.5,1300.0,Scripts\action_movies
+Action,Kahar: Kapla High Council,1h 42m,102.0,6.9,449.0,Scripts\action_movies
+Action,Echo 8,1h 36m,96.0,3.9,187.0,Scripts\action_movies
+Action,The Bouncer,1h 18m,78.0,4.2,84.0,Scripts\action_movies
+Action,Reapers,1h 18m,,8.7,573.0,Scripts\action_movies
+Action,Diabel,1h 48m,108.0,5.1,237.0,Scripts\action_movies
+Action,Aho Vikramaarka,2h 16m,136.0,7.4,53.0,Scripts\action_movies
+Action,Crosspoint,1h 40m,100.0,6.8,39.0,Scripts\action_movies
+Action,S.T.A.L.K.E.R.: Shadow of the Zone,1h 12m,72.0,5.2,452.0,Scripts\action_movies
+Action,Operation Valentine,2h 13m,133.0,5.3,1400.0,Scripts\action_movies
+Action,Mummy Shark,1h 6m,66.0,2.0,176.0,Scripts\action_movies
+Action,Pusaka,1h 30m,90.0,6.5,34.0,Scripts\action_movies
+Action,Mobile Suit Gundam SEED Freedom,2h 4m,124.0,6.6,944.0,Scripts\action_movies
+Action,Jathara,2h 9m,129.0,6.4,1100.0,Scripts\action_movies
+Action,What Happens in Miami,1h 30m,90.0,4.3,219.0,Scripts\action_movies
+Action,Paradise,1h 23m,83.0,6.9,77.0,Scripts\action_movies
+Action,Mongol,2h 35m,155.0,8.7,93.0,Scripts\action_movies
+Action,Shark Island,1h 21m,81.0,4.0,114.0,Scripts\action_movies
+Action,Aserb: The Squadron,2h,120.0,5.2,304.0,Scripts\action_movies
+Action,Clone Cops,1h 36m,96.0,8.0,191.0,Scripts\action_movies
+Action,The Traveller,2h 14m,134.0,5.2,207.0,Scripts\action_movies
+Action,The Wolf,2h 14m,,3.5,35.0,Scripts\action_movies
+Action,The Grey Men,1h 37m,97.0,6.4,70.0,Scripts\action_movies
+Action,Checkmate,1h 44m,104.0,4.3,385.0,Scripts\action_movies
+Action,Bloodline,1h 20m,80.0,9.2,49.0,Scripts\action_movies
+Action,Six jours,1h 35m,95.0,6.4,100.0,Scripts\action_movies
+Action,The Wild Blade of Strangers,1h 42m,102.0,6.2,113.0,Scripts\action_movies
+Action,Sector 17,2h 26m,146.0,5.4,1300.0,Scripts\action_movies
+Action,Correr para Vivir,1h 37m,97.0,7.0,195.0,Scripts\action_movies
+Action,Witch Hunter,1h 20m,80.0,5.2,23.0,Scripts\action_movies
+Action,Agastya - Chapter 1,2h 48m,168.0,6.9,597.0,Scripts\action_movies
+Action,Yuva,2h 33m,153.0,5.8,834.0,Scripts\action_movies
+Action,Bad Boyz,2h 30m,150.0,4.6,606.0,Scripts\action_movies
+Action,Captain Miller,2h 37m,157.0,6.5,8600.0,Scripts\action_movies
+Action,Saindhav,2h 18m,138.0,5.0,1600.0,Scripts\action_movies
+Action,Naam,2h 16m,136.0,6.3,277.0,Scripts\action_movies
+Action,Ship of the Damned,1h 28m,88.0,2.8,295.0,Scripts\action_movies
+Action,Warrior Awang and Master Tok Gajah,1h 58m,118.0,4.6,472.0,Scripts\action_movies
+Action,Next to Us,2h 5m,125.0,4.9,221.0,Scripts\action_movies
+Action,Love You to Debt,2h 15m,135.0,6.2,754.0,Scripts\action_movies
+Action,Bachhala Malli,2h 20m,140.0,8.3,3900.0,Scripts\action_movies
+Action,Mathu Vadalara 2,2h 19m,139.0,7.0,1600.0,Scripts\action_movies
+Action,Conquer: Lahad Datu,2h,120.0,6.7,504.0,Scripts\action_movies
+Action,Iddaru,2h 28m,148.0,8.8,296.0,Scripts\action_movies
+Action,Ape X Mecha Ape: New World Order,1h 27m,87.0,2.8,134.0,Scripts\action_movies
+Action,Zebra,2h 44m,164.0,8.0,3200.0,Scripts\action_movies
+Action,Buying Time,1h 24m,84.0,5.5,280.0,Scripts\action_movies
+Action,Iron Fighter,1h 20m,80.0,3.6,62.0,Scripts\action_movies
+Action,Mazhai Pidikatha Manithan,2h 13m,133.0,4.5,423.0,Scripts\action_movies
+Action,Dirty Money,1h 40m,100.0,5.6,113.0,Scripts\action_movies
+Action,24 Hours to D-Day,1h 23m,83.0,4.6,36.0,Scripts\action_movies
+Action,The Infallibles,1h 39m,99.0,4.8,751.0,Scripts\action_movies
+Action,The Kingdom,2h 13m,133.0,7.9,88.0,Scripts\action_movies
+Action,Sucha Soorma,2h 16m,136.0,6.4,916.0,Scripts\action_movies
+Action,Devaki Nandana Vasudeva,2h 8m,128.0,8.8,2700.0,Scripts\action_movies
+Action,Shekko,2h,120.0,6.0,554.0,Scripts\action_movies
+Action,Ballistic,1h 35m,95.0,2.3,161.0,Scripts\action_movies
+Action,Sikaar,2h 30m,150.0,8.3,677.0,Scripts\action_movies
+Action,Hakkenden,2h 29m,149.0,5.7,74.0,Scripts\action_movies
+Action,High Forces,1h 59m,119.0,5.7,521.0,Scripts\action_movies
+Action,Clownface 3,1h 44m,104.0,9.5,35.0,Scripts\action_movies
+Action,Taklee Genesis x Worlds Collide,2h 26m,146.0,5.4,401.0,Scripts\action_movies
+Action,Rang De Basanti,2h 54m,174.0,8.8,144.0,Scripts\action_movies
+Action,The Experts,2h 1m,121.0,6.2,264.0,Scripts\action_movies
+Action,The Artifact,1h 48m,108.0,,,Scripts\action_movies
+Action,Sunfall,1h 14m,74.0,2.3,36.0,Scripts\action_movies
+Action,Camp Blood: Clown Shark,1h 10m,70.0,3.3,86.0,Scripts\action_movies
+Action,Memes & Nightmares,1h 21m,81.0,5.7,84.0,Scripts\action_movies
+Action,6 Hours Away,1h 33m,93.0,3.9,242.0,Scripts\action_movies
+Action,Turbo,2h 35m,155.0,5.9,3600.0,Scripts\action_movies
+Action,Mister Gates,2h 35m,,8.8,28.0,Scripts\action_movies
+Action,Rode College,2h 48m,168.0,6.6,424.0,Scripts\action_movies
+Action,Malayalee from India,2h 40m,160.0,5.6,5000.0,Scripts\action_movies
+Action,Siren,2h 34m,154.0,6.4,2900.0,Scripts\action_movies
+Action,Kung Fu Games,1h 38m,98.0,3.3,377.0,Scripts\action_movies
+Action,Onsen shâku,1h 10m,70.0,5.9,28.0,Scripts\action_movies
+Action,Premalo,2h 8m,128.0,7.3,1100.0,Scripts\action_movies
+Action,Eye for an Eye 2,1h 30m,90.0,6.6,498.0,Scripts\action_movies
+Action,Ghost Killer,1h 45m,105.0,7.1,63.0,Scripts\action_movies
+Action,Kuang Bao Ju Xi,1h 15m,75.0,6.0,71.0,Scripts\action_movies
+Action,Kizumonogatari: Koyomi Vamp,2h 24m,144.0,7.0,87.0,Scripts\action_movies
+Action,The Epidemic,1h 35m,95.0,5.8,69.0,Scripts\action_movies
+Action,Big City Greens the Movie: Spacecation,1h 23m,83.0,6.2,538.0,Scripts\action_movies
+Action,Texas Twister,1h 28m,88.0,2.5,157.0,Scripts\action_movies
+Action,Cholo Zombies,1h 36m,96.0,4.7,102.0,Scripts\action_movies
+Action,Road Wars: Max Fury,1h 23m,83.0,2.0,350.0,Scripts\action_movies
+Action,Mr. Bachchan,2h 30m,150.0,3.6,5300.0,Scripts\action_movies
+Action,Gandhi 3,2h 23m,143.0,5.5,237.0,Scripts\action_movies
+Action,The Avenger,2h 23m,,4.2,5.0,Scripts\action_movies
+Action,Breaking and Re-entering,1h 49m,109.0,5.8,440.0,Scripts\action_movies
+Action,Shu Si Yi Bo,1h 31m,91.0,6.6,32.0,Scripts\action_movies
+Action,My Fathers' Daughter,1h 18m,78.0,6.7,74.0,Scripts\action_movies
+Action,Stranded Pearl,1h 30m,90.0,6.0,27.0,Scripts\action_movies
+Action,Prepare to Die,1h 33m,93.0,4.6,232.0,Scripts\action_movies
+Action,The Legend Hunters,1h 33m,,5.4,30.0,Scripts\action_movies
+Action,Bhairadevi,2h 14m,134.0,8.9,46.0,Scripts\action_movies
+Action,Bhaiyya Ji,2h 30m,150.0,4.8,7400.0,Scripts\action_movies
+Action,Ameena,1h 47m,107.0,6.4,19.0,Scripts\action_movies
+Action,Mission: Chapter 1,2h 24m,144.0,5.9,1700.0,Scripts\action_movies
+Action,The Miranda Brothers,1h 39m,99.0,4.4,189.0,Scripts\action_movies
+Action,How to Make a Werewolf,16+,0.0,5.9,138.0,Scripts\action_movies
+Action,Game On,2h 20m,140.0,5.3,2300.0,Scripts\action_movies
+Action,SCP: The Infinite Mission,16+,0.0,6.0,32.0,Scripts\action_movies
+Action,The Heist,2h,120.0,6.9,2000.0,Scripts\action_movies
+Action,The Mick and the Trick,1h 36m,96.0,5.0,75.0,Scripts\action_movies
+Action,Where Is Gilgamesh?,1h 30m,90.0,9.0,605.0,Scripts\action_movies
+Action,Anchakkallakokkan,2h 6m,126.0,6.6,1000.0,Scripts\action_movies
+Action,Slide or Die the Movie,2h 7m,127.0,,,Scripts\action_movies
+Action,Bastar: The Naxal Story,2h 4m,124.0,6.4,3300.0,Scripts\action_movies
+Action,My Redneck Neighbor: Chapter 2 - Let the Games Begin,55m,55.0,,,Scripts\action_movies
+Action,Buddy,2h 17m,137.0,3.9,342.0,Scripts\action_movies
+Action,In Tenebras: Into the Darkness,1h 30m,90.0,3.3,173.0,Scripts\action_movies
+Action,Blocking the Horse,1h 34m,94.0,6.5,12.0,Scripts\action_movies
+Action,Tòkunbò,1h 53m,113.0,3.9,294.0,Scripts\action_movies
+Action,They Call Her Death,1h 32m,92.0,6.6,26.0,Scripts\action_movies
+Action,Panjab Files,1h 57m,117.0,8.1,19.0,Scripts\action_movies
+Action,Kill Craft,1h 39m,99.0,2.3,363.0,Scripts\action_movies
+Action,The Omicron Killer,1h 38m,98.0,2.9,594.0,Scripts\action_movies
+Action,Samandar,2h 52m,172.0,7.7,138.0,Scripts\action_movies
+Action,Nu Huo 12 Xiao Shi,1h 26m,86.0,6.0,47.0,Scripts\action_movies
+Action,Own Kind,1h 26m,,,,Scripts\action_movies
+Action,Double Ismart,2h 36m,156.0,2.9,2100.0,Scripts\action_movies
+Action,Day Off,2h 36m,,3.7,11.0,Scripts\action_movies
+Adventure,Mufasa: The Lion King,1h 58m,118.0,6.6,58000.0,Scripts\adventure_movies
+Adventure,Moana 2,1h 40m,100.0,6.6,98000.0,Scripts\adventure_movies
+Adventure,Flow,1h 25m,85.0,7.9,69000.0,Scripts\adventure_movies
+Adventure,Gladiator II,2h 28m,148.0,6.5,224000.0,Scripts\adventure_movies
+Adventure,Twisters,2h 2m,122.0,6.5,165000.0,Scripts\adventure_movies
+Adventure,Sonic the Hedgehog 3,1h 50m,110.0,6.9,56000.0,Scripts\adventure_movies
+Adventure,Venom: The Last Dance,1h 50m,110.0,6.0,114000.0,Scripts\adventure_movies
+Adventure,Deadpool & Wolverine,2h 8m,128.0,7.6,487000.0,Scripts\adventure_movies
+Adventure,Dune: Part Two,2h 46m,166.0,8.5,620000.0,Scripts\adventure_movies
+Adventure,Freaky Tales,1h 46m,106.0,7.1,732.0,Scripts\adventure_movies
+Adventure,The Day the Earth Blew Up: A Looney Tunes Movie,1h 31m,91.0,7.0,3600.0,Scripts\adventure_movies
+Adventure,Furiosa: A Mad Max Saga,2h 28m,148.0,7.5,283000.0,Scripts\adventure_movies
+Adventure,Solo Leveling: ReAwakening,2h 1m,121.0,8.9,11000.0,Scripts\adventure_movies
+Adventure,Borderlands,1h 41m,101.0,4.7,47000.0,Scripts\adventure_movies
+Adventure,Paddington in Peru,1h 46m,106.0,6.7,19000.0,Scripts\adventure_movies
+Adventure,The Count of Monte-Cristo,2h 58m,178.0,7.6,33000.0,Scripts\adventure_movies
+Adventure,Despicable Me 4,1h 34m,94.0,6.2,64000.0,Scripts\adventure_movies
+Adventure,Transformers One,1h 44m,104.0,7.6,49000.0,Scripts\adventure_movies
+Adventure,The Lord of the Rings: The War of the Rohirrim,2h 14m,134.0,6.3,29000.0,Scripts\adventure_movies
+Adventure,Inside Out 2,1h 36m,96.0,7.5,215000.0,Scripts\adventure_movies
+Adventure,The Return,1h 56m,116.0,6.2,8000.0,Scripts\adventure_movies
+Adventure,Madame Web,1h 56m,116.0,4.0,100000.0,Scripts\adventure_movies
+Adventure,Bad Boys: Ride or Die,1h 55m,115.0,6.5,99000.0,Scripts\adventure_movies
+Adventure,Kingdom of the Planet of the Apes,2h 25m,145.0,6.9,151000.0,Scripts\adventure_movies
+Adventure,Godzilla x Kong: The New Empire,1h 55m,115.0,6.0,121000.0,Scripts\adventure_movies
+Adventure,Ghostbusters: Frozen Empire,1h 55m,115.0,6.1,93000.0,Scripts\adventure_movies
+Adventure,Damsel,1h 50m,110.0,6.1,109000.0,Scripts\adventure_movies
+Adventure,Red One,2h 3m,123.0,6.3,139000.0,Scripts\adventure_movies
+Adventure,Love Lies Bleeding,1h 44m,104.0,6.6,56000.0,Scripts\adventure_movies
+Adventure,Spaceman,1h 47m,107.0,5.7,43000.0,Scripts\adventure_movies
+Adventure,Uglies,1h 40m,100.0,4.7,32000.0,Scripts\adventure_movies
+Adventure,Kung Fu Panda 4,1h 34m,94.0,6.3,67000.0,Scripts\adventure_movies
+Adventure,Attack on Titan the Movie: The Last Attack,2h 25m,145.0,9.2,15000.0,Scripts\adventure_movies
+Adventure,Survive,1h 30m,90.0,4.6,2300.0,Scripts\adventure_movies
+Adventure,The Garfield Movie,1h 41m,101.0,5.7,24000.0,Scripts\adventure_movies
+Adventure,Spellbound,1h 49m,109.0,5.6,7200.0,Scripts\adventure_movies
+Adventure,Harold and the Purple Crayon,1h 30m,90.0,5.7,8200.0,Scripts\adventure_movies
+Adventure,Wallace & Gromit: Vengeance Most Fowl,1h 22m,82.0,7.5,34000.0,Scripts\adventure_movies
+Adventure,Night of the Zoopocalypse,1h 31m,91.0,6.1,487.0,Scripts\adventure_movies
+Adventure,Atlas,1h 58m,118.0,5.6,56000.0,Scripts\adventure_movies
+Adventure,Rebel Moon - Part Two: The Scargiver,2h 2m,122.0,5.3,59000.0,Scripts\adventure_movies
+Adventure,Descendants: The Rise of Red,1h 31m,91.0,4.7,7000.0,Scripts\adventure_movies
+Adventure,Kalki 2898 AD,3h,180.0,7.0,66000.0,Scripts\adventure_movies
+Adventure,Arthur the King,1h 47m,107.0,7.0,34000.0,Scripts\adventure_movies
+Adventure,The Unholy Trinity,1h 33m,93.0,7.9,49.0,Scripts\adventure_movies
+Adventure,Monster Summer,1h 37m,97.0,5.7,3600.0,Scripts\adventure_movies
+Adventure,My Penguin Friend,1h 37m,97.0,6.7,4900.0,Scripts\adventure_movies
+Adventure,Winner,1h 43m,103.0,6.5,2400.0,Scripts\adventure_movies
+Adventure,Hitpig,1h 26m,86.0,5.1,905.0,Scripts\adventure_movies
+Adventure,Thelma the Unicorn,1h 33m,93.0,5.7,2900.0,Scripts\adventure_movies
+Adventure,No Way Up,1h 30m,90.0,4.6,10000.0,Scripts\adventure_movies
+Adventure,Megamind vs. The Doom Syndicate,1h 23m,83.0,2.5,5500.0,Scripts\adventure_movies
+Adventure,The Goat Life,2h 53m,173.0,7.1,47000.0,Scripts\adventure_movies
+Adventure,Family Pack,1h 34m,94.0,5.5,8900.0,Scripts\adventure_movies
+Adventure,River of Blood,1h 26m,86.0,5.3,1700.0,Scripts\adventure_movies
+Adventure,The Best Christmas Pageant Ever,1h 39m,99.0,6.8,6100.0,Scripts\adventure_movies
+Adventure,The Wages of Fear,1h 44m,104.0,4.6,4100.0,Scripts\adventure_movies
+Adventure,Orion and the Dark,1h 33m,93.0,6.3,17000.0,Scripts\adventure_movies
+Adventure,Dongeng Sang Kancil,1h 39m,99.0,6.8,150.0,Scripts\adventure_movies
+Adventure,Devil's Knight,1h 30m,90.0,5.4,800.0,Scripts\adventure_movies
+Adventure,Sasquatch Sunset,1h 28m,88.0,5.4,5400.0,Scripts\adventure_movies
+Adventure,Overlord: The Sacred Kingdom,2h 15m,135.0,6.9,877.0,Scripts\adventure_movies
+Adventure,Lost on a Mountain in Maine,1h 38m,98.0,6.1,1200.0,Scripts\adventure_movies
+Adventure,Justice League: Crisis on Infinite Earths - Part One,1h 33m,93.0,6.2,8400.0,Scripts\adventure_movies
+Adventure,Justice League: Crisis on Infinite Earths - Part Three,1h 34m,94.0,6.1,4400.0,Scripts\adventure_movies
+Adventure,Bookworm,1h 43m,103.0,6.0,1800.0,Scripts\adventure_movies
+Adventure,Anaconda,1h 24m,84.0,4.8,622.0,Scripts\adventure_movies
+Adventure,Chuck Billy and the Marvelous Guava Tree,1h 30m,90.0,7.5,910.0,Scripts\adventure_movies
+Adventure,Something in the Water,1h 26m,86.0,4.1,4600.0,Scripts\adventure_movies
+Adventure,Hanu Man,2h 38m,158.0,7.7,29000.0,Scripts\adventure_movies
+Adventure,Buffalo Kids,1h 33m,93.0,6.6,666.0,Scripts\adventure_movies
+Adventure,"I, the Executioner",1h 58m,118.0,6.3,1700.0,Scripts\adventure_movies
+Adventure,Saving Bikini Bottom: The Sandy Cheeks Movie,1h 22m,82.0,3.7,3800.0,Scripts\adventure_movies
+Adventure,The Price of Money: A Largo Winch Adventure,1h 40m,100.0,5.0,1100.0,Scripts\adventure_movies
+Adventure,Badland Hunters,1h 47m,107.0,5.9,12000.0,Scripts\adventure_movies
+Adventure,The Empire,1h 50m,110.0,5.2,1200.0,Scripts\adventure_movies
+Adventure,Ultraman: Rising,1h 57m,117.0,6.9,6300.0,Scripts\adventure_movies
+Adventure,The Courier,1h 41m,101.0,6.0,4400.0,Scripts\adventure_movies
+Adventure,Autumn and the Black Jaguar,1h 40m,100.0,5.6,989.0,Scripts\adventure_movies
+Adventure,A Legend,2h 9m,129.0,4.7,884.0,Scripts\adventure_movies
+Adventure,My Hero Academia: You're Next,1h 50m,110.0,7.0,2000.0,Scripts\adventure_movies
+Adventure,That Christmas,1h 31m,91.0,6.8,17000.0,Scripts\adventure_movies
+Adventure,Manjummel Boys,2h 15m,135.0,8.2,27000.0,Scripts\adventure_movies
+Adventure,Saint-Exupéry,1h 38m,98.0,5.5,252.0,Scripts\adventure_movies
+Adventure,200% Wolf,1h 38m,98.0,5.9,1300.0,Scripts\adventure_movies
+Adventure,Operation Blood Hunt,1h 33m,93.0,3.4,477.0,Scripts\adventure_movies
+Adventure,Woody Woodpecker Goes to Camp,1h 40m,100.0,4.5,2500.0,Scripts\adventure_movies
+Adventure,The Tiger's Apprentice,1h 24m,84.0,5.7,2200.0,Scripts\adventure_movies
+Adventure,Cult Killer,1h 45m,105.0,4.8,2800.0,Scripts\adventure_movies
+Adventure,Raqa,1h 47m,107.0,5.7,174.0,Scripts\adventure_movies
+Adventure,Justice League: Crisis on Infinite Earths - Part Two,1h 34m,94.0,5.5,5300.0,Scripts\adventure_movies
+Adventure,Sixty Minutes,1h 28m,88.0,5.7,5200.0,Scripts\adventure_movies
+Adventure,Golden Kamuy,2h 7m,127.0,6.3,2500.0,Scripts\adventure_movies
+Adventure,One Million Babes BC,1h 15m,75.0,2.2,78.0,Scripts\adventure_movies
+Adventure,Doraemon the Movie: Nobita's Earth Symphony,1h 55m,115.0,6.6,1500.0,Scripts\adventure_movies
+Adventure,Bambi: A Tale of Life in the Woods,1h 18m,78.0,5.7,160.0,Scripts\adventure_movies
+Adventure,Angels Fallen: Warriors of Peace,1h 43m,103.0,4.9,5800.0,Scripts\adventure_movies
+Adventure,The Twisters,1h 26m,86.0,2.6,325.0,Scripts\adventure_movies
+Adventure,Dragonkeeper,1h 38m,98.0,5.7,1600.0,Scripts\adventure_movies
+Adventure,Unspeakable: Beyond the Wall of Sleep,1h 30m,90.0,6.2,47.0,Scripts\adventure_movies
+Adventure,Crayon Shin-chan: Ora's Dinosaur Diary,1h 46m,106.0,6.4,334.0,Scripts\adventure_movies
+Adventure,Lumina,1h 53m,113.0,2.1,659.0,Scripts\adventure_movies
+Adventure,The Firing Squad,1h 33m,93.0,5.4,5000.0,Scripts\adventure_movies
+Adventure,Eat the Night,1h 46m,106.0,6.1,458.0,Scripts\adventure_movies
+Adventure,Bade Miyan Chote Miyan,2h 43m,163.0,3.7,39000.0,Scripts\adventure_movies
+Adventure,Demon Slayer: Kimetsu No Yaiba - To the Hashira Training,1h 44m,104.0,7.1,8400.0,Scripts\adventure_movies
+Adventure,The Last Redemption,2h 2m,122.0,6.7,3400.0,Scripts\adventure_movies
+Adventure,Roadkill,1h 30m,90.0,3.7,677.0,Scripts\adventure_movies
+Adventure,WWII: Operation Phoenix,1h 46m,106.0,6.2,71.0,Scripts\adventure_movies
+Adventure,Escape,1h 34m,94.0,6.4,2000.0,Scripts\adventure_movies
+Adventure,No Time to Spy: A Loud House Movie,1h 21m,81.0,6.4,444.0,Scripts\adventure_movies
+Adventure,War of the Worlds: Extinction,1h 24m,84.0,3.1,200.0,Scripts\adventure_movies
+Adventure,A Sloth Story,1h 30m,90.0,5.6,203.0,Scripts\adventure_movies
+Adventure,No Chains No Masters,1h 38m,98.0,6.4,498.0,Scripts\adventure_movies
+Adventure,A.R.M,2h 30m,150.0,7.1,8600.0,Scripts\adventure_movies
+Adventure,Escape from the 21st Century,1h 38m,98.0,6.5,855.0,Scripts\adventure_movies
+Adventure,Man and Witch: The Dance of a Thousand Steps,1h 34m,94.0,5.5,328.0,Scripts\adventure_movies
+Adventure,Diplodocus,1h 30m,90.0,6.3,171.0,Scripts\adventure_movies
+Adventure,My Oni Girl,1h 52m,112.0,6.0,1700.0,Scripts\adventure_movies
+Adventure,Bionic,1h 50m,110.0,4.3,1700.0,Scripts\adventure_movies
+Adventure,Thangalaan,2h 36m,156.0,6.6,6600.0,Scripts\adventure_movies
+Adventure,This Too Shall Pass,1h 45m,105.0,,,Scripts\adventure_movies
+Adventure,Robin and the Hoods,1h 40m,100.0,4.4,509.0,Scripts\adventure_movies
+Adventure,Kanguva,2h 32m,152.0,4.5,15000.0,Scripts\adventure_movies
+Adventure,Now or Never!,2h 32m,,2.2,17000.0,Scripts\adventure_movies
+Adventure,The Lost Tiger,1h 30m,90.0,7.8,44.0,Scripts\adventure_movies
+Adventure,Noah's Ark,1h 36m,96.0,4.3,641.0,Scripts\adventure_movies
+Adventure,The Last Ronin,1h 55m,115.0,4.8,566.0,Scripts\adventure_movies
+Adventure,Spiders on a Plane,1h 18m,78.0,5.2,371.0,Scripts\adventure_movies
+Adventure,Gracie and Pedro: Pets to the Rescue,1h 27m,87.0,5.1,265.0,Scripts\adventure_movies
+Adventure,The Magician's Raincoat,1h 27m,,5.5,97.0,Scripts\adventure_movies
+Adventure,Pimpinero: Blood and Oil,2h 1m,121.0,5.6,544.0,Scripts\adventure_movies
+Adventure,Planetquake,1h 25m,85.0,3.0,296.0,Scripts\adventure_movies
+Adventure,Guest from the Future,2h 21m,141.0,6.0,1200.0,Scripts\adventure_movies
+Adventure,Marianengraben,1h 27m,87.0,7.5,81.0,Scripts\adventure_movies
+Adventure,The Last of Us: Immunity,1h 4m,64.0,5.8,14.0,Scripts\adventure_movies
+Adventure,The Phantom Warrior,1h 59m,119.0,2.4,555.0,Scripts\adventure_movies
+Adventure,Ayalaan,2h 35m,155.0,6.0,4000.0,Scripts\adventure_movies
+Adventure,Game of Death - The six Doors to Hell,2h 35m,,,,Scripts\adventure_movies
+Adventure,Going Viral,1h 30m,90.0,6.8,52.0,Scripts\adventure_movies
+Adventure,Rebellious,1h 34m,94.0,6.0,186.0,Scripts\adventure_movies
+Adventure,Barroz: Guardian of Treasures,2h 35m,155.0,3.5,988.0,Scripts\adventure_movies
+Adventure,Bureau 749,2h 3m,123.0,4.1,519.0,Scripts\adventure_movies
+Adventure,Never Look Away,1h 25m,85.0,7.2,255.0,Scripts\adventure_movies
+Adventure,School of Magical Animals 3,1h 45m,105.0,5.9,307.0,Scripts\adventure_movies
+Adventure,The Goat,1h 40m,100.0,6.0,95.0,Scripts\adventure_movies
+Adventure,The Keepers of the 5 Kingdoms,1h 49m,109.0,4.0,219.0,Scripts\adventure_movies
+Adventure,All for One,1h 37m,97.0,1.2,622.0,Scripts\adventure_movies
+Adventure,Oscar Wilde About America,1h 38m,98.0,3.5,22.0,Scripts\adventure_movies
+Adventure,Dalia y el Libro Rojo,1h 47m,107.0,6.4,77.0,Scripts\adventure_movies
+Adventure,Cells at Work!,1h 49m,109.0,6.8,191.0,Scripts\adventure_movies
+Adventure,STEVE (A Minecraft Movie),1h 1m,61.0,,,Scripts\adventure_movies
+Adventure,Gladiators,1h 35m,95.0,6.3,39.0,Scripts\adventure_movies
+Adventure,Treasure Trackers,1h 32m,92.0,5.8,159.0,Scripts\adventure_movies
+Adventure,The Mountain,1h 29m,89.0,6.6,155.0,Scripts\adventure_movies
+Adventure,Gaami,2h 27m,147.0,6.4,2000.0,Scripts\adventure_movies
+Adventure,Return to Wickensburg,1h 28m,88.0,5.0,27.0,Scripts\adventure_movies
+Adventure,My Freaky Family,1h 26m,86.0,6.3,397.0,Scripts\adventure_movies
+Adventure,Rally Caps,1h 40m,100.0,5.5,137.0,Scripts\adventure_movies
+Adventure,Storm Crashers,1h 28m,88.0,6.3,557.0,Scripts\adventure_movies
+Adventure,The Casagrandes Movie,1h 29m,89.0,5.6,662.0,Scripts\adventure_movies
+Adventure,I Heart Robots,1h 16m,76.0,4.6,2400.0,Scripts\adventure_movies
+Adventure,Earthquake Underground,1h 23m,83.0,3.3,192.0,Scripts\adventure_movies
+Adventure,Ahl Al Kahf,2h,120.0,5.3,258.0,Scripts\adventure_movies
+Adventure,A Trip Elsewhere,1h 33m,93.0,5.6,101.0,Scripts\adventure_movies
+Adventure,Mong Vuot,1h 36m,96.0,5.3,123.0,Scripts\adventure_movies
+Adventure,Dünya Varmis,1h 40m,100.0,7.4,51.0,Scripts\adventure_movies
+Adventure,Mobile Suit Gundam SEED Freedom,2h 4m,124.0,6.6,944.0,Scripts\adventure_movies
+Adventure,Jathara,2h 9m,129.0,6.4,1100.0,Scripts\adventure_movies
+Adventure,Oculus,1h 53m,113.0,6.0,15.0,Scripts\adventure_movies
+Adventure,The Traveller,2h 14m,134.0,5.2,207.0,Scripts\adventure_movies
+Adventure,Satu - Year of the Rabbit,1h 33m,93.0,9.1,56.0,Scripts\adventure_movies
+Adventure,Sunlight,1h 36m,96.0,7.9,17.0,Scripts\adventure_movies
+Adventure,I Left My Heart in Colombia,1h 36m,,9.1,416.0,Scripts\adventure_movies
+Adventure,Tanning Zone,1h 36m,,,,Scripts\adventure_movies
+Adventure,Empire Queen: The Golden Age of Magic,2h 28m,148.0,3.2,204.0,Scripts\adventure_movies
+Adventure,Witch Hunter,1h 20m,80.0,5.2,23.0,Scripts\adventure_movies
+Adventure,Captain Miller,2h 37m,157.0,6.5,8600.0,Scripts\adventure_movies
+Adventure,Amazon Bullseye,1h 53m,113.0,5.3,190.0,Scripts\adventure_movies
+Adventure,Kvitebjørn,1h 25m,85.0,5.9,54.0,Scripts\adventure_movies
+Adventure,Niko: Beyond the Northern Lights,1h 26m,86.0,6.2,325.0,Scripts\adventure_movies
+Adventure,Warrior Awang and Master Tok Gajah,1h 58m,118.0,4.6,472.0,Scripts\adventure_movies
+Adventure,Odio el verano,1h 43m,103.0,5.1,564.0,Scripts\adventure_movies
+Adventure,Next to Us,2h 5m,125.0,4.9,221.0,Scripts\adventure_movies
+Adventure,Rocky Road to Berlin,1h 44m,104.0,7.2,1400.0,Scripts\adventure_movies
+Adventure,Trifole,1h 40m,100.0,7.7,50.0,Scripts\adventure_movies
+Adventure,Bremenskie muzykanty,1h 55m,115.0,4.6,668.0,Scripts\adventure_movies
+Adventure,Daye: Seret ahl el Daye,1h 44m,104.0,7.8,15.0,Scripts\adventure_movies
+Adventure,Ghost Island,1h 35m,95.0,7.3,46.0,Scripts\adventure_movies
+Adventure,Its Name Was Mormo,1h 33m,93.0,3.7,114.0,Scripts\adventure_movies
+Adventure,Kalvan,2h 22m,142.0,5.6,985.0,Scripts\adventure_movies
+Adventure,The Kingdom,2h 13m,133.0,7.9,88.0,Scripts\adventure_movies
+Adventure,Meanwhile on Earth,1h 29m,89.0,6.0,897.0,Scripts\adventure_movies
+Adventure,Shrek 5: The Contract - A Fan Made Film,1h 24m,84.0,7.0,19.0,Scripts\adventure_movies
+Adventure,The Forest,1h 17m,77.0,6.5,48.0,Scripts\adventure_movies
+Adventure,Taklee Genesis x Worlds Collide,2h 26m,146.0,5.4,401.0,Scripts\adventure_movies
+Adventure,Kodaikanal,2h 53m,173.0,9.2,69.0,Scripts\adventure_movies
+Adventure,The Artifact,1h 48m,108.0,,,Scripts\adventure_movies
+Adventure,Memes & Nightmares,1h 21m,81.0,5.7,84.0,Scripts\adventure_movies
+Adventure,Fox & Hare Save the Forest,1h 11m,71.0,5.9,198.0,Scripts\adventure_movies
+Adventure,Dead Dead Demon's Dededede Destruction,2h,120.0,7.0,143.0,Scripts\adventure_movies
+Adventure,The Epidemic,1h 35m,95.0,5.8,69.0,Scripts\adventure_movies
+Adventure,Big City Greens the Movie: Spacecation,1h 23m,83.0,6.2,538.0,Scripts\adventure_movies
+Adventure,Road Wars: Max Fury,1h 23m,83.0,2.0,350.0,Scripts\adventure_movies
+Adventure,Si Juki the Movie: Harta Pulau Monyet,1h 47m,107.0,6.0,115.0,Scripts\adventure_movies
+Adventure,"Maya, donne-moi un titre",1h 1m,61.0,6.4,50.0,Scripts\adventure_movies
+Adventure,My Fathers' Daughter,1h 18m,78.0,6.7,74.0,Scripts\adventure_movies
+Adventure,Little Emma,1h 46m,106.0,5.7,106.0,Scripts\adventure_movies
+Adventure,Stranded Pearl,1h 30m,90.0,6.0,27.0,Scripts\adventure_movies
+Adventure,The Legend Hunters,1h 30m,,5.4,30.0,Scripts\adventure_movies
+Adventure,Five Friends,1h 52m,112.0,6.7,882.0,Scripts\adventure_movies
+Adventure,The Backrooms,1h 3m,63.0,6.2,8.0,Scripts\adventure_movies
+Adventure,Panda Bear in Africa,1h 24m,84.0,5.5,319.0,Scripts\adventure_movies
+Adventure,Jurassic Triangle,1h 24m,84.0,2.5,280.0,Scripts\adventure_movies
+Adventure,Elli and the Ghostly Ghost Train,1h 26m,86.0,5.0,95.0,Scripts\adventure_movies
+Adventure,Ivan Tsarevich i Seryy Volk 6,1h 26m,,5.6,81.0,Scripts\adventure_movies
+Adventure,My Redneck Neighbor: Chapter 2 - Let the Games Begin,55m,55.0,,,Scripts\adventure_movies
+Adventure,Buddy,2h 17m,137.0,3.9,342.0,Scripts\adventure_movies
+Adventure,Nintama Rantaro Dokutake Ninja-tai Saikyou no Gunshi,1h 30m,90.0,7.1,17.0,Scripts\adventure_movies
+Adventure,Powder Pup,1h 29m,89.0,6.2,76.0,Scripts\adventure_movies
+Adventure,The Worlds Divide,2h,120.0,8.0,38.0,Scripts\adventure_movies
+Adventure,Stinky Summer,1h 30m,90.0,5.7,50.0,Scripts\adventure_movies
+Adventure,Diving Into the Darkness,1h 36m,96.0,9.1,82.0,Scripts\adventure_movies
+Adventure,Tokusou Sentai Dekaranger 20th: Fireball Booster,50m,50.0,7.1,30.0,Scripts\adventure_movies
+Adventure,Moy dikiy drug,1h 40m,100.0,6.6,56.0,Scripts\adventure_movies
+Adventure,Vertical,1h 51m,111.0,5.2,128.0,Scripts\adventure_movies
+Adventure,Game On,1h 25m,85.0,2.6,350.0,Scripts\adventure_movies
+Adventure,The Slave and the Sorcerer,1h 26m,86.0,6.6,39.0,Scripts\adventure_movies
+Adventure,Tracing the Divide,1h 24m,84.0,8.8,169.0,Scripts\adventure_movies
+Adventure,Dragon Ball Z Kai,1h 22m,82.0,8.4,68.0,Scripts\adventure_movies
+Adventure,Captain Avispa,1h 36m,96.0,5.8,173.0,Scripts\adventure_movies
+Adventure,The Adventures of Jurassic Pet: Return to the Wild,1h 30m,90.0,5.4,58.0,Scripts\adventure_movies
+Adventure,Hyacinthe,1h 30m,,,,Scripts\adventure_movies
+Adventure,Formed Police Unit,2h,120.0,4.6,474.0,Scripts\adventure_movies
+Adventure,Yolki 11,1h 32m,92.0,4.7,167.0,Scripts\adventure_movies
+Adventure,The Epic of Gilgamesh,1h 19m,79.0,,,Scripts\adventure_movies
+Adventure,Transformers Prime: Galavatron's Revenge,1h 44m,104.0,3.4,8.0,Scripts\adventure_movies
+Adventure,The Star City Murders,1h 19m,79.0,4.1,142.0,Scripts\adventure_movies
+Adventure,Teenz,2h 2m,122.0,4.4,862.0,Scripts\adventure_movies
+Adventure,At Her Feet,1h 40m,100.0,7.5,41.0,Scripts\adventure_movies
+Adventure,Masha i Medved v kino: Park chudes,58m,58.0,7.6,17.0,Scripts\adventure_movies
+Adventure,Baba Yaga spasaet Novyy god,1h 39m,99.0,4.5,115.0,Scripts\adventure_movies
+Adventure,76 Days Adrift,1h 45m,105.0,,,Scripts\adventure_movies
+Adventure,Fuuto PI: Portrait of Kamen Rider Skull,1h 22m,82.0,7.4,38.0,Scripts\adventure_movies
+Adventure,Steal the Naughty List,1h 30m,90.0,6.5,117.0,Scripts\adventure_movies
+Adventure,Yaren Leylek,1h 35m,95.0,5.9,26.0,Scripts\adventure_movies
+Adventure,Vikaasaparva,2h 14m,134.0,8.5,541.0,Scripts\adventure_movies
+Adventure,Major Grom: The Game,2h 48m,168.0,6.1,1800.0,Scripts\adventure_movies
+Adventure,Tay 2: Ebabil Takimi,1h 18m,78.0,5.3,37.0,Scripts\adventure_movies
+Adventure,Spirit Riser,1h 38m,98.0,6.7,33.0,Scripts\adventure_movies
+Adventure,Birds Flying East,1h 40m,100.0,5.8,565.0,Scripts\adventure_movies
+Adventure,This Land of Mine,1h 30m,90.0,7.3,7.0,Scripts\adventure_movies
+Adventure,Bull Shark 3,1h 16m,76.0,3.5,79.0,Scripts\adventure_movies
+Adventure,Ognivo,1h 45m,105.0,5.5,224.0,Scripts\adventure_movies
+Adventure,Tulang Belulang Tulang,1h 35m,95.0,7.0,44.0,Scripts\adventure_movies
+Adventure,Arctic Hollow,1h 10m,70.0,2.3,179.0,Scripts\adventure_movies
+Adventure,Historia de pastores,1h 20m,80.0,5.5,33.0,Scripts\adventure_movies
+Adventure,Un lío de millones,1h 31m,91.0,6.0,50.0,Scripts\adventure_movies
+Adventure,Killer Witches from Outer Space,1h 31m,,7.1,78.0,Scripts\adventure_movies
+Adventure,Tri kota. Zimnie kanikuly,1h 5m,65.0,6.5,29.0,Scripts\adventure_movies
+Adventure,Friendly Fire,1h 45m,105.0,6.6,31.0,Scripts\adventure_movies
+Adventure,Sam and Colby: The Legends of the Paranormal,1h 38m,98.0,4.8,304.0,Scripts\adventure_movies
+Adventure,Mr. Blue Shirt: The Inspiration,1h 38m,,4.9,10.0,Scripts\adventure_movies
+Adventure,Die Chaosschwestern und Pinguin Paul,1h 40m,100.0,5.7,66.0,Scripts\adventure_movies
+Adventure,Luigi's Mansion,1h,60.0,6.0,17.0,Scripts\adventure_movies
+Adventure,Finding Christmas,1h,,6.8,12.0,Scripts\adventure_movies
+Adventure,The Big Trip 3: Race Around the World,1h 25m,85.0,5.7,55.0,Scripts\adventure_movies
+Adventure,Abudeka Is Back,2h,120.0,5.3,34.0,Scripts\adventure_movies
+Adventure,Håkan Bråkan 2,1h 32m,92.0,5.3,132.0,Scripts\adventure_movies
+Adventure,The Waves of Madness,1h 32m,,7.6,31.0,Scripts\adventure_movies
+Adventure,Space Ranger,1h 32m,,3.4,80.0,Scripts\adventure_movies
+Adventure,Letuchiy korabl,1h 40m,100.0,3.8,295.0,Scripts\adventure_movies
+Adventure,Z-Mom,1h 30m,90.0,4.8,44.0,Scripts\adventure_movies
+Adventure,Tipppsy,1h 55m,115.0,8.2,33.0,Scripts\adventure_movies
+Adventure,Death Game,1h 28m,88.0,6.3,24.0,Scripts\adventure_movies
+Adventure,Nature Cat's Nature Movie Special Extraordinaire,53m,53.0,7.3,18.0,Scripts\adventure_movies
+Adventure,Chernyy zamok,1h 55m,115.0,7.8,17.0,Scripts\adventure_movies
+Adventure,Shanghai Story,1h 11m,71.0,8.1,57.0,Scripts\adventure_movies
+Adventure,Gepack,1h 37m,97.0,6.6,360.0,Scripts\adventure_movies
+Adventure,Hain,1h 35m,95.0,2.9,45.0,Scripts\adventure_movies
+Adventure,Six Nine Five (695),2h 17m,137.0,7.0,705.0,Scripts\adventure_movies
+Adventure,The Trail,1h 20m,80.0,7.2,20.0,Scripts\adventure_movies
+Adventure,Pui Pui Molcar the Movie: Molmax,1h 9m,69.0,7.0,8.0,Scripts\adventure_movies
+Adventure,Benjamin Bat,1h 15m,75.0,8.1,28.0,Scripts\adventure_movies
+Adventure,My Redneck Neighbor: Chapter 1 - The Rednecks Are Coming,1h 14m,74.0,5.0,7.0,Scripts\adventure_movies
+Adventure,Güzel Bir Rüya,1h 19m,79.0,4.9,41.0,Scripts\adventure_movies
+Adventure,Kiyma: Orman Kanunlari,1h 21m,81.0,4.3,35.0,Scripts\adventure_movies
+Adventure,"Bernadotte, Louise & Napoleon",1h 14m,74.0,,,Scripts\adventure_movies
+Adventure,Two Breaths,18m,18.0,8.2,22.0,Scripts\adventure_movies
+Adventure,LasseMajas detektivbyrå - Maskoten som försvann,1h 30m,90.0,6.0,55.0,Scripts\adventure_movies
+Adventure,Duffle Bag Boy,1h 30m,,6.9,57.0,Scripts\adventure_movies
+Adventure,Askepote,1h 12m,72.0,3.5,80.0,Scripts\adventure_movies
+Adventure,Seven Seas Seven Hills,1h 30m,90.0,8.7,89.0,Scripts\adventure_movies
+Adventure,Nothing Unusual,1h 32m,92.0,9.7,12.0,Scripts\adventure_movies
+Adventure,Wonderful Precure! The Movie! Doki Doki Game no Sekai de Daiboken,1h 11m,71.0,6.8,32.0,Scripts\adventure_movies
+Adventure,Zak & Wowo: The Legend of Lendarys,1h 25m,85.0,5.7,95.0,Scripts\adventure_movies
+Adventure,Xibalba Monster,1h 16m,76.0,6.4,23.0,Scripts\adventure_movies
+Adventure,Get Close 2,1h 16m,,5.7,46.0,Scripts\adventure_movies
+Adventure,Cazatesoros,1h 46m,106.0,6.6,26.0,Scripts\adventure_movies
+Adventure,Kade,1h 32m,92.0,6.7,16.0,Scripts\adventure_movies
+Adventure,Zoloto Umalty,1h 49m,109.0,4.9,109.0,Scripts\adventure_movies
+Adventure,Dikkie Dik 2: Een Nieuwe Vriend voor Dikkie Dik,1h 10m,70.0,7.4,72.0,Scripts\adventure_movies
+Adventure,Jaunt,1h 18m,78.0,8.4,7.0,Scripts\adventure_movies
+Adventure,Lo carga el diablo,1h 33m,93.0,7.6,22.0,Scripts\adventure_movies
+Adventure,Bratya,1h 43m,103.0,2.8,117.0,Scripts\adventure_movies
+Adventure,Kaizen,2h 40m,160.0,7.3,647.0,Scripts\adventure_movies
+Adventure,Troy the Bharat Putra,2h 14m,134.0,5.5,31.0,Scripts\adventure_movies
+Adventure,Permafrost,1h 20m,80.0,5.7,114.0,Scripts\adventure_movies
+Adventure,The Secret of Pin-Up Island,1h 47m,107.0,7.4,92.0,Scripts\adventure_movies
+Adventure,Knight,1h 47m,,,,Scripts\adventure_movies
+Adventure,Kral Sakir: Devler Uyandi,1h 47m,,5.4,65.0,Scripts\adventure_movies
+Adventure,Dünya Mali: Eksi Bir,2h 13m,133.0,7.2,16.0,Scripts\adventure_movies
+Adventure,Joachim and the Apocalypse,1h 30m,90.0,7.2,13.0,Scripts\adventure_movies
+Adventure,"Silex and the City, le film",1h 17m,77.0,4.9,50.0,Scripts\adventure_movies
+Adventure,Son of the Wolf,1h 22m,82.0,,,Scripts\adventure_movies
+Adventure,Return,1h 30m,90.0,,,Scripts\adventure_movies
+Adventure,Dikkie Dik en de Verdwenen Knuffel,1h 2m,62.0,7.2,129.0,Scripts\adventure_movies
+Adventure,Manyunya. Priklyucheniya v derevne,1h 24m,84.0,5.9,117.0,Scripts\adventure_movies
+Adventure,BAM!,1h 20m,80.0,6.9,28.0,Scripts\adventure_movies
+Adventure,Goodbye Hamdi,1h 25m,85.0,6.2,8.0,Scripts\adventure_movies
+Adventure,Appu,1h 32m,92.0,8.6,181.0,Scripts\adventure_movies
+Adventure,Family Vacation,1h 32m,,,,Scripts\adventure_movies
+Adventure,The Eye of the Salamander,1h 21m,81.0,7.9,20.0,Scripts\adventure_movies
+Adventure,Tapori Nayak,1h 21m,,8.6,19.0,Scripts\adventure_movies
+Adventure,Oyunda Kal: Eglence Arenasi,1h 32m,92.0,2.7,35.0,Scripts\adventure_movies
+Adventure,Tri bogatyrya. Ni dnya bez podviga,1h 1m,61.0,5.7,64.0,Scripts\adventure_movies
+Adventure,Cândido,1h 39m,99.0,6.3,59.0,Scripts\adventure_movies
+Adventure,Shadows of Betrayal: Chronicles of Ian Blair,1h 5m,65.0,7.3,12.0,Scripts\adventure_movies
+Adventure,Spider-Man: Blue,1h 5m,,5.9,12.0,Scripts\adventure_movies
+Adventure,Turma da Mônica Jovem: Reflexos do Medo,1h 28m,88.0,2.8,257.0,Scripts\adventure_movies
+Adventure,Uttarakaanda,1h 28m,,,,Scripts\adventure_movies
+Adventure,Surge of Power: Where There's Smoke,1h 8m,68.0,6.5,13.0,Scripts\adventure_movies
+Adventure,Igrisca ne damo!,1h 19m,79.0,6.9,26.0,Scripts\adventure_movies
+Adventure,Mobile Suit Gundam: Silver Phantom,1h 30m,90.0,6.1,13.0,Scripts\adventure_movies
+Adventure,Triple 7: They Said It Couldn't Be Done,1h 37m,97.0,8.5,13.0,Scripts\adventure_movies
+Adventure,Yasmeen's Element,1h 16m,76.0,7.6,20.0,Scripts\adventure_movies
+Adventure,Dead Dead Demon's Dededede Destruction Zenpen,2h,120.0,7.0,137.0,Scripts\adventure_movies
+Adventure,Elephant Steps,2h,,6.8,39.0,Scripts\adventure_movies
+Adventure,The Yoshi Movie,1h 45m,105.0,7.7,12.0,Scripts\adventure_movies
+Adventure,Dogman Territory: Werewolves in the Land Between the Lakes,1h 45m,,5.4,32.0,Scripts\adventure_movies
+Adventure,Road to Dreamland,1h 30m,90.0,,,Scripts\adventure_movies
+Adventure,Rocky and Bullwinkle,1h 40m,100.0,9.1,12.0,Scripts\adventure_movies
+Adventure,Fights Break Sphere 3,1h 21m,81.0,4.7,8.0,Scripts\adventure_movies
+Adventure,The Very Last Christmas,1h 15m,75.0,8.5,12.0,Scripts\adventure_movies
+Adventure,Iron Dusk,1h 15m,,5.6,16.0,Scripts\adventure_movies
+Adventure,Pirates & Slaves,53m,53.0,5.8,6.0,Scripts\adventure_movies
+Adventure,The Umbrella Fairy,1h 35m,95.0,5.6,50.0,Scripts\adventure_movies
+Adventure,Advent,1h 59m,119.0,7.5,6.0,Scripts\adventure_movies
+Adventure,The Cold Father,1h 59m,,7.0,17.0,Scripts\adventure_movies
+Adventure,Nanoshark,1h 59m,,5.7,19.0,Scripts\adventure_movies
+Adventure,No More Trouble - Cosa rimane di una tempesta,1h 37m,97.0,8.4,18.0,Scripts\adventure_movies
+Adventure,Mai Martaba,1h 26m,86.0,4.9,10.0,Scripts\adventure_movies
+Adventure,Mr Zoo Keeper,1h 26m,,8.1,15.0,Scripts\adventure_movies
+Adventure,Hope & Glory,44m,44.0,6.6,143.0,Scripts\adventure_movies
+Adventure,Seeking the King,44m,,,,Scripts\adventure_movies
+Adventure,Mama,1h 40m,100.0,8.5,7.0,Scripts\adventure_movies
+Adventure,Fatal Expedition,1h 40m,,3.9,24.0,Scripts\adventure_movies
+Adventure,Manyunya. Priklyucheniya v Moskve,1h 27m,87.0,5.8,110.0,Scripts\adventure_movies
+Adventure,Life with Quincy 3,1h 13m,73.0,,,Scripts\adventure_movies
+Adventure,Chhota Bheem and the Curse of Damyaan,2h 25m,145.0,4.8,2300.0,Scripts\adventure_movies
+Adventure,Heavens: The Boy and His Robot,1h 38m,98.0,6.3,21.0,Scripts\adventure_movies
+Adventure,Tur s Ivanushkami,1h 51m,111.0,5.3,158.0,Scripts\adventure_movies
+Adventure,Analogistan,1h 25m,85.0,,,Scripts\adventure_movies
+Adventure,Wonderland,2h,120.0,6.8,12.0,Scripts\adventure_movies
+Adventure,Poklad,1h 40m,100.0,4.5,36.0,Scripts\adventure_movies
+Adventure,Minecraft But I Survive Again in Parkour Civilization,1h 40m,,9.4,26.0,Scripts\adventure_movies
+Adventure,Operation Wakaliga: Fate and Blood,1h 6m,66.0,6.7,11.0,Scripts\adventure_movies
+Adventure,Art Work,1h 31m,91.0,,,Scripts\adventure_movies
+Adventure,Naa Saami Ranga,2h 30m,150.0,4.5,1200.0,Scripts\adventure_movies
+Adventure,Dreams,1h 46m,106.0,7.6,8.0,Scripts\adventure_movies
+Adventure,The Sasqualogist,1h 29m,89.0,,,Scripts\adventure_movies
+Adventure,The Puffins & the Magic Portal,1h 29m,,7.6,31.0,Scripts\adventure_movies
+Adventure,Samaya bolshaya luna,1h 45m,105.0,2.4,128.0,Scripts\adventure_movies
+Adventure,Emma,1h 30m,90.0,,,Scripts\adventure_movies
+Adventure,Lung ta - Cavalli al vento,1h 30m,,,,Scripts\adventure_movies
+Adventure,Gumshoe Jon and the Mystery of the Saucer Men - The Even Better Version,1h 30m,,,,Scripts\adventure_movies
+Adventure,Vasilisa i khraniteli vremeni,1h 38m,98.0,3.2,66.0,Scripts\adventure_movies
+Adventure,La Familia del Barrio: La Película,1h 38m,,4.0,6.0,Scripts\adventure_movies
+Adventure,The Last Five Days: The Freak Building,1h 1m,61.0,3.8,58.0,Scripts\adventure_movies
+Adventure,Wilhelm Gustloff,1h 50m,110.0,8.7,8.0,Scripts\adventure_movies
+Adventure,Antarctic Voyage,48m,48.0,6.8,6.0,Scripts\adventure_movies
+Adventure,Piraty galaktiki Barrakuda,1h 32m,92.0,4.5,81.0,Scripts\adventure_movies
+Adventure,Penelope & Everly's Holiday Adventure,TV-PG,0.0,,,Scripts\adventure_movies
+Adventure,Jake Danger and the Sword of the Explorer,TV-PG,,,,Scripts\adventure_movies
+Adventure,Sentinelese,TV-PG,,,,Scripts\adventure_movies
+Adventure,Bar MoskvaChiki,1h 31m,91.0,5.2,101.0,Scripts\adventure_movies
+Adventure,23 Horas,1h 31m,,7.2,18.0,Scripts\adventure_movies
+Adventure,Novyy god v Beryozovke,1h 34m,94.0,7.1,99.0,Scripts\adventure_movies
+Adventure,The Space in Between,1h 34m,,,,Scripts\adventure_movies
+Adventure,Petualangan Anak Penangkap Hantu,1h 39m,99.0,6.0,25.0,Scripts\adventure_movies
+Adventure,Cursed Waters: Creature of Lake Okanagan,1h 39m,,,,Scripts\adventure_movies
+Adventure,Dakar Chronicles,1h 39m,,,,Scripts\adventure_movies
+Adventure,Suchana,1h 30m,90.0,9.0,527.0,Scripts\adventure_movies
+Adventure,The Apples Gang: The Movie by Wright,1h 30m,,,,Scripts\adventure_movies
+Adventure,Moy lyubimyy chempion,1h 35m,95.0,2.4,419.0,Scripts\adventure_movies
+Adventure,Mesken (Messuage),1h 42m,102.0,7.5,37.0,Scripts\adventure_movies
+Adventure,I racconti del mare,1h 29m,89.0,,,Scripts\adventure_movies
+Adventure,Molar,2h 15m,135.0,,,Scripts\adventure_movies
+Adventure,Road to Paradise,1h 16m,76.0,,,Scripts\adventure_movies
+Adventure,Anytime,1h 2m,62.0,8.9,20.0,Scripts\adventure_movies
+Adventure,Gladiator II: The Art and Making of the Ridley Scott Film,1h 2m,,,,Scripts\adventure_movies
+Adventure,Wild Boys,1h 59m,119.0,,,Scripts\adventure_movies
+Adventure,Dracu Ra,1h 46m,106.0,5.5,35.0,Scripts\adventure_movies
+Adventure,The Bigfoot Prophecy,1h 57m,117.0,4.8,23.0,Scripts\adventure_movies
+Adventure,A Christmas Carol,39m,39.0,9.8,11.0,Scripts\adventure_movies
+Adventure,Dragon Gate Inn,1h 30m,90.0,,,Scripts\adventure_movies
+Adventure,De Legende van Familie Vos,1h 21m,81.0,5.7,58.0,Scripts\adventure_movies
+Adventure,YA - medved,1h 37m,97.0,5.0,61.0,Scripts\adventure_movies
+Adventure,"Fallen Leaves, Broken Lighters",1h 36m,96.0,7.7,7.0,Scripts\adventure_movies
+Adventure,Adam i Eva,1h 35m,95.0,5.1,93.0,Scripts\adventure_movies
+Adventure,Militant Monster 2024,1h 35m,,8.8,28.0,Scripts\adventure_movies
+Adventure,Spooky Society,1h 35m,,,,Scripts\adventure_movies
+Adventure,Mountain Boy,1h 33m,93.0,8.2,17.0,Scripts\adventure_movies
+Adventure,Luccas e Gi em: Dinossauros,1h 31m,91.0,3.5,27.0,Scripts\adventure_movies
+Adventure,The Lost Coast,1h 31m,,,,Scripts\adventure_movies
+Adventure,Oro Negro,1h 31m,,,,Scripts\adventure_movies
+Adventure,Isle: Alpha One,1h 37m,97.0,8.4,7.0,Scripts\adventure_movies
+Adventure,Mortadella,1h 30m,90.0,8.4,6.0,Scripts\adventure_movies
+Adventure,The Pizza Guys,1h 29m,89.0,,,Scripts\adventure_movies
+Adventure,Longe da Estrada,1h 8m,68.0,6.0,9.0,Scripts\adventure_movies
+Adventure,The Farm,1h 44m,104.0,,,Scripts\adventure_movies
+Adventure,The Ghost of Annie Lee,1h 43m,103.0,,,Scripts\adventure_movies
+Adventure,Kyle and the Last Emerald 2,15m,15.0,8.4,7.0,Scripts\adventure_movies
+Adventure,Alex and Mia's Awesome Movie!!,1h 15m,75.0,,,Scripts\adventure_movies
+Adventure,Frankenstein Theater: The Magic Sword,1h 22m,82.0,4.4,23.0,Scripts\adventure_movies
+Adventure,Boom!,1h 30m,90.0,8.3,10.0,Scripts\adventure_movies
+Adventure,A Babá - Operação Game Over,1h 30m,,4.8,10.0,Scripts\adventure_movies
+Adventure,ABC Life: The Movie,1h,60.0,,,Scripts\adventure_movies
+Adventure,Dans l'ombre de Marlow,1h 20m,80.0,,,Scripts\adventure_movies
+Adventure,StarGazer: The Need of the Many,47m,47.0,5.0,9.0,Scripts\adventure_movies
+Adventure,V potoke trekh stikhiy,1h 25m,85.0,5.2,42.0,Scripts\adventure_movies
+Adventure,Lost and Found,1h,60.0,,,Scripts\adventure_movies
+Adventure,Kamilota,1h,,,,Scripts\adventure_movies
+Adventure,Harmonie,1h 14m,74.0,,,Scripts\adventure_movies
+Adventure,Tales from the Table,1h 14m,,,,Scripts\adventure_movies
+Adventure,Suvorovets 1944,1h 30m,90.0,5.6,8.0,Scripts\adventure_movies
+Adventure,LUDA,1h 26m,86.0,7.2,6.0,Scripts\adventure_movies
+Adventure,Huaquero Tierra Maldita,1h 26m,,,,Scripts\adventure_movies
+Adventure,Oda: Vlucht door de Eeuwen,1h 26m,,6.4,7.0,Scripts\adventure_movies
+Adventure,Piri Reis: The Incredible Chart,2h 18m,138.0,6.8,21.0,Scripts\adventure_movies
+Adventure,Ngesot,1h 27m,87.0,4.8,18.0,Scripts\adventure_movies
+Adventure,Jackpot,1h 27m,,,,Scripts\adventure_movies
+Adventure,I'm Professional,1h 35m,95.0,3.7,8.0,Scripts\adventure_movies
+Adventure,The Stand at Alder Creek,53m,53.0,,,Scripts\adventure_movies
+Adventure,Lion King: A Tale of Mufasa,53m,,,,Scripts\adventure_movies
+Adventure,Abar Arownne Din Ratri,1h 51m,111.0,7.8,7.0,Scripts\adventure_movies
+Adventure,Tayna Chyornoy Ruki,1h 24m,84.0,5.7,23.0,Scripts\adventure_movies
+Adventure,Colour Palette,1h 27m,87.0,9.0,23.0,Scripts\adventure_movies
+Adventure,Mukhadrakon,1h 49m,109.0,5.3,18.0,Scripts\adventure_movies
+Adventure,"Poymay sobaku, esli smozhesh",1h 36m,96.0,3.5,36.0,Scripts\adventure_movies
+Adventure,Príncipe Lu e a Lenda do Dragão,1h 30m,90.0,4.2,27.0,Scripts\adventure_movies
+Adventure,QAnon Avenue,57m,57.0,,,Scripts\adventure_movies
+Adventure,The Dragon's Tomb,57m,,6.8,52.0,Scripts\adventure_movies
+Adventure,Whites Only: Ade's Extremist Adventure,1h 5m,65.0,7.0,27.0,Scripts\adventure_movies
+Adventure,Adrian,1h 5m,,,,Scripts\adventure_movies
+Adventure,Beyond existence,1h 35m,95.0,5.3,11.0,Scripts\adventure_movies
+Adventure,Il ricercatore,1h 11m,71.0,5.8,7.0,Scripts\adventure_movies
+Adventure,Turbozavry. God drakona,48m,48.0,9.2,43.0,Scripts\adventure_movies
+Adventure,Xiang Xi Gui Shi,1h 12m,72.0,,,Scripts\adventure_movies
+Adventure,The Road Long,1h 12m,,,,Scripts\adventure_movies
+Adventure,Les Nouveaux Candides,1h 12m,,,,Scripts\adventure_movies
+Adventure,La bruja del bosque oscuro,1h 32m,92.0,,,Scripts\adventure_movies
+Adventure,Banana Boat,1h 18m,78.0,5.7,20.0,Scripts\adventure_movies
+Adventure,Marraia,1h 17m,77.0,,,Scripts\adventure_movies
+Adventure,Skazochnyy patrul. Shou prodolzhayetsya,1h 5m,65.0,7.2,11.0,Scripts\adventure_movies
+Adventure,The Ballad of Straw Hat Sam,45m,45.0,9.2,10.0,Scripts\adventure_movies
+Adventure,Le mystère de Waza,45m,,,,Scripts\adventure_movies
+Adventure,The Seed,1h 40m,100.0,,,Scripts\adventure_movies
+Adventure,Target Jeremy,1h 40m,,,,Scripts\adventure_movies
+Adventure,Dandelion,1h 35m,95.0,8.9,9.0,Scripts\adventure_movies
+Adventure,Toy Kids: The Movie,1h 5m,65.0,,,Scripts\adventure_movies
+Adventure,The Blinkless,59m,59.0,7.8,12.0,Scripts\adventure_movies
+Adventure,Robo Puffin,59m,,,,Scripts\adventure_movies
+Adventure,Old Wild Mob,59m,,,,Scripts\adventure_movies
+Adventure,The Road to OVC Champions,1h 2m,62.0,,,Scripts\adventure_movies
+Adventure,Aruanda - Sentido da Vida,1h 2m,,,,Scripts\adventure_movies
+Adventure,Novogodniy ekspress,47m,47.0,,,Scripts\adventure_movies
+Adventure,Phantom Lights: UAPs of the Forest,1h 21m,81.0,,,Scripts\adventure_movies
+Adventure,"Montserrat, Integral 107",1h 25m,85.0,,,Scripts\adventure_movies
+Adventure,Unscripted - In the Heart of Africa,1h 22m,82.0,,,Scripts\adventure_movies
+Adventure,The 9th Raider,1h 45m,105.0,,,Scripts\adventure_movies
+Adventure,Wheelies Inc,1h 45m,,,,Scripts\adventure_movies
+Adventure,Lost & Found,1h 45m,,,,Scripts\adventure_movies
+Adventure,DCLXVI,3h 20m,200.0,,,Scripts\adventure_movies
+Adventure,Domain 1 - Antarctica,1h 14m,74.0,,,Scripts\adventure_movies
+Adventure,Ba Jie,1h 14m,,,,Scripts\adventure_movies
+Adventure,Qianhe xiansheng,1h 22m,82.0,,,Scripts\adventure_movies
+Adventure,Cacophony the Animated Movie,1h 21m,81.0,,,Scripts\adventure_movies
+Adventure,My Only Relative.,1h 45m,105.0,,,Scripts\adventure_movies
+Adventure,Chyortov kamen,1h 45m,105.0,6.4,9.0,Scripts\adventure_movies
+Adventure,Altered,1h 45m,,,,Scripts\adventure_movies
+Adventure,Isola degli sguardi,1h 45m,,,,Scripts\adventure_movies
+Adventure,One Day the Movie,1h 45m,,,,Scripts\adventure_movies
+Adventure,Nijari,1h 46m,106.0,,,Scripts\adventure_movies
+Adventure,Yan Hu Ji Hua,1h 30m,90.0,,,Scripts\adventure_movies
+Adventure,Lakeside's Mission: Impossible,1h 30m,,,,Scripts\adventure_movies
+Adventure,Dushu,1h 36m,96.0,,,Scripts\adventure_movies
+Adventure,I crossed America with $0.01,1h 36m,,,,Scripts\adventure_movies
+Adventure,Upanga Kingdom,1h 55m,115.0,,,Scripts\adventure_movies
+Adventure,Maverick from the Edge,1h 47m,107.0,,,Scripts\adventure_movies
+Comedy,Anora,2h 19m,139.0,7.5,174000.0,Scripts\comedy_movies
+Comedy,Moana 2,1h 40m,100.0,6.6,98000.0,Scripts\comedy_movies
+Comedy,A Real Pain,1h 30m,90.0,7.1,84000.0,Scripts\comedy_movies
+Comedy,Sonic the Hedgehog 3,1h 50m,110.0,6.9,56000.0,Scripts\comedy_movies
+Comedy,Y2K,1h 31m,91.0,4.8,12000.0,Scripts\comedy_movies
+Comedy,Deadpool & Wolverine,2h 8m,128.0,7.6,487000.0,Scripts\comedy_movies
+Comedy,The Ministry of Ungentlemanly Warfare,2h 2m,122.0,6.8,134000.0,Scripts\comedy_movies
+Comedy,Freaky Tales,1h 46m,106.0,7.1,732.0,Scripts\comedy_movies
+Comedy,The Day the Earth Blew Up: A Looney Tunes Movie,1h 31m,91.0,7.0,3600.0,Scripts\comedy_movies
+Comedy,Riff Raff,1h 43m,103.0,5.7,2600.0,Scripts\comedy_movies
+Comedy,Fight or Flight,1h 37m,97.0,6.4,5900.0,Scripts\comedy_movies
+Comedy,Emilia Pérez,2h 12m,132.0,5.4,87000.0,Scripts\comedy_movies
+Comedy,Borderlands,1h 41m,101.0,4.7,47000.0,Scripts\comedy_movies
+Comedy,Paddington in Peru,1h 46m,106.0,6.7,19000.0,Scripts\comedy_movies
+Comedy,Sacramento,1h 24m,84.0,5.6,519.0,Scripts\comedy_movies
+Comedy,The Fall Guy,2h 6m,126.0,6.8,219000.0,Scripts\comedy_movies
+Comedy,Saturday Night,1h 49m,109.0,6.9,30000.0,Scripts\comedy_movies
+Comedy,Beetlejuice Beetlejuice,1h 45m,105.0,6.7,146000.0,Scripts\comedy_movies
+Comedy,Despicable Me 4,1h 34m,94.0,6.2,64000.0,Scripts\comedy_movies
+Comedy,Challengers,2h 11m,131.0,7.0,153000.0,Scripts\comedy_movies
+Comedy,Inside Out 2,1h 36m,96.0,7.5,215000.0,Scripts\comedy_movies
+Comedy,Kinds of Kindness,2h 44m,164.0,6.5,59000.0,Scripts\comedy_movies
+Comedy,A Different Man,1h 52m,112.0,6.9,28000.0,Scripts\comedy_movies
+Comedy,Bad Boys: Ride or Die,1h 55m,115.0,6.5,99000.0,Scripts\comedy_movies
+Comedy,The Idea of You,1h 55m,115.0,6.3,73000.0,Scripts\comedy_movies
+Comedy,My Old Ass,1h 29m,89.0,6.9,38000.0,Scripts\comedy_movies
+Comedy,Argylle,2h 19m,139.0,5.6,92000.0,Scripts\comedy_movies
+Comedy,It's What's Inside,1h 43m,103.0,6.6,41000.0,Scripts\comedy_movies
+Comedy,Dead Talents Society,1h 51m,111.0,7.0,1600.0,Scripts\comedy_movies
+Comedy,IF,1h 44m,104.0,6.4,58000.0,Scripts\comedy_movies
+Comedy,A Nice Indian Boy,1h 36m,96.0,7.8,295.0,Scripts\comedy_movies
+Comedy,Ricky Stanicky,1h 53m,113.0,6.2,56000.0,Scripts\comedy_movies
+Comedy,Ghostbusters: Frozen Empire,1h 55m,115.0,6.1,93000.0,Scripts\comedy_movies
+Comedy,Red One,2h 3m,123.0,6.3,139000.0,Scripts\comedy_movies
+Comedy,Fly Me to the Moon,2h 12m,132.0,6.6,49000.0,Scripts\comedy_movies
+Comedy,Friendship,1h 40m,100.0,7.4,256.0,Scripts\comedy_movies
+Comedy,Nightbitch,1h 39m,99.0,5.5,19000.0,Scripts\comedy_movies
+Comedy,Bob Trevino Likes It,1h 41m,101.0,8.0,689.0,Scripts\comedy_movies
+Comedy,The Killer's Game,1h 44m,104.0,5.8,17000.0,Scripts\comedy_movies
+Comedy,Snack Shack,1h 52m,112.0,7.0,12000.0,Scripts\comedy_movies
+Comedy,My Dead Friend Zoe,1h 43m,103.0,6.7,2000.0,Scripts\comedy_movies
+Comedy,Old Guy,1h 34m,94.0,5.2,2200.0,Scripts\comedy_movies
+Comedy,Kneecap,1h 45m,105.0,7.6,17000.0,Scripts\comedy_movies
+Comedy,F*** Marry Kill,1h 37m,97.0,5.3,2200.0,Scripts\comedy_movies
+Comedy,Miller's Girl,1h 33m,93.0,5.2,23000.0,Scripts\comedy_movies
+Comedy,The Union,1h 47m,107.0,5.4,53000.0,Scripts\comedy_movies
+Comedy,Kung Fu Panda 4,1h 34m,94.0,6.3,67000.0,Scripts\comedy_movies
+Comedy,Chosen Family,1h 28m,88.0,4.7,358.0,Scripts\comedy_movies
+Comedy,Mean Girls,1h 52m,112.0,5.5,37000.0,Scripts\comedy_movies
+Comedy,Thelma,1h 38m,98.0,7.0,22000.0,Scripts\comedy_movies
+Comedy,A Family Affair,1h 51m,111.0,5.4,36000.0,Scripts\comedy_movies
+Comedy,Misericordia,1h 44m,104.0,6.9,1900.0,Scripts\comedy_movies
+Comedy,Spermageddon,1h 20m,80.0,5.8,750.0,Scripts\comedy_movies
+Comedy,Lift,1h 47m,107.0,5.5,49000.0,Scripts\comedy_movies
+Comedy,Upgraded,1h 44m,104.0,6.1,29000.0,Scripts\comedy_movies
+Comedy,Holy Cow,1h 32m,92.0,7.2,1400.0,Scripts\comedy_movies
+Comedy,Beverly Hills Cop: Axel F,1h 58m,118.0,6.4,81000.0,Scripts\comedy_movies
+Comedy,The Instigators,1h 41m,101.0,6.2,37000.0,Scripts\comedy_movies
+Comedy,Distant,1h 27m,87.0,5.7,3100.0,Scripts\comedy_movies
+Comedy,The Garfield Movie,1h 41m,101.0,5.7,24000.0,Scripts\comedy_movies
+Comedy,The Marching Band,1h 43m,103.0,7.4,2600.0,Scripts\comedy_movies
+Comedy,Mittran Da Challeya Truck Ni,2h 11m,131.0,8.1,862.0,Scripts\comedy_movies
+Comedy,Spellbound,1h 49m,109.0,5.6,7200.0,Scripts\comedy_movies
+Comedy,Incoming,1h 31m,91.0,5.8,14000.0,Scripts\comedy_movies
+Comedy,Drive-Away Dolls,1h 24m,84.0,5.4,23000.0,Scripts\comedy_movies
+Comedy,Harold and the Purple Crayon,1h 30m,90.0,5.7,8200.0,Scripts\comedy_movies
+Comedy,Eephus,1h 39m,99.0,7.2,460.0,Scripts\comedy_movies
+Comedy,Greedy People,1h 52m,112.0,6.2,11000.0,Scripts\comedy_movies
+Comedy,Get Away,1h 26m,86.0,5.3,6500.0,Scripts\comedy_movies
+Comedy,Wallace & Gromit: Vengeance Most Fowl,1h 22m,82.0,7.5,34000.0,Scripts\comedy_movies
+Comedy,Sister Midnight,1h 47m,107.0,6.6,362.0,Scripts\comedy_movies
+Comedy,Hard Truths,1h 37m,97.0,7.3,5000.0,Scripts\comedy_movies
+Comedy,Night of the Zoopocalypse,1h 31m,91.0,6.1,487.0,Scripts\comedy_movies
+Comedy,Psycho Therapy: The Shallow Tale of a Writer Who Decided to Write about a Serial Killer,1h 42m,102.0,8.6,90.0,Scripts\comedy_movies
+Comedy,Goodrich,1h 50m,110.0,6.3,5100.0,Scripts\comedy_movies
+Comedy,Rumours,1h 44m,104.0,5.0,4500.0,Scripts\comedy_movies
+Comedy,Brothers,1h 29m,89.0,5.4,13000.0,Scripts\comedy_movies
+Comedy,Your Monster,1h 43m,103.0,6.4,5700.0,Scripts\comedy_movies
+Comedy,The Mouse Trap,1h 20m,80.0,2.4,3200.0,Scripts\comedy_movies
+Comedy,Superboys of Malegaon,2h 7m,127.0,8.0,1400.0,Scripts\comedy_movies
+Comedy,How to Make Millions Before Grandma Dies,2h 5m,125.0,8.0,13000.0,Scripts\comedy_movies
+Comedy,Teri Baaton Mein Aisa Uljha Jiya,2h 21m,141.0,6.2,54000.0,Scripts\comedy_movies
+Comedy,Bloody Axe Wound,1h 23m,83.0,4.9,780.0,Scripts\comedy_movies
+Comedy,Ghostlight,1h 55m,115.0,7.6,5800.0,Scripts\comedy_movies
+Comedy,Lisa Frankenstein,1h 41m,101.0,6.1,28000.0,Scripts\comedy_movies
+Comedy,Stree 2: Sarkate Ka Aatank,2h 27m,147.0,6.9,42000.0,Scripts\comedy_movies
+Comedy,Jackpot!,1h 46m,106.0,5.8,30000.0,Scripts\comedy_movies
+Comedy,Unfrosted,1h 37m,97.0,5.5,35000.0,Scripts\comedy_movies
+Comedy,Modi: Three Days on the Wing of Madness,1h 50m,110.0,5.6,506.0,Scripts\comedy_movies
+Comedy,When Fall Is Coming,1h 44m,104.0,6.8,1500.0,Scripts\comedy_movies
+Comedy,The 4:30 Movie,1h 27m,87.0,6.0,3600.0,Scripts\comedy_movies
+Comedy,Winner,1h 43m,103.0,6.5,2400.0,Scripts\comedy_movies
+Comedy,Dìdi,1h 33m,93.0,7.3,12000.0,Scripts\comedy_movies
+Comedy,The Visitor,1h 41m,101.0,4.4,203.0,Scripts\comedy_movies
+Comedy,Mother of the Bride,1h 28m,88.0,4.8,17000.0,Scripts\comedy_movies
+Comedy,Piece by Piece,1h 33m,93.0,6.9,5300.0,Scripts\comedy_movies
+Comedy,Sketch,1h 32m,92.0,8.4,47.0,Scripts\comedy_movies
+Comedy,The Uninvited,1h 37m,97.0,5.9,154.0,Scripts\comedy_movies
+Comedy,Four Mothers,1h 29m,89.0,7.4,152.0,Scripts\comedy_movies
+Comedy,Manamey,2h 35m,155.0,5.4,657.0,Scripts\comedy_movies
+Comedy,Sex-Positive,1h 25m,85.0,4.0,726.0,Scripts\comedy_movies
+Comedy,Babes,1h 44m,104.0,6.3,6300.0,Scripts\comedy_movies
+Comedy,Our Little Secret,1h 41m,101.0,5.7,23000.0,Scripts\comedy_movies
+Comedy,Hitpig,1h 26m,86.0,5.1,905.0,Scripts\comedy_movies
+Comedy,Dear Santa,1h 47m,107.0,5.4,18000.0,Scripts\comedy_movies
+Comedy,Thelma the Unicorn,1h 33m,93.0,5.7,2900.0,Scripts\comedy_movies
+Comedy,Skincare,1h 36m,96.0,5.7,4400.0,Scripts\comedy_movies
+Comedy,Time Travel Is Dangerous,1h 39m,99.0,6.7,145.0,Scripts\comedy_movies
+Comedy,Aavesham,2h 35m,155.0,7.8,28000.0,Scripts\comedy_movies
+Comedy,Sweethearts,1h 38m,98.0,5.5,3800.0,Scripts\comedy_movies
+Comedy,Turn Me On,1h 39m,99.0,5.6,499.0,Scripts\comedy_movies
+Comedy,The Wonderful Story of Henry Sugar and Three More,1h 28m,88.0,7.1,6500.0,Scripts\comedy_movies
+Comedy,Standing on the Shoulders of Kitties,1h 51m,111.0,6.2,538.0,Scripts\comedy_movies
+Comedy,Through My Window: Looking at You,1h 45m,105.0,5.4,5200.0,Scripts\comedy_movies
+Comedy,Gelin Takimi,1h 49m,109.0,3.2,2400.0,Scripts\comedy_movies
+Comedy,Lost & Found in Cleveland,PG-13,0.0,8.4,30.0,Scripts\comedy_movies
+Comedy,Irish Wish,1h 33m,93.0,5.2,21000.0,Scripts\comedy_movies
+Comedy,Megamind vs. The Doom Syndicate,1h 23m,83.0,2.5,5500.0,Scripts\comedy_movies
+Comedy,Find Me Falling,1h 33m,93.0,6.3,13000.0,Scripts\comedy_movies
+Comedy,Family Pack,1h 34m,94.0,5.5,8900.0,Scripts\comedy_movies
+Comedy,Beautiful Wedding,1h 40m,100.0,4.1,4100.0,Scripts\comedy_movies
+Comedy,The Best Christmas Pageant Ever,1h 39m,99.0,6.8,6100.0,Scripts\comedy_movies
+Comedy,Orion and the Dark,1h 33m,93.0,6.3,17000.0,Scripts\comedy_movies
+Comedy,Dongeng Sang Kancil,1h 39m,99.0,6.8,150.0,Scripts\comedy_movies
+Comedy,Reunion,1h 30m,90.0,5.6,3500.0,Scripts\comedy_movies
+Comedy,The Problem with People,1h 42m,102.0,5.8,393.0,Scripts\comedy_movies
+Comedy,The American Society of Magical Negroes,1h 44m,104.0,3.7,12000.0,Scripts\comedy_movies
+Comedy,This Is Me... Now,1h 5m,65.0,4.1,7100.0,Scripts\comedy_movies
+Comedy,Universal Language,1h 29m,89.0,7.1,1200.0,Scripts\comedy_movies
+Comedy,Hot Frosty,1h 32m,92.0,5.3,15000.0,Scripts\comedy_movies
+Comedy,Munjya,2h 3m,123.0,6.3,25000.0,Scripts\comedy_movies
+Comedy,Sasquatch Sunset,1h 28m,88.0,5.4,5400.0,Scripts\comedy_movies
+Comedy,Summer Camp,1h 35m,95.0,4.5,1500.0,Scripts\comedy_movies
+Comedy,Role Play,1h 40m,100.0,5.5,19000.0,Scripts\comedy_movies
+Comedy,Let's Start a Cult,1h 30m,90.0,5.9,1400.0,Scripts\comedy_movies
+Comedy,Shabab Albomb,1h 45m,105.0,4.8,269.0,Scripts\comedy_movies
+Comedy,Trouble,1h 38m,98.0,6.2,6700.0,Scripts\comedy_movies
+Comedy,My Favourite Cake,1h 37m,97.0,7.4,7100.0,Scripts\comedy_movies
+Comedy,Vulgar,1h 43m,103.0,5.4,122.0,Scripts\comedy_movies
+Comedy,Bookworm,1h 43m,103.0,6.0,1800.0,Scripts\comedy_movies
+Comedy,Players,1h 45m,105.0,5.7,12000.0,Scripts\comedy_movies
+Comedy,The Thundermans Return,1h 10m,70.0,5.0,1800.0,Scripts\comedy_movies
+Comedy,On Becoming a Guinea Fowl,1h 39m,99.0,7.2,810.0,Scripts\comedy_movies
+Comedy,Wallbanger,1h 58m,118.0,5.6,657.0,Scripts\comedy_movies
+Comedy,Sookshma Darshini,2h 22m,142.0,7.8,9900.0,Scripts\comedy_movies
+Comedy,Chuck Billy and the Marvelous Guava Tree,1h 30m,90.0,7.5,910.0,Scripts\comedy_movies
+Comedy,My Spy: The Eternal City,1h 52m,112.0,5.7,11000.0,Scripts\comedy_movies
+Comedy,And Mrs,1h 51m,111.0,5.8,734.0,Scripts\comedy_movies
+Comedy,Boot Camp,1h 34m,94.0,5.8,1100.0,Scripts\comedy_movies
+Comedy,The Fabulous Four,1h 38m,98.0,4.8,1500.0,Scripts\comedy_movies
+Comedy,Space Cadet,1h 50m,110.0,5.0,10000.0,Scripts\comedy_movies
+Comedy,Jönssonligan kommer tillbaka,1h 44m,104.0,5.9,1300.0,Scripts\comedy_movies
+Comedy,The Radleys,1h 55m,115.0,5.0,2700.0,Scripts\comedy_movies
+Comedy,Am I Racist?,1h 40m,100.0,6.7,17000.0,Scripts\comedy_movies
+Comedy,This Time Next Year,1h 56m,116.0,5.6,2200.0,Scripts\comedy_movies
+Comedy,A Little Something Extra,1h 39m,99.0,7.0,4800.0,Scripts\comedy_movies
+Comedy,Love in the Big City,1h 58m,118.0,7.5,1400.0,Scripts\comedy_movies
+Comedy,Street Trash,1h 25m,85.0,4.5,812.0,Scripts\comedy_movies
+Comedy,Buffalo Kids,1h 33m,93.0,6.6,666.0,Scripts\comedy_movies
+Comedy,"I, the Executioner",1h 58m,118.0,6.3,1700.0,Scripts\comedy_movies
+Comedy,Saving Bikini Bottom: The Sandy Cheeks Movie,1h 22m,82.0,3.7,3800.0,Scripts\comedy_movies
+Comedy,We're All Gonna Die,1h 50m,110.0,8.2,91.0,Scripts\comedy_movies
+Comedy,The Empire,1h 50m,110.0,5.2,1200.0,Scripts\comedy_movies
+Comedy,Ultraman: Rising,1h 57m,117.0,6.9,6300.0,Scripts\comedy_movies
+Comedy,The Merry Gentlemen,1h 27m,87.0,4.8,10000.0,Scripts\comedy_movies
+Comedy,Treasure,1h 51m,111.0,6.3,2000.0,Scripts\comedy_movies
+Comedy,Bhool Bhulaiyaa 3,2h 38m,158.0,4.7,77000.0,Scripts\comedy_movies
+Comedy,The Supremes at Earl's All-You-Can-Eat,2h 4m,124.0,6.4,1400.0,Scripts\comedy_movies
+Comedy,Madgaon Express,2h 23m,143.0,7.0,41000.0,Scripts\comedy_movies
+Comedy,Spread,1h 52m,112.0,5.7,647.0,Scripts\comedy_movies
+Comedy,Khel Khel Mein,2h 15m,135.0,6.5,27000.0,Scripts\comedy_movies
+Comedy,Officer Black Belt,1h 48m,108.0,6.8,8100.0,Scripts\comedy_movies
+Comedy,Panda Plan,1h 39m,99.0,5.1,1200.0,Scripts\comedy_movies
+Comedy,Bad Shabbos,1h 24m,84.0,7.5,161.0,Scripts\comedy_movies
+Comedy,Autumn and the Black Jaguar,1h 40m,100.0,5.6,989.0,Scripts\comedy_movies
+Comedy,Timestalker,1h 29m,89.0,5.5,2900.0,Scripts\comedy_movies
+Comedy,Triumph,1h 38m,98.0,5.5,247.0,Scripts\comedy_movies
+Comedy,The Gutter,1h 32m,92.0,5.5,489.0,Scripts\comedy_movies
+Comedy,Sweet Dreams,1h 35m,95.0,5.4,1400.0,Scripts\comedy_movies
+Comedy,How to Date Billy Walsh,1h 38m,98.0,5.2,3900.0,Scripts\comedy_movies
+Comedy,I Love You Forever,1h 29m,89.0,5.6,171.0,Scripts\comedy_movies
+Comedy,Nutcrackers,1h 44m,104.0,5.5,9300.0,Scripts\comedy_movies
+Comedy,The Second Act,1h 20m,80.0,6.4,3400.0,Scripts\comedy_movies
+Comedy,Rats!,1h 25m,85.0,6.5,114.0,Scripts\comedy_movies
+Comedy,The Balconettes,1h 44m,104.0,6.3,793.0,Scripts\comedy_movies
+Comedy,A Legend,2h 9m,129.0,4.7,884.0,Scripts\comedy_movies
+Comedy,That Christmas,1h 31m,91.0,6.8,17000.0,Scripts\comedy_movies
+Comedy,I Don't Understand You,1h 36m,96.0,7.2,72.0,Scripts\comedy_movies
+Comedy,Der Vierer,1h 28m,88.0,5.3,165.0,Scripts\comedy_movies
+Comedy,Blame the Game,1h 32m,92.0,5.4,5000.0,Scripts\comedy_movies
+Comedy,Shell,1h 40m,100.0,6.7,69.0,Scripts\comedy_movies
+Comedy,Drugstore June,1h 31m,91.0,5.4,1700.0,Scripts\comedy_movies
+Comedy,Dan Da Dan: First Encounter,1h 23m,83.0,8.2,2700.0,Scripts\comedy_movies
+Comedy,The Underdoggs,1h 36m,96.0,5.6,4600.0,Scripts\comedy_movies
+Comedy,Between the Temples,1h 51m,111.0,6.3,2900.0,Scripts\comedy_movies
+Comedy,Don't Tell Mom the Babysitter's Dead,1h 39m,99.0,3.8,1200.0,Scripts\comedy_movies
+Comedy,200% Wolf,1h 38m,98.0,5.9,1300.0,Scripts\comedy_movies
+Comedy,The Gentleman,1h 43m,103.0,7.9,96.0,Scripts\comedy_movies
+Comedy,Desert Fiends,1h 46m,106.0,,,Scripts\comedy_movies
+Comedy,Seize Them!,1h 31m,91.0,5.1,1200.0,Scripts\comedy_movies
+Comedy,Woody Woodpecker Goes to Camp,1h 40m,100.0,4.5,2500.0,Scripts\comedy_movies
+Comedy,The Trainer,1h 35m,95.0,7.0,53.0,Scripts\comedy_movies
+Comedy,The Tiger's Apprentice,1h 24m,84.0,5.7,2200.0,Scripts\comedy_movies
+Comedy,Marmalade,1h 39m,99.0,6.3,3500.0,Scripts\comedy_movies
+Comedy,Broken Rage,1h 2m,62.0,6.1,1400.0,Scripts\comedy_movies
+Comedy,Seven Cemeteries,1h 24m,84.0,4.5,552.0,Scripts\comedy_movies
+Comedy,Simarik,1h 51m,111.0,6.4,2500.0,Scripts\comedy_movies
+Comedy,The Astronaut Lovers,1h 56m,116.0,7.1,594.0,Scripts\comedy_movies
+Comedy,A House on Fire,1h 45m,105.0,7.3,3300.0,Scripts\comedy_movies
+Comedy,Die Hart 2: Die Harter,1h 32m,92.0,4.3,5500.0,Scripts\comedy_movies
+Comedy,French Girl,1h 46m,106.0,5.5,2300.0,Scripts\comedy_movies
+Comedy,Prom Dates,1h 26m,86.0,5.2,1700.0,Scripts\comedy_movies
+Comedy,Half Baked: Totally High,1h 37m,97.0,4.6,344.0,Scripts\comedy_movies
+Comedy,100 litraa sahtia,1h 28m,88.0,7.1,117.0,Scripts\comedy_movies
+Comedy,Una Pequeña Confusion,1h 47m,107.0,6.2,215.0,Scripts\comedy_movies
+Comedy,Swamp Dogg Gets His Pool Painted,1h 35m,95.0,8.5,51.0,Scripts\comedy_movies
+Comedy,Samana Sunrise,1h 40m,100.0,5.1,146.0,Scripts\comedy_movies
+Comedy,Premalu,2h 36m,156.0,7.8,19000.0,Scripts\comedy_movies
+Comedy,Carved,1h 35m,95.0,4.4,2700.0,Scripts\comedy_movies
+Comedy,City Hunter,1h 42m,102.0,6.3,5600.0,Scripts\comedy_movies
+Comedy,Cocorico,1h 32m,92.0,5.8,3200.0,Scripts\comedy_movies
+Comedy,Heavier Trip,1h 36m,96.0,6.0,1200.0,Scripts\comedy_movies
+Comedy,Diamanti,2h 15m,135.0,7.0,1000.0,Scripts\comedy_movies
+Comedy,Corina,1h 36m,96.0,7.2,315.0,Scripts\comedy_movies
+Comedy,White Snake: Afloat,2h 13m,133.0,6.9,461.0,Scripts\comedy_movies
+Comedy,Books & Drinks,1h 34m,94.0,6.3,93.0,Scripts\comedy_movies
+Comedy,Longing,1h 51m,111.0,4.7,799.0,Scripts\comedy_movies
+Comedy,Gone Running,1h 45m,105.0,7.1,4000.0,Scripts\comedy_movies
+Comedy,"Love, Divided",1h 38m,98.0,5.9,4600.0,Scripts\comedy_movies
+Comedy,Peacock,1h 42m,102.0,7.3,386.0,Scripts\comedy_movies
+Comedy,One Million Babes BC,1h 15m,75.0,2.2,78.0,Scripts\comedy_movies
+Comedy,Cheerleaders Behaving Badly,2h,120.0,7.5,9.0,Scripts\comedy_movies
+Comedy,Arthur's Whisky,1h 34m,94.0,4.5,825.0,Scripts\comedy_movies
+Comedy,Doraemon the Movie: Nobita's Earth Symphony,1h 55m,115.0,6.6,1500.0,Scripts\comedy_movies
+Comedy,Three Friends,1h 57m,117.0,6.5,676.0,Scripts\comedy_movies
+Comedy,Crew,1h 58m,118.0,5.8,37000.0,Scripts\comedy_movies
+Comedy,Alien Country,1h 36m,96.0,4.4,361.0,Scripts\comedy_movies
+Comedy,Not Another Church Movie,1h 30m,90.0,2.2,1100.0,Scripts\comedy_movies
+Comedy,Peter Five Eight,1h 40m,100.0,3.5,1100.0,Scripts\comedy_movies
+Comedy,Arena Wars,1h 36m,96.0,4.9,2000.0,Scripts\comedy_movies
+Comedy,Harry Potter and the Stone,2h 32m,152.0,8.1,161.0,Scripts\comedy_movies
+Comedy,Five Blind Dates,1h 23m,83.0,5.1,1900.0,Scripts\comedy_movies
+Comedy,The Other Way Around,1h 54m,114.0,6.4,1400.0,Scripts\comedy_movies
+Comedy,Jamais sans mon psy,1h 31m,91.0,4.8,236.0,Scripts\comedy_movies
+Comedy,Música,1h 31m,91.0,6.4,5000.0,Scripts\comedy_movies
+Comedy,How Could I Live Without You?,1h 45m,105.0,6.9,978.0,Scripts\comedy_movies
+Comedy,The Present,1h 26m,86.0,5.5,863.0,Scripts\comedy_movies
+Comedy,Handsome Guys,1h 41m,101.0,6.5,801.0,Scripts\comedy_movies
+Comedy,Unspeakable: Beyond the Wall of Sleep,1h 30m,90.0,6.2,47.0,Scripts\comedy_movies
+Comedy,Zero,1h 28m,88.0,6.1,41.0,Scripts\comedy_movies
+Comedy,Running on Empty,1h 31m,91.0,4.9,551.0,Scripts\comedy_movies
+Comedy,Plan B,1h 30m,90.0,5.9,1100.0,Scripts\comedy_movies
+Comedy,Murder Mubarak,2h 20m,140.0,5.8,51000.0,Scripts\comedy_movies
+Comedy,The Real Bros of Simi Valley: The Movie,1h 46m,106.0,7.1,1000.0,Scripts\comedy_movies
+Comedy,Hotii de Subiecte,1h 50m,110.0,7.0,79.0,Scripts\comedy_movies
+Comedy,Adult Best Friends,1h 30m,90.0,7.2,70.0,Scripts\comedy_movies
+Comedy,Jim's Story,1h 41m,101.0,6.8,905.0,Scripts\comedy_movies
+Comedy,Killer Body Count,1h 49m,109.0,4.7,646.0,Scripts\comedy_movies
+Comedy,Crayon Shin-chan: Ora's Dinosaur Diary,1h 46m,106.0,6.4,334.0,Scripts\comedy_movies
+Comedy,Nice Girls,1h 32m,92.0,4.2,1200.0,Scripts\comedy_movies
+Comedy,Little Death,1h 50m,110.0,5.4,203.0,Scripts\comedy_movies
+Comedy,Mars,1h 24m,84.0,8.9,20.0,Scripts\comedy_movies
+Comedy,Meet Me Next Christmas,1h 45m,105.0,5.7,8500.0,Scripts\comedy_movies
+Comedy,Layla,1h 40m,100.0,6.1,378.0,Scripts\comedy_movies
+Comedy,A Dog's Will 2,1h 44m,104.0,6.2,2900.0,Scripts\comedy_movies
+Comedy,404 Run Run,1h 44m,104.0,5.8,219.0,Scripts\comedy_movies
+Comedy,Vicky Vidya Ka Woh Wala Video,2h 32m,152.0,5.2,11000.0,Scripts\comedy_movies
+Comedy,Hisaab Barabar,1h 52m,112.0,5.8,1700.0,Scripts\comedy_movies
+Comedy,U Are the Universe,1h 30m,90.0,7.7,259.0,Scripts\comedy_movies
+Comedy,Haikyu!! The Dumpster Battle,1h 25m,85.0,7.7,6100.0,Scripts\comedy_movies
+Comedy,Family Therapy,2h 2m,122.0,6.2,157.0,Scripts\comedy_movies
+Comedy,Sew Torn,1h 40m,100.0,6.5,196.0,Scripts\comedy_movies
+Comedy,Young Werther,1h 41m,101.0,5.6,214.0,Scripts\comedy_movies
+Comedy,The Groomsmen: First Look,1h 22m,82.0,6.1,384.0,Scripts\comedy_movies
+Comedy,Troubleshooters,1h 50m,110.0,6.7,409.0,Scripts\comedy_movies
+Comedy,Another Cabin in the Woods Movie,1h 17m,77.0,4.7,201.0,Scripts\comedy_movies
+Comedy,The Solitary Gourmet,1h 50m,110.0,7.4,117.0,Scripts\comedy_movies
+Comedy,4PM,1h 51m,111.0,6.0,79.0,Scripts\comedy_movies
+Comedy,Meet the Barbarians,1h 41m,101.0,6.5,445.0,Scripts\comedy_movies
+Comedy,El Harifa 2: El Remontada,2h 10m,130.0,6.5,337.0,Scripts\comedy_movies
+Comedy,Dog on Trial,1h 23m,83.0,6.1,631.0,Scripts\comedy_movies
+Comedy,You Are the Apple of My Eye,1h 41m,101.0,7.6,3400.0,Scripts\comedy_movies
+Comedy,Inheritance,1h 34m,94.0,5.1,3500.0,Scripts\comedy_movies
+Comedy,The Last Frenzy,1h 47m,107.0,5.3,216.0,Scripts\comedy_movies
+Comedy,Griffin in Summer,1h 30m,90.0,7.2,158.0,Scripts\comedy_movies
+Comedy,The Grinch That Stole Bitches,1h 14m,74.0,6.7,65.0,Scripts\comedy_movies
+Comedy,London Calling,1h 49m,109.0,7.8,20.0,Scripts\comedy_movies
+Comedy,And the Breadwinner Is...,2h 3m,123.0,6.8,250.0,Scripts\comedy_movies
+Comedy,Candidatul perfect,1h 40m,100.0,6.1,900.0,Scripts\comedy_movies
+Comedy,Mother Father Sister Brother Frank,1h 25m,85.0,5.8,236.0,Scripts\comedy_movies
+Comedy,Do Aur Do Pyaar,2h 20m,140.0,6.4,12000.0,Scripts\comedy_movies
+Comedy,Alter weißer Mann,1h 54m,114.0,6.2,702.0,Scripts\comedy_movies
+Comedy,Krazy House,1h 29m,89.0,4.8,1400.0,Scripts\comedy_movies
+Comedy,Still Fabulous,1h 32m,92.0,4.9,855.0,Scripts\comedy_movies
+Comedy,Crackcoon,1h 28m,88.0,3.6,413.0,Scripts\comedy_movies
+Comedy,Slay,1h 39m,99.0,6.5,1100.0,Scripts\comedy_movies
+Comedy,No Time to Spy: A Loud House Movie,1h 21m,81.0,6.4,444.0,Scripts\comedy_movies
+Comedy,Døde menn går på ski,1h 29m,89.0,5.4,224.0,Scripts\comedy_movies
+Comedy,Audrey,1h 37m,97.0,5.7,293.0,Scripts\comedy_movies
+Comedy,Murder at Hollow Creek,1h 37m,,4.1,82.0,Scripts\comedy_movies
+Comedy,O Melhor Amigo,1h 36m,96.0,7.1,59.0,Scripts\comedy_movies
+Comedy,Christmas Eve in Miller's Point,1h 46m,106.0,5.6,2300.0,Scripts\comedy_movies
+Comedy,Almost Popular,1h 46m,,8.4,14.0,Scripts\comedy_movies
+Comedy,Juliette au printemps,1h 35m,95.0,6.4,247.0,Scripts\comedy_movies
+Comedy,Perfect Endings,1h 40m,100.0,5.6,191.0,Scripts\comedy_movies
+Comedy,Crossroads,1h 22m,82.0,7.7,6.0,Scripts\comedy_movies
+Comedy,Arzé,1h 30m,90.0,7.0,206.0,Scripts\comedy_movies
+Comedy,Casatoria,1h 36m,96.0,6.4,2800.0,Scripts\comedy_movies
+Comedy,I Am Kathalan,1h 55m,115.0,6.7,1100.0,Scripts\comedy_movies
+Comedy,Auction,1h 31m,91.0,6.5,911.0,Scripts\comedy_movies
+Comedy,How to Make a Killing,1h 49m,109.0,6.6,706.0,Scripts\comedy_movies
+Comedy,Ajosepo,2h 14m,134.0,8.7,54.0,Scripts\comedy_movies
+Comedy,Mr. Manhattan,1h 50m,110.0,6.7,440.0,Scripts\comedy_movies
+Comedy,A.R.M,2h 30m,150.0,7.1,8600.0,Scripts\comedy_movies
+Comedy,The Deb,2h 1m,121.0,7.5,71.0,Scripts\comedy_movies
+Comedy,Chantal in Fairyland,1h 58m,118.0,4.6,2600.0,Scripts\comedy_movies
+Comedy,The Southern Chronicles,2h,120.0,8.8,2500.0,Scripts\comedy_movies
+Comedy,Man and Witch: The Dance of a Thousand Steps,1h 34m,94.0,5.5,328.0,Scripts\comedy_movies
+Comedy,U.S. Palmese,2h,120.0,6.9,102.0,Scripts\comedy_movies
+Comedy,Lesbian Space Princess,1h 27m,87.0,7.5,110.0,Scripts\comedy_movies
+Comedy,Monster on a Plane,1h 28m,88.0,5.5,2300.0,Scripts\comedy_movies
+Comedy,Her Story,2h 3m,123.0,7.6,1800.0,Scripts\comedy_movies
+Comedy,10 Lives,1h 28m,88.0,5.9,1900.0,Scripts\comedy_movies
+Comedy,Two to One,1h 56m,116.0,6.1,717.0,Scripts\comedy_movies
+Comedy,Perhoset,1h 38m,98.0,6.3,176.0,Scripts\comedy_movies
+Comedy,King of My Castle,1h 49m,109.0,5.0,452.0,Scripts\comedy_movies
+Comedy,Lubber Pandhu,2h 26m,146.0,8.2,5900.0,Scripts\comedy_movies
+Comedy,Up the Catalogue,2h 26m,,,,Scripts\comedy_movies
+Comedy,Operation Taco Gary's,1h 28m,88.0,6.6,27.0,Scripts\comedy_movies
+Comedy,Guruvayoor Ambalanadayil,2h 12m,132.0,6.6,4600.0,Scripts\comedy_movies
+Comedy,Empire Waist,1h 37m,97.0,6.7,170.0,Scripts\comedy_movies
+Comedy,Head South,1h 38m,98.0,6.8,228.0,Scripts\comedy_movies
+Comedy,Il complottista,1h 25m,85.0,7.2,14.0,Scripts\comedy_movies
+Comedy,The Christmas Letter,1h 34m,94.0,4.1,178.0,Scripts\comedy_movies
+Comedy,Lesson Learned,1h 59m,119.0,7.7,2000.0,Scripts\comedy_movies
+Comedy,Baby Assassins: Nice Days,1h 43m,103.0,7.3,290.0,Scripts\comedy_movies
+Comedy,A Sudden Case of Christmas,1h 31m,91.0,5.1,1100.0,Scripts\comedy_movies
+Comedy,Funny Birds,1h 37m,97.0,5.6,233.0,Scripts\comedy_movies
+Comedy,Moartea in vacanta,1h 29m,89.0,6.6,1500.0,Scripts\comedy_movies
+Comedy,Almost Paradise,2h,120.0,6.4,540.0,Scripts\comedy_movies
+Comedy,Victory,2h,120.0,6.4,273.0,Scripts\comedy_movies
+Comedy,Retreat Vama Veche,1h 30m,90.0,3.9,931.0,Scripts\comedy_movies
+Comedy,Noah's Ark,1h 36m,96.0,4.3,641.0,Scripts\comedy_movies
+Comedy,Feeling Randy,1h 21m,81.0,7.8,471.0,Scripts\comedy_movies
+Comedy,Der Buchspazierer,1h 38m,98.0,7.3,380.0,Scripts\comedy_movies
+Comedy,Wild Wild Punjab,1h 49m,109.0,6.2,15000.0,Scripts\comedy_movies
+Comedy,Breakup Season,1h 42m,102.0,5.8,305.0,Scripts\comedy_movies
+Comedy,Dear Paris,1h 48m,108.0,5.6,318.0,Scripts\comedy_movies
+Comedy,C Takimi,2h 15m,135.0,2.8,486.0,Scripts\comedy_movies
+Comedy,Ryan's World the Movie: Titan Universe Adventure,1h 20m,80.0,1.8,681.0,Scripts\comedy_movies
+Comedy,Good Bad Things,1h 36m,96.0,5.7,193.0,Scripts\comedy_movies
+Comedy,Destroy All Neighbors,1h 25m,85.0,5.3,2000.0,Scripts\comedy_movies
+Comedy,Frankie Freako,1h 25m,85.0,5.6,1100.0,Scripts\comedy_movies
+Comedy,Gracie and Pedro: Pets to the Rescue,1h 27m,87.0,5.1,265.0,Scripts\comedy_movies
+Comedy,Paying for It,1h 25m,85.0,7.1,107.0,Scripts\comedy_movies
+Comedy,Le panache,1h 33m,93.0,6.4,122.0,Scripts\comedy_movies
+Comedy,"María, Me Muero",1h 33m,93.0,5.6,89.0,Scripts\comedy_movies
+Comedy,Yolo,2h 9m,129.0,6.9,3700.0,Scripts\comedy_movies
+Comedy,Un mondo a parte,1h 53m,113.0,6.5,1200.0,Scripts\comedy_movies
+Comedy,Marcello Mio,2h,120.0,5.9,888.0,Scripts\comedy_movies
+Comedy,Bad Newz,2h 22m,142.0,4.7,26000.0,Scripts\comedy_movies
+Comedy,Everybody Loves Jenifa,2h 15m,135.0,8.3,82.0,Scripts\comedy_movies
+Comedy,Mukadderat,1h 30m,90.0,7.3,513.0,Scripts\comedy_movies
+Comedy,Crust,1h 42m,102.0,6.1,229.0,Scripts\comedy_movies
+Comedy,Teddy and the Mountain,1h 42m,,7.3,23.0,Scripts\comedy_movies
+Comedy,Goyo,1h 46m,106.0,6.6,2200.0,Scripts\comedy_movies
+Comedy,Vaazha: Biopic of a Billion Boys,2h 5m,125.0,7.3,4000.0,Scripts\comedy_movies
+Comedy,Marianengraben,1h 27m,87.0,7.5,81.0,Scripts\comedy_movies
+Comedy,Bull Run,1h 37m,97.0,,,Scripts\comedy_movies
+Comedy,Swag,2h 30m,150.0,7.6,3000.0,Scripts\comedy_movies
+Comedy,Bau: Artist at War,2h 10m,130.0,7.0,55.0,Scripts\comedy_movies
+Comedy,Srikakulam Sherlockholmes,2h 5m,125.0,8.1,2300.0,Scripts\comedy_movies
+Comedy,Tillu Square,2h 17m,137.0,6.6,3400.0,Scripts\comedy_movies
+Comedy,The Roast of Tom Brady,2h 59m,179.0,7.2,5800.0,Scripts\comedy_movies
+Comedy,Stealing Pulp Fiction,1h 18m,78.0,6.2,21.0,Scripts\comedy_movies
+Comedy,Sons of Rizk 3,2h 5m,125.0,6.7,1700.0,Scripts\comedy_movies
+Comedy,Blackout,2h 2m,122.0,6.1,10000.0,Scripts\comedy_movies
+Comedy,Sallywood,2h 2m,,7.6,58.0,Scripts\comedy_movies
+Comedy,Pressure Cooker,2h 2m,,4.5,439.0,Scripts\comedy_movies
+Comedy,Mission: Cross,1h 45m,105.0,6.1,2600.0,Scripts\comedy_movies
+Comedy,Don't Mess with Grandma,1h 21m,81.0,6.0,151.0,Scripts\comedy_movies
+Comedy,Straight A Pregnancy,1h 21m,,8.6,41.0,Scripts\comedy_movies
+Comedy,Ishq Vishk Rebound,1h 46m,106.0,5.6,7100.0,Scripts\comedy_movies
+Comedy,The Throwback,1h 36m,96.0,5.5,346.0,Scripts\comedy_movies
+Comedy,Mascarpone: The Rainbow Cake,1h 45m,105.0,6.1,496.0,Scripts\comedy_movies
+Comedy,One Night in Tokyo,1h 35m,95.0,7.5,69.0,Scripts\comedy_movies
+Comedy,V dobrém i zlém,1h 33m,93.0,6.5,52.0,Scripts\comedy_movies
+Comedy,Believe in Christmas,1h 30m,90.0,6.1,822.0,Scripts\comedy_movies
+Comedy,Down the Rabbit Hole,1h 42m,102.0,5.6,539.0,Scripts\comedy_movies
+Comedy,"Love, Danielle",1h 19m,79.0,8.9,39.0,Scripts\comedy_movies
+Comedy,Con Job,1h 19m,,8.1,289.0,Scripts\comedy_movies
+Comedy,Switch Up,1h 45m,105.0,8.6,27.0,Scripts\comedy_movies
+Comedy,Vampire Zombies... From Space!,1h 38m,98.0,7.6,67.0,Scripts\comedy_movies
+Comedy,À bicyclette!,1h 30m,90.0,7.0,188.0,Scripts\comedy_movies
+Comedy,Lucky Winners,1h 43m,103.0,6.2,1400.0,Scripts\comedy_movies
+Comedy,¿Quién es quién?,1h 35m,95.0,5.9,73.0,Scripts\comedy_movies
+Comedy,Going Viral,1h 30m,90.0,6.8,52.0,Scripts\comedy_movies
+Comedy,When in Rome,1h 38m,98.0,6.1,737.0,Scripts\comedy_movies
+Comedy,Victoria må dø,1h 25m,85.0,5.9,360.0,Scripts\comedy_movies
+Comedy,À l'ancienne,1h 29m,89.0,4.6,290.0,Scripts\comedy_movies
+Comedy,Suspended Time,1h 45m,105.0,5.4,301.0,Scripts\comedy_movies
+Comedy,Last Night at Terrace Lanes,1h 15m,75.0,4.4,628.0,Scripts\comedy_movies
+Comedy,Citizen of a Kind,1h 54m,114.0,6.7,792.0,Scripts\comedy_movies
+Comedy,Nuked,1h 26m,86.0,7.9,42.0,Scripts\comedy_movies
+Comedy,Stress Positions,1h 35m,95.0,5.0,621.0,Scripts\comedy_movies
+Comedy,The Book of Jobs,1h 30m,90.0,,,Scripts\comedy_movies
+Comedy,Heads or Fails,1h 26m,86.0,7.2,48.0,Scripts\comedy_movies
+Comedy,About Family,1h 46m,106.0,6.8,115.0,Scripts\comedy_movies
+Comedy,Cassino in Ischia,1h 53m,113.0,4.4,239.0,Scripts\comedy_movies
+Comedy,Camp Crasher,1h 35m,95.0,5.4,798.0,Scripts\comedy_movies
+Comedy,Kangaroo Island,1h 53m,113.0,7.5,24.0,Scripts\comedy_movies
+Comedy,Holy Cash,1h 34m,94.0,7.3,24.0,Scripts\comedy_movies
+Comedy,N'avoue jamais,1h 34m,94.0,5.8,461.0,Scripts\comedy_movies
+Comedy,Kid Santa,1h 34m,,,,Scripts\comedy_movies
+Comedy,Oscar Wilde About America,1h 38m,98.0,3.5,22.0,Scripts\comedy_movies
+Comedy,Bermondsey Tales: Fall of the Roman Empire,1h 39m,99.0,4.4,180.0,Scripts\comedy_movies
+Comedy,Deaner '89,1h 30m,90.0,5.9,416.0,Scripts\comedy_movies
+Comedy,Marry Christmas,1h 25m,85.0,6.7,60.0,Scripts\comedy_movies
+Comedy,Umjolo: The Gone Girl,1h 32m,92.0,4.4,270.0,Scripts\comedy_movies
+Comedy,The Holiday List,1h 25m,85.0,4.2,206.0,Scripts\comedy_movies
+Comedy,Finalement,2h 7m,127.0,5.7,260.0,Scripts\comedy_movies
+Comedy,Buzz House: The Movie,1h 33m,93.0,3.2,1200.0,Scripts\comedy_movies
+Comedy,The Pee Pee Poo Poo Man,1h 19m,79.0,8.1,18.0,Scripts\comedy_movies
+Comedy,Cells at Work!,1h 49m,109.0,6.8,191.0,Scripts\comedy_movies
+Comedy,Rap World,56m,56.0,7.8,504.0,Scripts\comedy_movies
+Comedy,The Everything Pot,1h 30m,90.0,7.3,32.0,Scripts\comedy_movies
+Comedy,Barbie & Kendra Crash Joe Bob's Drive-In Jamboree,51m,51.0,4.8,107.0,Scripts\comedy_movies
+Comedy,My Ex's Wedding,1h 35m,95.0,8.6,46.0,Scripts\comedy_movies
+Comedy,In Fidelity,1h 35m,,5.2,27.0,Scripts\comedy_movies
+Comedy,My Wifes X,1h 41m,101.0,6.4,772.0,Scripts\comedy_movies
+Comedy,Dirty Ice Cream,47m,47.0,4.4,116.0,Scripts\comedy_movies
+Comedy,Hahacar,2h 15m,135.0,6.9,319.0,Scripts\comedy_movies
+Comedy,Swede Caroline,1h 38m,98.0,5.4,227.0,Scripts\comedy_movies
+Comedy,A Hip Hop Story,1h 30m,90.0,8.7,107.0,Scripts\comedy_movies
+Comedy,Jhamkudi,2h 31m,151.0,6.6,980.0,Scripts\comedy_movies
+Comedy,Memory Lane,1h 38m,98.0,7.4,1800.0,Scripts\comedy_movies
+Comedy,The Actor,2h 8m,128.0,3.3,725.0,Scripts\comedy_movies
+Comedy,Adios Amigo,2h 36m,156.0,5.9,1400.0,Scripts\comedy_movies
+Comedy,Suckers,1h 7m,67.0,3.3,120.0,Scripts\comedy_movies
+Comedy,Vijay 69,1h 52m,112.0,6.1,1200.0,Scripts\comedy_movies
+Comedy,Chainsaws Were Singing,1h 57m,117.0,7.2,355.0,Scripts\comedy_movies
+Comedy,Maybe Baby 2,1h 45m,105.0,5.7,534.0,Scripts\comedy_movies
+Comedy,Cat and Dog,1h 26m,86.0,5.3,1100.0,Scripts\comedy_movies
+Comedy,Queens of Drama,1h 54m,114.0,6.3,187.0,Scripts\comedy_movies
+Comedy,Doctor Doctor,1h 38m,98.0,8.2,129.0,Scripts\comedy_movies
+Comedy,Scared Shitless,1h 16m,76.0,6.1,206.0,Scripts\comedy_movies
+Comedy,Vive e Deixa Andar,1h 47m,107.0,6.1,59.0,Scripts\comedy_movies
+Comedy,Tim Travers & the Time Travelers Paradox,1h 35m,95.0,6.9,276.0,Scripts\comedy_movies
+Comedy,Say a Little Prayer,1h 43m,103.0,8.5,42.0,Scripts\comedy_movies
+Comedy,Cocaine Werewolf,1h 20m,80.0,2.3,299.0,Scripts\comedy_movies
+Comedy,La casa,1h 23m,83.0,7.0,925.0,Scripts\comedy_movies
+Comedy,Finché notte non ci separi,1h 25m,85.0,5.6,131.0,Scripts\comedy_movies
+Comedy,Love at 39 Degrees,1h 55m,115.0,5.5,1400.0,Scripts\comedy_movies
+Comedy,Wishing on a Star,1h 39m,99.0,6.7,139.0,Scripts\comedy_movies
+Comedy,Erdal and Ece,1h 47m,107.0,4.3,4200.0,Scripts\comedy_movies
+Comedy,I Heard You Buy Souls,1h 28m,88.0,2.7,42.0,Scripts\comedy_movies
+Comedy,The Missile,1h 50m,110.0,6.6,1000.0,Scripts\comedy_movies
+Comedy,Meet the Leroys,1h 42m,102.0,6.4,1100.0,Scripts\comedy_movies
+Comedy,Badaa Saat Fi Yawman Ma,1h 40m,100.0,6.3,89.0,Scripts\comedy_movies
+Comedy,Divorce,1h 31m,91.0,5.8,743.0,Scripts\comedy_movies
+Comedy,Fierce Killer Marsupial,1h 26m,86.0,2.3,39.0,Scripts\comedy_movies
+Comedy,Kidnapping Inc.,1h 47m,107.0,6.6,233.0,Scripts\comedy_movies
+Comedy,I Am What I Am 2,2h 14m,134.0,7.5,199.0,Scripts\comedy_movies
+Comedy,Technoboys,1h 49m,109.0,5.2,965.0,Scripts\comedy_movies
+Comedy,The Heartbreak Agency,1h 34m,94.0,5.3,719.0,Scripts\comedy_movies
+Comedy,King Baby,1h 28m,88.0,7.0,24.0,Scripts\comedy_movies
+Comedy,Jon Vardar protiv Galaksijata,1h 26m,86.0,8.5,66.0,Scripts\comedy_movies
+Comedy,This Life of Mine,1h 39m,99.0,5.5,242.0,Scripts\comedy_movies
+Comedy,The World According to Kaleb: On Tour,1h 39m,,5.4,177.0,Scripts\comedy_movies
+Comedy,Space Sharks,1h 10m,70.0,1.5,317.0,Scripts\comedy_movies
+Comedy,Betting with Ghost,1h 52m,112.0,6.7,60.0,Scripts\comedy_movies
+Comedy,Last ExMas,1h 24m,84.0,5.4,336.0,Scripts\comedy_movies
+Comedy,Hello Mummy,2h 16m,136.0,5.6,3300.0,Scripts\comedy_movies
+Comedy,Disaster Holiday,1h 33m,93.0,4.8,691.0,Scripts\comedy_movies
+Comedy,Ballot,1h 42m,102.0,6.3,227.0,Scripts\comedy_movies
+Comedy,The Holiday Club,1h 28m,88.0,6.6,361.0,Scripts\comedy_movies
+Comedy,Vasco Da Gama,2h 5m,125.0,5.1,2900.0,Scripts\comedy_movies
+Comedy,Jamie Foxx: What Had Happened Was...,1h 8m,68.0,5.8,2000.0,Scripts\comedy_movies
+Comedy,Alakada: Bad and Boujee,1h 8m,,9.2,12.0,Scripts\comedy_movies
+Comedy,Non Negotiable,1h 27m,87.0,5.4,1200.0,Scripts\comedy_movies
+Comedy,De jackpot,1h 43m,103.0,4.9,143.0,Scripts\comedy_movies
+Comedy,Ma Este Gyilkolunk,1h 43m,,5.1,569.0,Scripts\comedy_movies
+Comedy,La Familia,1h 43m,,6.8,42.0,Scripts\comedy_movies
+Comedy,Throuple,1h 32m,92.0,6.6,68.0,Scripts\comedy_movies
+Comedy,Doin' It,1h 32m,92.0,5.8,44.0,Scripts\comedy_movies
+Comedy,Extremely Unique Dynamic,1h 13m,73.0,7.7,340.0,Scripts\comedy_movies
+Comedy,The Yorkie Werewolf,1h 13m,,6.3,69.0,Scripts\comedy_movies
+Comedy,The Casagrandes Movie,1h 29m,89.0,5.6,662.0,Scripts\comedy_movies
+Comedy,Rent Free,1h 33m,93.0,7.8,67.0,Scripts\comedy_movies
+Comedy,Super Happy Forever,1h 34m,94.0,6.9,177.0,Scripts\comedy_movies
+Comedy,Mamífera,1h 33m,93.0,6.6,425.0,Scripts\comedy_movies
+Comedy,1995,2h,120.0,6.8,594.0,Scripts\comedy_movies
+Comedy,Team of Two,2h,,5.0,108.0,Scripts\comedy_movies
+Comedy,Kang Mak,2h 2m,122.0,6.4,785.0,Scripts\comedy_movies
+Comedy,Grotesque 2,2h 2m,,6.4,442.0,Scripts\comedy_movies
+Comedy,Successor,2h 13m,133.0,6.8,1300.0,Scripts\comedy_movies
+Comedy,Haunt Season,1h 21m,81.0,4.9,775.0,Scripts\comedy_movies
+Comedy,Fasel Men El Lahazat El Lazeeza,2h 2m,122.0,6.5,869.0,Scripts\comedy_movies
+Comedy,Athens Midnight Radio,1h 14m,74.0,7.3,219.0,Scripts\comedy_movies
+Comedy,Young Lion of the West,1h 33m,93.0,5.2,108.0,Scripts\comedy_movies
+Comedy,Nunakuzhi,2h 5m,125.0,6.8,3000.0,Scripts\comedy_movies
+Comedy,Agak Laen,1h 59m,119.0,7.6,2900.0,Scripts\comedy_movies
+Comedy,Rockbottom,1h 22m,82.0,7.4,84.0,Scripts\comedy_movies
+Comedy,Don't Say It,1h 22m,,9.0,43.0,Scripts\comedy_movies
+Comedy,A Most Atrocious Thing,1h 15m,75.0,3.8,253.0,Scripts\comedy_movies
+Comedy,Illegal Hayatlar: Meclis,1h 55m,115.0,6.8,824.0,Scripts\comedy_movies
+Comedy,Io e te dobbiamo parlare,1h 35m,95.0,4.2,187.0,Scripts\comedy_movies
+Comedy,Father There is Only One 4,1h 30m,90.0,5.2,611.0,Scripts\comedy_movies
+Comedy,Jack in Time for Christmas,1h 6m,66.0,4.6,1000.0,Scripts\comedy_movies
+Comedy,Micro Budget,1h 28m,88.0,8.2,32.0,Scripts\comedy_movies
+Comedy,Trisha on the Rocks,2h 52m,172.0,5.2,3000.0,Scripts\comedy_movies
+Comedy,Staycation,1h 34m,94.0,7.1,105.0,Scripts\comedy_movies
+Comedy,The Black Sea,1h 36m,96.0,7.9,81.0,Scripts\comedy_movies
+Comedy,Meet Me in Rome,1h 25m,85.0,5.1,622.0,Scripts\comedy_movies
+Comedy,Eho kati na po,1h 36m,96.0,6.3,23.0,Scripts\comedy_movies
+Comedy,El Heredero,1h 43m,103.0,8.1,36.0,Scripts\comedy_movies
+Comedy,Bionico's Bachata,1h 20m,80.0,8.5,45.0,Scripts\comedy_movies
+Comedy,200KG Vampire,1h 33m,93.0,5.2,29.0,Scripts\comedy_movies
+Comedy,Mandakini,2h 7m,127.0,5.9,2900.0,Scripts\comedy_movies
+Comedy,Dreaming of You,1h 35m,95.0,8.6,26.0,Scripts\comedy_movies
+Comedy,Bakkal Amca: Mahmut Tuncer,1h 46m,106.0,3.7,210.0,Scripts\comedy_movies
+Comedy,La petite vadrouille,1h 36m,96.0,5.6,364.0,Scripts\comedy_movies
+Comedy,Hep Yek: Asiret,1h 26m,86.0,2.3,202.0,Scripts\comedy_movies
+Comedy,Something's More Than One Thing,1h 50m,110.0,8.9,91.0,Scripts\comedy_movies
+Comedy,Daaru Na Peenda Hove,1h 51m,111.0,7.7,2300.0,Scripts\comedy_movies
+Comedy,The Disruptors,1h 26m,86.0,5.8,176.0,Scripts\comedy_movies
+Comedy,Murder and Cocktails,1h 28m,88.0,4.0,360.0,Scripts\comedy_movies
+Comedy,Nee Dhaarey Nee Katha,2h 2m,122.0,8.8,1100.0,Scripts\comedy_movies
+Comedy,Boy Kaldag,1h 34m,94.0,5.2,164.0,Scripts\comedy_movies
+Comedy,A Trip Elsewhere,1h 33m,93.0,5.6,101.0,Scripts\comedy_movies
+Comedy,Alles Fifty Fifty,1h 53m,113.0,6.3,435.0,Scripts\comedy_movies
+Comedy,2nd Miracle in Cell No. 7,2h 27m,147.0,7.8,201.0,Scripts\comedy_movies
+Comedy,Once Upon a Christmas Wish,1h 30m,90.0,6.1,319.0,Scripts\comedy_movies
+Comedy,A Mary Little Christmas,1h 30m,,9.4,21.0,Scripts\comedy_movies
+Comedy,Fruitcake,1h 37m,97.0,5.4,119.0,Scripts\comedy_movies
+Comedy,Love... Reconsidered,1h 28m,88.0,4.3,130.0,Scripts\comedy_movies
+Comedy,Messy,1h 30m,90.0,6.2,14.0,Scripts\comedy_movies
+Comedy,Romeo è Giulietta,1h 45m,105.0,6.4,399.0,Scripts\comedy_movies
+Comedy,Inga Naan Thaan Kingu,2h 12m,132.0,5.3,443.0,Scripts\comedy_movies
+Comedy,The Price of Nonna's Inheritance,1h 30m,90.0,5.3,1100.0,Scripts\comedy_movies
+Comedy,A European Christmas,1h 30m,90.0,4.7,192.0,Scripts\comedy_movies
+Comedy,G for Gap,1h 43m,103.0,7.2,547.0,Scripts\comedy_movies
+Comedy,Dünya Varmis,1h 40m,100.0,7.4,51.0,Scripts\comedy_movies
+Comedy,Another Day in America,1h 40m,,8.9,82.0,Scripts\comedy_movies
+Comedy,Texas 3,1h 40m,,3.7,483.0,Scripts\comedy_movies
+Comedy,Twisted Hearts,1h 30m,90.0,7.2,12.0,Scripts\comedy_movies
+Comedy,Sad Jokes,1h 36m,96.0,6.6,89.0,Scripts\comedy_movies
+Comedy,Breakfast with Giraffes,1h 37m,97.0,6.4,514.0,Scripts\comedy_movies
+Comedy,My Boyfriend Is a Sex Worker,50m,50.0,4.8,13.0,Scripts\comedy_movies
+Comedy,Clone Cops,1h 36m,96.0,8.0,191.0,Scripts\comedy_movies
+Comedy,Veni Vidi Vici,1h 26m,86.0,5.8,348.0,Scripts\comedy_movies
+Comedy,Local Kung Fu 3,2h 16m,136.0,9.2,31.0,Scripts\comedy_movies
+Comedy,A Gangster's Kiss,1h 21m,81.0,4.9,45.0,Scripts\comedy_movies
+Comedy,My Annoying Brother,1h 54m,114.0,7.5,205.0,Scripts\comedy_movies
+Comedy,National Theatre Live: Nye,2h 40m,160.0,8.0,260.0,Scripts\comedy_movies
+Comedy,The Great Salish Heist,1h 35m,95.0,7.1,28.0,Scripts\comedy_movies
+Comedy,Anyone But Her,1h 33m,93.0,4.9,282.0,Scripts\comedy_movies
+Comedy,Perdiendo el Juicio,1h 30m,90.0,7.4,18.0,Scripts\comedy_movies
+Comedy,Periodt,1h 30m,,,,Scripts\comedy_movies
+Comedy,Guardian,2h,120.0,4.1,664.0,Scripts\comedy_movies
+Comedy,Idiyan Chandhu,2h,120.0,4.7,211.0,Scripts\comedy_movies
+Comedy,Kakuda,1h 56m,116.0,5.4,6300.0,Scripts\comedy_movies
+Comedy,The Proud Princess,1h 24m,84.0,7.1,108.0,Scripts\comedy_movies
+Comedy,Bocchi the Rock! Re:,1h 30m,90.0,7.6,154.0,Scripts\comedy_movies
+Comedy,Checkmate,1h 44m,104.0,4.3,385.0,Scripts\comedy_movies
+Comedy,Pilot,1h 50m,110.0,6.2,780.0,Scripts\comedy_movies
+Comedy,Keep Rolling,1h 41m,101.0,5.9,44.0,Scripts\comedy_movies
+Comedy,Panchak,2h 2m,122.0,7.9,69.0,Scripts\comedy_movies
+Comedy,Plastic Guns,1h 35m,95.0,6.3,607.0,Scripts\comedy_movies
+Comedy,Sunlight,1h 36m,96.0,7.9,17.0,Scripts\comedy_movies
+Comedy,Oru Kattil Oru Muri,2h 5m,125.0,4.6,57.0,Scripts\comedy_movies
+Comedy,Female 4,1h 21m,81.0,5.8,109.0,Scripts\comedy_movies
+Comedy,"MoviePass, MovieCrash",1h 36m,96.0,6.7,2800.0,Scripts\comedy_movies
+Comedy,Party People,1h 36m,,9.3,16.0,Scripts\comedy_movies
+Comedy,Neelan & Kevin,1h 29m,89.0,8.0,11.0,Scripts\comedy_movies
+Comedy,La famille Hennedricks,1h 25m,85.0,5.0,183.0,Scripts\comedy_movies
+Comedy,I Left My Heart in Colombia,1h 25m,,9.1,416.0,Scripts\comedy_movies
+Comedy,Beyond the Likes,1h 50m,110.0,6.4,17.0,Scripts\comedy_movies
+Comedy,Dalej jazda!,1h 40m,100.0,6.0,121.0,Scripts\comedy_movies
+Comedy,Another German Tank Story,1h 36m,96.0,6.2,56.0,Scripts\comedy_movies
+Comedy,1 Bad Azz Day,1h 36m,,,,Scripts\comedy_movies
+Comedy,My Melbourne,1h 40m,100.0,7.5,40.0,Scripts\comedy_movies
+Comedy,Tous toqués !,1h 52m,112.0,6.4,188.0,Scripts\comedy_movies
+Comedy,I Am Not Big Bird,1h 36m,96.0,5.2,197.0,Scripts\comedy_movies
+Comedy,In Good Hands 2,1h 39m,99.0,5.3,949.0,Scripts\comedy_movies
+Comedy,Tanning Zone,1h 39m,,,,Scripts\comedy_movies
+Comedy,(Un)lucky Sisters,1h 22m,82.0,5.2,858.0,Scripts\comedy_movies
+Comedy,Empire Queen: The Golden Age of Magic,2h 28m,148.0,3.2,204.0,Scripts\comedy_movies
+Comedy,Grrr...,2h 1m,121.0,4.0,810.0,Scripts\comedy_movies
+Comedy,You Are Not Alone,1h 45m,105.0,6.2,68.0,Scripts\comedy_movies
+Comedy,Yasam Koçu,1h 35m,95.0,3.8,1200.0,Scripts\comedy_movies
+Comedy,Vil & Misérable,1h 54m,114.0,7.1,66.0,Scripts\comedy_movies
+Comedy,Clickbait: Unfollowed,1h 30m,90.0,4.9,568.0,Scripts\comedy_movies
+Comedy,Office Siren,58m,58.0,,,Scripts\comedy_movies
+Comedy,Pegasus 2,2h 1m,121.0,6.9,1300.0,Scripts\comedy_movies
+Comedy,Menudas piezas,1h 39m,99.0,5.8,590.0,Scripts\comedy_movies
+Comedy,Amazon Bullseye,1h 53m,113.0,5.3,190.0,Scripts\comedy_movies
+Comedy,I Can't Live Without You,1h 52m,112.0,5.0,798.0,Scripts\comedy_movies
+Comedy,Varshangalkku Shesham,2h 46m,166.0,6.6,4100.0,Scripts\comedy_movies
+Comedy,The Honest Candidate,1h 36m,96.0,5.3,309.0,Scripts\comedy_movies
+Comedy,Der Spitzname,1h 30m,90.0,5.8,464.0,Scripts\comedy_movies
+Comedy,Jolly O Gymkhana,2h 9m,129.0,7.4,1500.0,Scripts\comedy_movies
+Comedy,Jorgovani,1h 23m,83.0,5.6,616.0,Scripts\comedy_movies
+Comedy,SuperKlaus,1h 28m,88.0,4.3,201.0,Scripts\comedy_movies
+Comedy,Christmas Slasher,1h 28m,,,,Scripts\comedy_movies
+Comedy,Love You to Debt,2h 15m,135.0,6.2,754.0,Scripts\comedy_movies
+Comedy,E se mio padre,1h 40m,100.0,5.5,16.0,Scripts\comedy_movies
+Comedy,Bremenskie muzykanty,1h 55m,115.0,4.6,668.0,Scripts\comedy_movies
+Comedy,Chapter 51,1h 55m,,,,Scripts\comedy_movies
+Comedy,Mathu Vadalara 2,2h 19m,139.0,7.0,1600.0,Scripts\comedy_movies
+Comedy,Group Therapy,1h 26m,86.0,5.8,42.0,Scripts\comedy_movies
+Comedy,Kyuka: Before Summer's End,1h 43m,103.0,6.9,93.0,Scripts\comedy_movies
+Comedy,Waarom Wettelen,1h 46m,106.0,6.4,420.0,Scripts\comedy_movies
+Comedy,No Pressure,1h 51m,111.0,5.1,1100.0,Scripts\comedy_movies
+Comedy,Bharathanatyam,2h 1m,121.0,6.7,1600.0,Scripts\comedy_movies
+Comedy,Una terapia di gruppo,2h 1m,,5.7,78.0,Scripts\comedy_movies
+Comedy,Ek Daav Bhootacha,2h 26m,146.0,5.6,112.0,Scripts\comedy_movies
+Comedy,Killer Babes,1h 34m,94.0,3.5,283.0,Scripts\comedy_movies
+Comedy,Bachelor Party,2h 25m,145.0,5.2,334.0,Scripts\comedy_movies
+Comedy,K-Pops!,1h 54m,114.0,7.1,56.0,Scripts\comedy_movies
+Comedy,Odd Fish,1h 44m,104.0,7.9,50.0,Scripts\comedy_movies
+Comedy,Transmitzvah,1h 40m,100.0,4.4,313.0,Scripts\comedy_movies
+Comedy,De Z van Zus,2h,120.0,6.6,426.0,Scripts\comedy_movies
+Comedy,Laxmi Kataksham,2h 28m,148.0,6.8,11.0,Scripts\comedy_movies
+Comedy,Nadikar,2h 22m,142.0,5.3,445.0,Scripts\comedy_movies
+Comedy,"Snow, Tea and Love 2: With a Little Luck",1h 37m,97.0,3.8,271.0,Scripts\comedy_movies
+Comedy,Father-in-law and Son-in-law,1h 35m,95.0,,,Scripts\comedy_movies
+Comedy,Enchanting Christmas,1h 31m,91.0,6.3,354.0,Scripts\comedy_movies
+Comedy,The Infallibles,1h 39m,99.0,4.8,751.0,Scripts\comedy_movies
+Comedy,Kalvan,2h 22m,142.0,5.6,985.0,Scripts\comedy_movies
+Crime,Trap,1h 45m,105.0,5.8,135000.0,Scripts\crime_movies
+Crime,Pushpa: The Rule - Part 2,3h 21m,201.0,6.1,55000.0,Scripts\crime_movies
+Crime,Longlegs,1h 41m,101.0,6.6,183000.0,Scripts\crime_movies
+Crime,Freaky Tales,1h 46m,106.0,7.1,732.0,Scripts\crime_movies
+Crime,Juror #2,1h 54m,114.0,7.0,95000.0,Scripts\crime_movies
+Crime,The Beekeeper,1h 45m,105.0,6.3,155000.0,Scripts\crime_movies
+Crime,Carry-On,1h 59m,119.0,6.5,163000.0,Scripts\crime_movies
+Crime,Riff Raff,1h 43m,103.0,5.7,2600.0,Scripts\crime_movies
+Crime,The Order,1h 56m,116.0,6.8,40000.0,Scripts\crime_movies
+Crime,Emilia Pérez,2h 12m,132.0,5.4,87000.0,Scripts\crime_movies
+Crime,MaXXXine,1h 43m,103.0,6.3,69000.0,Scripts\crime_movies
+Crime,Despicable Me 4,1h 34m,94.0,6.2,64000.0,Scripts\crime_movies
+Crime,Wolfs,1h 48m,108.0,6.5,81000.0,Scripts\crime_movies
+Crime,The Crow,1h 51m,111.0,4.7,34000.0,Scripts\crime_movies
+Crime,Rebel Ridge,2h 11m,131.0,6.8,87000.0,Scripts\crime_movies
+Crime,Lucky Baskhar,2h 28m,148.0,8.0,31000.0,Scripts\crime_movies
+Crime,Bad Boys: Ride or Die,1h 55m,115.0,6.5,99000.0,Scripts\crime_movies
+Crime,Marco,2h 25m,145.0,6.9,21000.0,Scripts\crime_movies
+Crime,Love Lies Bleeding,1h 44m,104.0,6.6,56000.0,Scripts\crime_movies
+Crime,The Girl with the Needle,2h 3m,123.0,7.5,13000.0,Scripts\crime_movies
+Crime,Monkey Man,2h 1m,121.0,6.8,91000.0,Scripts\crime_movies
+Crime,The Seed of the Sacred Fig,2h 47m,167.0,7.6,13000.0,Scripts\crime_movies
+Crime,Santosh,2h 8m,128.0,7.0,1800.0,Scripts\crime_movies
+Crime,Toofan,2h 25m,145.0,7.4,7500.0,Scripts\crime_movies
+Crime,Misericordia,1h 44m,104.0,6.9,1900.0,Scripts\crime_movies
+Crime,Sleeping Dogs,1h 50m,110.0,6.2,21000.0,Scripts\crime_movies
+Crime,Lift,1h 47m,107.0,5.5,49000.0,Scripts\crime_movies
+Crime,Beverly Hills Cop: Axel F,1h 58m,118.0,6.4,81000.0,Scripts\crime_movies
+Crime,Maharaja,2h 21m,141.0,8.4,66000.0,Scripts\crime_movies
+Crime,The Instigators,1h 41m,101.0,6.2,37000.0,Scripts\crime_movies
+Crime,Beating Hearts,2h 46m,166.0,7.0,4400.0,Scripts\crime_movies
+Crime,Twilight of the Warriors: Walled In,2h 6m,126.0,7.0,9300.0,Scripts\crime_movies
+Crime,Greedy People,1h 52m,112.0,6.2,11000.0,Scripts\crime_movies
+Crime,Absolution,1h 52m,112.0,5.2,7700.0,Scripts\crime_movies
+Crime,Killer Heat,1h 35m,95.0,5.6,13000.0,Scripts\crime_movies
+Crime,Long Gone Heroes,1h 41m,101.0,5.2,1000.0,Scripts\crime_movies
+Crime,Brothers,1h 29m,89.0,5.4,13000.0,Scripts\crime_movies
+Crime,The Unholy Trinity,1h 33m,93.0,7.9,49.0,Scripts\crime_movies
+Crime,Force of Nature: The Dry 2,2h,120.0,5.8,6900.0,Scripts\crime_movies
+Crime,Trigger Warning,1h 46m,106.0,4.6,19000.0,Scripts\crime_movies
+Crime,Armor,1h 29m,89.0,3.6,3700.0,Scripts\crime_movies
+Crime,The Shadow Strays,2h 24m,144.0,6.5,9100.0,Scripts\crime_movies
+Crime,The Silent Hour,1h 39m,99.0,6.1,7300.0,Scripts\crime_movies
+Crime,Duchess,1h 54m,114.0,4.6,1300.0,Scripts\crime_movies
+Crime,Do Patti,2h 6m,126.0,6.5,68000.0,Scripts\crime_movies
+Crime,Boneyard,1h 36m,96.0,4.1,4900.0,Scripts\crime_movies
+Crime,Hitpig,1h 26m,86.0,5.1,905.0,Scripts\crime_movies
+Crime,Harbin,1h 48m,108.0,6.4,558.0,Scripts\crime_movies
+Crime,Mea Culpa,2h,120.0,4.2,7000.0,Scripts\crime_movies
+Crime,The Thicket,1h 48m,108.0,5.8,3000.0,Scripts\crime_movies
+Crime,The Calendar Killer,1h 37m,97.0,5.4,4100.0,Scripts\crime_movies
+Crime,Lake George,1h 58m,118.0,6.3,927.0,Scripts\crime_movies
+Crime,Baby John,2h 39m,159.0,5.4,17000.0,Scripts\crime_movies
+Crime,Megamind vs. The Doom Syndicate,1h 23m,83.0,2.5,5500.0,Scripts\crime_movies
+Crime,Sikandar Ka Muqaddar,2h 22m,142.0,6.0,24000.0,Scripts\crime_movies
+Crime,Viduthalai Part 2,2h 50m,170.0,7.9,16000.0,Scripts\crime_movies
+Crime,Damaged,1h 37m,97.0,4.7,7200.0,Scripts\crime_movies
+Crime,Dead Sea,1h 28m,88.0,5.3,5300.0,Scripts\crime_movies
+Crime,Blackwater Lane,1h 48m,108.0,4.6,1800.0,Scripts\crime_movies
+Crime,Sector 36,2h 3m,123.0,7.1,25000.0,Scripts\crime_movies
+Crime,In Youth We Trust,2h 12m,132.0,6.8,362.0,Scripts\crime_movies
+Crime,The Quiet Ones,1h 50m,110.0,6.4,652.0,Scripts\crime_movies
+Crime,Reputation,1h 23m,83.0,9.3,8.0,Scripts\crime_movies
+Crime,Justice,1h 53m,113.0,6.3,3800.0,Scripts\crime_movies
+Crime,Trouble,1h 38m,98.0,6.2,6700.0,Scripts\crime_movies
+Crime,Dead Wrong,1h 44m,104.0,3.9,257.0,Scripts\crime_movies
+Crime,Depravity,1h 57m,117.0,4.3,970.0,Scripts\crime_movies
+Crime,Singham Again,2h 24m,144.0,4.8,75000.0,Scripts\crime_movies
+Crime,Bangkok Dog,1h 25m,85.0,5.0,148.0,Scripts\crime_movies
+Crime,The Thundermans Return,1h 10m,70.0,5.0,1800.0,Scripts\crime_movies
+Crime,The Shameless,1h 54m,114.0,5.7,214.0,Scripts\crime_movies
+Crime,Colors of Evil: Red,1h 51m,111.0,6.4,8400.0,Scripts\crime_movies
+Crime,The Roundup: Punishment,1h 49m,109.0,6.6,5200.0,Scripts\crime_movies
+Crime,Detained,1h 37m,97.0,4.9,1500.0,Scripts\crime_movies
+Crime,Thalavan,2h 11m,131.0,7.2,4600.0,Scripts\crime_movies
+Crime,Jönssonligan kommer tillbaka,1h 44m,104.0,5.9,1300.0,Scripts\crime_movies
+Crime,Jigra,2h 33m,153.0,6.0,23000.0,Scripts\crime_movies
+Crime,Strictly Confidential,1h 34m,94.0,2.8,839.0,Scripts\crime_movies
+Crime,Maharaj,2h 11m,131.0,6.5,15000.0,Scripts\crime_movies
+Crime,Golam,2h,120.0,7.2,5600.0,Scripts\crime_movies
+Crime,"I, the Executioner",1h 58m,118.0,6.3,1700.0,Scripts\crime_movies
+Crime,Badland Hunters,1h 47m,107.0,5.9,12000.0,Scripts\crime_movies
+Crime,The Clean Up Crew,1h 35m,95.0,4.1,1100.0,Scripts\crime_movies
+Crime,Bougainvillea,2h 18m,138.0,6.4,3100.0,Scripts\crime_movies
+Crime,Officer Black Belt,1h 48m,108.0,6.8,8100.0,Scripts\crime_movies
+Crime,Code 8: Part II,1h 40m,100.0,5.7,16000.0,Scripts\crime_movies
+Crime,Pani,2h 23m,143.0,6.9,2900.0,Scripts\crime_movies
+Crime,The Courier,1h 41m,101.0,6.0,4400.0,Scripts\crime_movies
+Crime,Dead Mail,1h 46m,106.0,6.7,296.0,Scripts\crime_movies
+Crime,Bogota: City of the Lost,1h 48m,108.0,5.4,1900.0,Scripts\crime_movies
+Crime,Rats!,1h 25m,85.0,6.5,114.0,Scripts\crime_movies
+Crime,Barron's Cove,1h 56m,116.0,8.2,28.0,Scripts\crime_movies
+Crime,Anweshippin Kandethum,2h 22m,142.0,7.4,10000.0,Scripts\crime_movies
+Crime,The Soul Eater,1h 48m,108.0,5.9,2500.0,Scripts\crime_movies
+Crime,Drugstore June,1h 31m,91.0,5.4,1700.0,Scripts\crime_movies
+Crime,Ulajh,2h 30m,150.0,6.0,24000.0,Scripts\crime_movies
+Crime,The Kingdom,1h 52m,112.0,6.9,715.0,Scripts\crime_movies
+Crime,Darkness of Man,1h 49m,109.0,4.8,3100.0,Scripts\crime_movies
+Crime,The Trainer,1h 35m,95.0,7.0,53.0,Scripts\crime_movies
+Crime,Sicilian Letters,2h 2m,122.0,6.1,657.0,Scripts\crime_movies
+Crime,Inside,1h 44m,104.0,7.0,228.0,Scripts\crime_movies
+Crime,Marmalade,1h 39m,99.0,6.3,3500.0,Scripts\crime_movies
+Crime,Ride,1h 54m,114.0,5.9,388.0,Scripts\crime_movies
+Crime,Broken Rage,1h 2m,62.0,6.1,1400.0,Scripts\crime_movies
+Crime,King Ivory,2h 10m,130.0,7.3,63.0,Scripts\crime_movies
+Crime,Cult Killer,1h 45m,105.0,4.8,2800.0,Scripts\crime_movies
+Crime,Compulsion,1h 34m,94.0,6.3,12.0,Scripts\crime_movies
+Crime,What Jennifer Did,1h 27m,87.0,6.1,11000.0,Scripts\crime_movies
+Crime,Laws of Man,1h 38m,98.0,4.8,588.0,Scripts\crime_movies
+Crime,City Hunter,1h 42m,102.0,6.3,5600.0,Scripts\crime_movies
+Crime,Dengeler,2h 3m,123.0,5.4,180.0,Scripts\crime_movies
+Crime,Hijack 1971,1h 40m,100.0,6.8,3300.0,Scripts\crime_movies
+Crime,Revolver,1h 54m,114.0,5.4,842.0,Scripts\crime_movies
+Crime,First Shift,1h 29m,89.0,4.4,2000.0,Scripts\crime_movies
+Crime,Guns & Moses,1h 34m,94.0,8.1,44.0,Scripts\crime_movies
+Crime,To a Land Unknown,1h 45m,105.0,7.3,463.0,Scripts\crime_movies
+Crime,Lover Stalker Killer,1h 30m,90.0,7.0,13000.0,Scripts\crime_movies
+Crime,The Sabarmati Report,2h 7m,127.0,6.4,24000.0,Scripts\crime_movies
+Crime,El Jockey,1h 36m,96.0,6.4,1600.0,Scripts\crime_movies
+Crime,Crescent City,1h 43m,103.0,3.9,1300.0,Scripts\crime_movies
+Crime,Freedom,1h 50m,110.0,5.9,1400.0,Scripts\crime_movies
+Crime,Maldoror,2h 35m,155.0,7.0,582.0,Scripts\crime_movies
+Crime,How to Rob a Bank,1h 28m,88.0,6.6,4200.0,Scripts\crime_movies
+Crime,Here Now,1h 58m,118.0,4.9,391.0,Scripts\crime_movies
+Crime,Hellhound,1h 43m,103.0,4.3,502.0,Scripts\crime_movies
+Crime,5lbs of Pressure,1h 51m,111.0,5.3,1600.0,Scripts\crime_movies
+Crime,Wanted Man,1h 25m,85.0,4.8,2600.0,Scripts\crime_movies
+Crime,Vettaiyan,2h 43m,163.0,7.0,39000.0,Scripts\crime_movies
+Crime,Nice Girls,1h 32m,92.0,4.2,1200.0,Scripts\crime_movies
+Crime,Strangers,1h 46m,106.0,4.3,385.0,Scripts\crime_movies
+Crime,Una ballena,1h 48m,108.0,6.0,73.0,Scripts\crime_movies
+Crime,Saripodhaa Sanivaaram,2h 46m,166.0,7.0,9000.0,Scripts\crime_movies
+Crime,Sorgavaasal,2h 18m,138.0,6.6,1300.0,Scripts\crime_movies
+Crime,The Park Maniac,1h 43m,103.0,4.8,1600.0,Scripts\crime_movies
+Crime,Shoutai,2h,120.0,6.9,538.0,Scripts\crime_movies
+Crime,Boundless,2h 1m,121.0,5.6,1900.0,Scripts\crime_movies
+Crime,Untamed Royals,1h 39m,99.0,4.6,629.0,Scripts\crime_movies
+Crime,In Her Place,1h 36m,96.0,6.2,1500.0,Scripts\crime_movies
+Crime,Loverboy: Emoties Uit,1h 38m,98.0,6.4,502.0,Scripts\crime_movies
+Crime,Roadkill,1h 30m,90.0,3.7,677.0,Scripts\crime_movies
+Crime,Belle,1h 40m,100.0,5.8,57.0,Scripts\crime_movies
+Crime,Bloodline Killer,1h 45m,105.0,3.8,4400.0,Scripts\crime_movies
+Crime,Ferry 2,1h 34m,94.0,5.6,3700.0,Scripts\crime_movies
+Crime,Døde menn går på ski,1h 29m,89.0,5.4,224.0,Scripts\crime_movies
+Crime,Daredevil vs Punisher,1h 23m,83.0,,,Scripts\crime_movies
+Crime,Savi,2h 6m,126.0,6.2,35000.0,Scripts\crime_movies
+Crime,Faultline,1h 32m,92.0,5.7,89.0,Scripts\crime_movies
+Crime,Jailbreak: Love on the Run,1h 28m,88.0,6.4,3100.0,Scripts\crime_movies
+Crime,Raayan,2h 25m,145.0,6.5,11000.0,Scripts\crime_movies
+Crime,Kingsmen,1h 12m,72.0,6.4,47.0,Scripts\crime_movies
+Crime,Kaulayaw,1h 35m,95.0,4.1,159.0,Scripts\crime_movies
+Crime,The Lockdown,1h 57m,117.0,4.3,603.0,Scripts\crime_movies
+Crime,Peg O' My Heart,1h 37m,97.0,6.1,110.0,Scripts\crime_movies
+Crime,GTMax,1h 40m,100.0,5.0,1200.0,Scripts\crime_movies
+Crime,Two to One,1h 56m,116.0,6.1,717.0,Scripts\crime_movies
+Crime,Havnaa,1h 50m,110.0,7.2,229.0,Scripts\crime_movies
+Crime,Baby Assassins: Nice Days,1h 43m,103.0,7.3,290.0,Scripts\crime_movies
+Crime,Biggest Heist Ever,1h 25m,85.0,6.1,1400.0,Scripts\crime_movies
+Crime,A Place Called Silence,1h 59m,119.0,6.4,1200.0,Scripts\crime_movies
+Crime,Serpent's Path,1h 52m,112.0,5.7,280.0,Scripts\crime_movies
+Crime,The Girl Who Wore Yellow Lace,1h 22m,82.0,4.6,21.0,Scripts\crime_movies
+Crime,Tillu Square,2h 17m,137.0,6.6,3400.0,Scripts\crime_movies
+Crime,Sons of Rizk 3,2h 5m,125.0,6.7,1700.0,Scripts\crime_movies
+Crime,Mission: Cross,1h 45m,105.0,6.1,2600.0,Scripts\crime_movies
+Crime,Last Known Location,1h 50m,110.0,6.3,1400.0,Scripts\crime_movies
+Crime,Papa,2h 11m,131.0,7.5,320.0,Scripts\crime_movies
+Crime,Anand Sreebala,2h 14m,134.0,6.6,2400.0,Scripts\crime_movies
+Crime,Bhakshak,2h 14m,134.0,7.2,7100.0,Scripts\crime_movies
+Crime,The Moon Thieves,1h 48m,108.0,6.1,242.0,Scripts\crime_movies
+Crime,The Birds Who Fear Death,1h 42m,102.0,9.2,73.0,Scripts\crime_movies
+Crime,Citizen of a Kind,1h 54m,114.0,6.7,792.0,Scripts\crime_movies
+Crime,Auron Mein Kahan Dum Tha,2h 30m,150.0,6.6,41000.0,Scripts\crime_movies
+Crime,Phir Aayi Hasseen Dillruba,2h 12m,132.0,5.8,6800.0,Scripts\crime_movies
+Crime,The Plot,1h 40m,100.0,4.8,375.0,Scripts\crime_movies
+Crime,A Bronx Tale: The Original One Man Show,1h 40m,,8.2,15.0,Scripts\crime_movies
+Crime,Hunt the Wicked,1h 42m,102.0,5.3,109.0,Scripts\crime_movies
+Crime,Bermondsey Tales: Fall of the Roman Empire,1h 39m,99.0,4.4,180.0,Scripts\crime_movies
+Crime,The Pee Pee Poo Poo Man,1h 19m,79.0,8.1,18.0,Scripts\crime_movies
+Crime,Lady Scorpions,1h 41m,101.0,3.6,366.0,Scripts\crime_movies
+Crime,Octopus with Broken Arms,1h 49m,109.0,6.1,214.0,Scripts\crime_movies
+Crime,Kondal,2h 27m,147.0,5.4,766.0,Scripts\crime_movies
+Crime,The Smile Man,2h 2m,122.0,7.6,1500.0,Scripts\crime_movies
+Crime,Dirty Ice Cream,47m,47.0,4.4,116.0,Scripts\crime_movies
+Crime,The Actor,2h 8m,128.0,3.3,725.0,Scripts\crime_movies
+Crime,The Waterboyz,1h 29m,89.0,7.8,85.0,Scripts\crime_movies
+Crime,Jersey Bred,1h 32m,92.0,4.4,71.0,Scripts\crime_movies
+Crime,They Called Him Mostly Harmless,1h 29m,89.0,5.9,3200.0,Scripts\crime_movies
+Crime,The Final: Attack on Wembley,1h 22m,82.0,6.3,2500.0,Scripts\crime_movies
+Crime,She's Got No Name,2h 30m,150.0,7.1,47.0,Scripts\crime_movies
+Crime,Operation Raavan,2h 27m,147.0,8.0,1200.0,Scripts\crime_movies
+Crime,10 Days of a Curious Man,1h 50m,110.0,5.7,1200.0,Scripts\crime_movies
+Crime,Scorched Earth,1h 41m,101.0,6.7,530.0,Scripts\crime_movies
+Crime,A Brothers Bond,1h 43m,103.0,5.4,38.0,Scripts\crime_movies
+Crime,Crisis Negotiators,2h,120.0,6.7,706.0,Scripts\crime_movies
+Crime,Nefarious,1h 25m,85.0,7.1,56.0,Scripts\crime_movies
+Crime,Borderless Fog,1h 50m,110.0,5.2,1300.0,Scripts\crime_movies
+Crime,(Pri)sons,1h 40m,100.0,5.1,267.0,Scripts\crime_movies
+Crime,Ma Este Gyilkolunk,1h 40m,,5.1,569.0,Scripts\crime_movies
+Crime,La Familia,1h 40m,,6.8,42.0,Scripts\crime_movies
+Crime,Sheriff,2h 13m,133.0,6.9,1100.0,Scripts\crime_movies
+Crime,Cookster: The Darkest Days,1h 59m,119.0,8.2,40.0,Scripts\crime_movies
+Crime,Team of Two,1h 59m,,5.0,108.0,Scripts\crime_movies
+Crime,Visfot,2h 10m,130.0,5.7,1100.0,Scripts\crime_movies
+Crime,The Seven Sorrows of Mary,1h 38m,98.0,6.6,31.0,Scripts\crime_movies
+Crime,Young Lion of the West,1h 33m,93.0,5.2,108.0,Scripts\crime_movies
+Crime,Nunakuzhi,2h 5m,125.0,6.8,3000.0,Scripts\crime_movies
+Crime,Io e te dobbiamo parlare,1h 35m,95.0,4.2,187.0,Scripts\crime_movies
+Crime,Abraham Ozler,2h 23m,143.0,6.5,4200.0,Scripts\crime_movies
+Crime,Gumasthan,2h 25m,145.0,5.8,500.0,Scripts\crime_movies
+Crime,Red,1h 54m,114.0,4.6,96.0,Scripts\crime_movies
+Crime,Kahar: Kapla High Council,1h 42m,102.0,6.9,449.0,Scripts\crime_movies
+Crime,Murder and Cocktails,1h 28m,88.0,4.0,360.0,Scripts\crime_movies
+Crime,Nahir,2h 2m,122.0,4.7,1100.0,Scripts\crime_movies
+Crime,Dandupalayam,2h 17m,137.0,5.9,1300.0,Scripts\crime_movies
+Crime,The Truth vs. Alex Jones,2h 1m,121.0,7.5,3000.0,Scripts\crime_movies
+Crime,Krista,58m,58.0,5.6,46.0,Scripts\crime_movies
+Crime,What Happens in Miami,1h 30m,90.0,4.3,219.0,Scripts\crime_movies
+Crime,They Turned Us Into Killers,1h 26m,86.0,2.8,252.0,Scripts\crime_movies
+Crime,A Gangster's Kiss,1h 21m,81.0,4.9,45.0,Scripts\crime_movies
+Crime,Unspoken,2h,120.0,8.2,46.0,Scripts\crime_movies
+Crime,Kurukku,1h 49m,109.0,6.6,530.0,Scripts\crime_movies
+Crime,ChiefsAholic: A Wolf in Chiefs Clothing,2h 1m,121.0,6.2,372.0,Scripts\crime_movies
+Crime,9 Windows,1h 22m,82.0,3.6,307.0,Scripts\crime_movies
+Crime,Plastic Guns,1h 35m,95.0,6.3,607.0,Scripts\crime_movies
+Crime,Miséria,1h 39m,99.0,5.3,100.0,Scripts\crime_movies
+Crime,"MoviePass, MovieCrash",1h 36m,96.0,6.7,2800.0,Scripts\crime_movies
+Crime,Take Good Care,1h 41m,101.0,,,Scripts\crime_movies
+Crime,Sattam En Kaiyil,2h 4m,124.0,8.0,2200.0,Scripts\crime_movies
+Crime,Diddy: Summit to Plummet,1h,60.0,2.2,200.0,Scripts\crime_movies
+Crime,Dutch II: Angel's Revenge,1h,,6.7,86.0,Scripts\crime_movies
+Crime,Little Jaffna,1h 40m,100.0,6.9,40.0,Scripts\crime_movies
+Crime,Saindhav,2h 18m,138.0,5.0,1600.0,Scripts\crime_movies
+Crime,Vina: Before 7 Days,1h 40m,100.0,5.4,581.0,Scripts\crime_movies
+Crime,Svemu dodje kraj,1h 29m,89.0,6.7,263.0,Scripts\crime_movies
+Crime,Sayara,1h 38m,98.0,5.7,270.0,Scripts\crime_movies
+Crime,Love You to Debt,2h 15m,135.0,6.2,754.0,Scripts\crime_movies
+Crime,Chapter 51,2h 15m,,,,Scripts\crime_movies
+Crime,Satyabhama,2h 12m,132.0,5.9,1500.0,Scripts\crime_movies
+Crime,Mathu Vadalara 2,2h 19m,139.0,7.0,1600.0,Scripts\crime_movies
+Crime,Conquer: Lahad Datu,2h,120.0,6.7,504.0,Scripts\crime_movies
+Crime,Wannabe,1h 42m,102.0,4.6,126.0,Scripts\crime_movies
+Crime,Zebra,2h 44m,164.0,8.0,3200.0,Scripts\crime_movies
+Crime,Killer Babes,1h 34m,94.0,3.5,283.0,Scripts\crime_movies
+Crime,Le Mohican,1h 27m,87.0,7.0,146.0,Scripts\crime_movies
+Crime,Dirty Money,1h 40m,100.0,5.6,113.0,Scripts\crime_movies
+Crime,Bars,2h 15m,135.0,5.8,23.0,Scripts\crime_movies
+Crime,The Infallibles,1h 39m,99.0,4.8,751.0,Scripts\crime_movies
+Crime,Dead Man,1h 49m,109.0,5.1,206.0,Scripts\crime_movies
+Crime,Ballistic,1h 35m,95.0,2.3,161.0,Scripts\crime_movies
+Crime,High Forces,1h 59m,119.0,5.7,521.0,Scripts\crime_movies
+Crime,RTI,2h 10m,130.0,5.9,26.0,Scripts\crime_movies
+Crime,The Experts,2h 1m,121.0,6.2,264.0,Scripts\crime_movies
+Crime,The Bitter Sugar,2h 1m,,6.8,9.0,Scripts\crime_movies
+Crime,Accident or Conspiracy: Godhra,2h 13m,133.0,7.4,780.0,Scripts\crime_movies
+Crime,The Best of Me,1h 29m,89.0,,,Scripts\crime_movies
+Crime,Siren,2h 34m,154.0,6.4,2900.0,Scripts\crime_movies
+Crime,Metamorfosi dell'essere,1h 45m,105.0,8.0,70.0,Scripts\crime_movies
+Crime,Priyo Maloti,1h 59m,119.0,6.7,176.0,Scripts\crime_movies
+Crime,Ghost Killer,1h 45m,105.0,7.1,63.0,Scripts\crime_movies
+Crime,Jamalinte Punjiri,1h 45m,,9.2,162.0,Scripts\crime_movies
+Crime,Cubic Zirconia,1h 45m,,7.1,65.0,Scripts\crime_movies
+Crime,The Epidemic,1h 35m,95.0,5.8,69.0,Scripts\crime_movies
+Crime,Andhagan,2h 22m,142.0,6.7,1200.0,Scripts\crime_movies
+Crime,Silver Star,1h 42m,102.0,6.9,15.0,Scripts\crime_movies
+Crime,Texas Twister,1h 28m,88.0,2.5,157.0,Scripts\crime_movies
+Crime,Perfect Blue,1h 28m,,7.5,6.0,Scripts\crime_movies
+Crime,Uno,1h 28m,,8.6,31.0,Scripts\crime_movies
+Crime,Mr. Bachchan,2h 30m,150.0,3.6,5300.0,Scripts\crime_movies
+Crime,Lóve 2,2h 30m,,4.9,68.0,Scripts\crime_movies
+Crime,Remedy,1h 22m,82.0,4.1,261.0,Scripts\crime_movies
+Crime,Shu Si Yi Bo,1h 31m,91.0,6.6,32.0,Scripts\crime_movies
+Crime,Un homme en fuite,1h 46m,106.0,5.4,153.0,Scripts\crime_movies
+Crime,Sinful Lies,1h 5m,65.0,7.5,7.0,Scripts\crime_movies
+Crime,Prepare to Die,1h 33m,93.0,4.6,232.0,Scripts\crime_movies
+Crime,Hovering Blade,1h 47m,107.0,6.1,237.0,Scripts\crime_movies
+Crime,Passages of Nexus,1h 48m,108.0,5.8,200.0,Scripts\crime_movies
+Crime,Dhakshina,1h 47m,107.0,6.5,5200.0,Scripts\crime_movies
+Crime,Untold: The Murder of Air McNair,57m,57.0,5.6,2000.0,Scripts\crime_movies
+Crime,Dracula: The Count's Kin,57m,,5.0,44.0,Scripts\crime_movies
+Crime,Treasures of Terror: Vol 1,57m,,4.3,18.0,Scripts\crime_movies
+Crime,The Heist,2h,120.0,6.9,2000.0,Scripts\crime_movies
+Crime,RapeD,1h 45m,105.0,7.0,28.0,Scripts\crime_movies
+Crime,The Mick and the Trick,1h 36m,96.0,5.0,75.0,Scripts\crime_movies
+Crime,Where Is Gilgamesh?,1h 30m,90.0,9.0,605.0,Scripts\crime_movies
+Crime,The Shadow,1h 30m,90.0,6.5,253.0,Scripts\crime_movies
+Crime,Cafe 404,1h 33m,93.0,7.2,35.0,Scripts\crime_movies
+Crime,Suspect,1h 34m,94.0,4.5,80.0,Scripts\crime_movies
+Crime,The Shakedown,1h 44m,104.0,5.0,305.0,Scripts\crime_movies
+Crime,"Hemet, or the Landlady Don't Drink Tea",1h 29m,89.0,4.3,88.0,Scripts\crime_movies
+Crime,Silence 2: The Night Owl Bar Shootout,2h 22m,142.0,6.2,1900.0,Scripts\crime_movies
+Crime,Oru Nodi,2h 8m,128.0,6.7,504.0,Scripts\crime_movies
+Crime,Bastar: The Naxal Story,2h 4m,124.0,6.4,3300.0,Scripts\crime_movies
+Crime,Oppa,1h 24m,84.0,8.5,47.0,Scripts\crime_movies
+Crime,Tòkunbò,1h 53m,113.0,3.9,294.0,Scripts\crime_movies
+Crime,Blood and Black,1h 28m,88.0,8.1,1100.0,Scripts\crime_movies
+Crime,Pattaya Heat,1h 57m,117.0,5.6,222.0,Scripts\crime_movies
+Crime,One Last Time,1h 22m,82.0,7.0,15.0,Scripts\crime_movies
+Crime,Yalakunni,2h 15m,135.0,8.9,166.0,Scripts\crime_movies
+Crime,Samandar,2h 52m,172.0,7.7,138.0,Scripts\crime_movies
+Crime,Happy Birthday Luci,2h 52m,,9.4,56.0,Scripts\crime_movies
+Crime,Kingdom Reign,1h 59m,119.0,8.3,36.0,Scripts\crime_movies
+Crime,No Cap,1h 48m,108.0,5.8,36.0,Scripts\crime_movies
+Crime,Guess Who,1h 33m,93.0,4.8,366.0,Scripts\crime_movies
+Crime,DNA,2h 36m,156.0,5.1,210.0,Scripts\crime_movies
+Crime,The Worst Man in London,2h 7m,127.0,5.7,146.0,Scripts\crime_movies
+Crime,Silvio,1h 54m,114.0,3.0,504.0,Scripts\crime_movies
+Crime,Vares X,1h 25m,85.0,3.7,116.0,Scripts\crime_movies
+Crime,Suspicion,1h 55m,115.0,3.6,206.0,Scripts\crime_movies
+Crime,Cursed in Baja,1h 20m,80.0,7.7,21.0,Scripts\crime_movies
+Crime,Fyre Rises,1h 50m,110.0,6.5,321.0,Scripts\crime_movies
+Crime,Amish Affair,1h 26m,86.0,5.5,200.0,Scripts\crime_movies
+Crime,Prasanna Vadanam,2h 26m,146.0,6.6,537.0,Scripts\crime_movies
+Crime,Who Killed Terrance Brown?,1h 35m,95.0,,,Scripts\crime_movies
+Crime,Bangkok Breaking: Heaven and Hell,2h 26m,146.0,5.8,663.0,Scripts\crime_movies
+Crime,Piano Love,1h 36m,96.0,5.2,13.0,Scripts\crime_movies
+Crime,Breaking the Silence: The Maria Soledad Case,1h 35m,95.0,6.4,516.0,Scripts\crime_movies
+Crime,Case of Kondana,2h 23m,143.0,5.8,580.0,Scripts\crime_movies
+Crime,Matka,2h 36m,156.0,4.7,583.0,Scripts\crime_movies
+Crime,Danger in the Dorm,1h 26m,86.0,5.0,152.0,Scripts\crime_movies
+Crime,Rob N Roll,1h 38m,98.0,6.1,1500.0,Scripts\crime_movies
+Crime,Formed Police Unit,2h,120.0,4.6,474.0,Scripts\crime_movies
+Crime,The Desperate Chase,1h 50m,110.0,5.5,58.0,Scripts\crime_movies
+Crime,The Star City Murders,1h 19m,79.0,4.1,142.0,Scripts\crime_movies
+Crime,Chor Dil,2h 15m,135.0,7.4,37.0,Scripts\crime_movies
+Crime,Gini Avi Saha Gini Keli 2,2h 15m,,7.4,8.0,Scripts\crime_movies
+Crime,Midas,1h 25m,85.0,4.6,339.0,Scripts\crime_movies
+Crime,Green Bones,1h 36m,96.0,7.7,182.0,Scripts\crime_movies
+Crime,Road to Terzetto,1h 36m,96.0,7.4,30.0,Scripts\crime_movies
+Crime,"Rajagunj: Pooja, Sir",1h 55m,115.0,6.3,735.0,Scripts\crime_movies
+Crime,S.I.T,1h 50m,110.0,7.9,2300.0,Scripts\crime_movies
+Crime,Bodiless,1h 30m,90.0,5.7,1000.0,Scripts\crime_movies
+Crime,Chitram Choodara,2h 7m,127.0,4.6,15.0,Scripts\crime_movies
+Crime,Harom Hara,2h 34m,154.0,7.7,3000.0,Scripts\crime_movies
+Crime,The Brokenhearted,2h 34m,,7.9,23.0,Scripts\crime_movies
+Crime,Reloaded 2,45m,45.0,7.9,1000.0,Scripts\crime_movies
+Crime,Passport,45m,,8.4,9.0,Scripts\crime_movies
+Crime,Zabt,45m,,6.0,19.0,Scripts\crime_movies
+Crime,Shivam Bhaje,2h 1m,121.0,7.9,3000.0,Scripts\crime_movies
+Crime,Go for Broke,1h 55m,115.0,5.7,270.0,Scripts\crime_movies
+Crime,Hustlers Take All,1h 46m,106.0,5.5,80.0,Scripts\crime_movies
+Crime,Drive,1h 30m,90.0,5.6,322.0,Scripts\crime_movies
+Crime,Estômago II: O Poderoso Chef,2h 11m,131.0,5.8,321.0,Scripts\crime_movies
+Crime,Desperado,1h 40m,100.0,6.0,141.0,Scripts\crime_movies
+Crime,Chameleon,2h 13m,133.0,5.8,31.0,Scripts\crime_movies
+Crime,Bond of Justice: Kizuna Part I - Encounter,1h 32m,92.0,6.2,18.0,Scripts\crime_movies
+Crime,"Extraction, USA",1h 32m,,7.4,55.0,Scripts\crime_movies
+Crime,Nastupit leto,1h 34m,94.0,7.4,20.0,Scripts\crime_movies
+Crime,Kaliyugam Pattanamlo,2h 30m,150.0,6.7,2200.0,Scripts\crime_movies
+Crime,Illusions for Sale: The Rise and Fall of Generation Zoe,1h 47m,107.0,6.2,639.0,Scripts\crime_movies
+Crime,Bheema,2h 28m,148.0,5.8,948.0,Scripts\crime_movies
+Crime,Plea,1h 28m,88.0,6.9,23.0,Scripts\crime_movies
+Crime,Ten Toes Down,1h 28m,,8.0,32.0,Scripts\crime_movies
+Crime,Bozji gnjev,1h 51m,111.0,7.2,59.0,Scripts\crime_movies
+Crime,All That Glitters,1h 51m,,8.0,36.0,Scripts\crime_movies
+Crime,The Bottom Line,1h 47m,107.0,6.5,12.0,Scripts\crime_movies
+Crime,"LSD 2: Love, Sex Aur Dhokha 2",1h 59m,119.0,3.8,2800.0,Scripts\crime_movies
+Crime,PT Sir,2h 10m,130.0,6.8,1700.0,Scripts\crime_movies
+Crime,The Murder of Sandra Rivett,1h 30m,90.0,6.2,144.0,Scripts\crime_movies
+Crime,Double or Nothing,1h 30m,,,,Scripts\crime_movies
+Crime,The Texas Cheerleader Murder Plot,1h 40m,100.0,5.0,294.0,Scripts\crime_movies
+Crime,The Legend of the Vagabond Queen of Lagos,1h 40m,100.0,7.8,32.0,Scripts\crime_movies
+Crime,The Hitmen,1h 24m,84.0,,,Scripts\crime_movies
+Crime,First Rites,1h 54m,114.0,7.0,5.0,Scripts\crime_movies
+Crime,Troll Factory,1h 49m,109.0,5.8,465.0,Scripts\crime_movies
+Crime,La mort viendra,1h 41m,101.0,6.0,41.0,Scripts\crime_movies
+Crime,Thankamani,2h 36m,156.0,4.6,229.0,Scripts\crime_movies
+Crime,State of Silence,1h 20m,80.0,6.5,109.0,Scripts\crime_movies
+Crime,Hit List,2h 5m,125.0,5.5,310.0,Scripts\crime_movies
+Crime,Vivekam,1h 44m,104.0,8.2,308.0,Scripts\crime_movies
+Crime,Filthy Animals,1h 36m,96.0,7.3,91.0,Scripts\crime_movies
+Crime,Yevam,2h 3m,123.0,6.1,1500.0,Scripts\crime_movies
+Crime,Cry of Silence,1h 56m,116.0,6.2,72.0,Scripts\crime_movies
+Crime,Tiger Wolf Rabbit,2h 6m,126.0,6.3,479.0,Scripts\crime_movies
+Crime,Rautu Ka Raaz,1h 54m,114.0,6.3,2000.0,Scripts\crime_movies
+Crime,Who Killed Angel Adams?,1h 16m,76.0,6.3,23.0,Scripts\crime_movies
+Crime,A Hateful Enemy,1h 16m,76.0,,,Scripts\crime_movies
+Crime,"Bullets, Brothers and Blood",1h 25m,85.0,7.8,15.0,Scripts\crime_movies
+Crime,Taxali Gate,1h 35m,95.0,6.6,118.0,Scripts\crime_movies
+Crime,Abudeka Is Back,2h,120.0,5.3,34.0,Scripts\crime_movies
+Crime,Brattt,1h 57m,117.0,4.7,67.0,Scripts\crime_movies
+Crime,Uninvited,1h 33m,93.0,6.8,72.0,Scripts\crime_movies
+Crime,Pathological: The Lies of Joran van der Sloot,1h 33m,93.0,6.5,344.0,Scripts\crime_movies
+Crime,Best Man Dead Man,1h 23m,83.0,6.9,8.0,Scripts\crime_movies
+Crime,Routa,2h 7m,127.0,6.5,31.0,Scripts\crime_movies
+Crime,Abnormal: Buas,1h 30m,90.0,5.6,26.0,Scripts\crime_movies
+Crime,Mirza: Part 1 - Joker,2h 45m,165.0,6.8,239.0,Scripts\crime_movies
+Crime,Tumbadores,2h 45m,,5.0,61.0,Scripts\crime_movies
+Crime,Raktaksha,1h 58m,118.0,8.4,1400.0,Scripts\crime_movies
+Crime,Quotation Gang Part 1,1h 58m,118.0,8.8,21.0,Scripts\crime_movies
+Crime,Hain,1h 35m,95.0,2.9,45.0,Scripts\crime_movies
+Crime,Sentimentaaal,2h 15m,135.0,5.8,973.0,Scripts\crime_movies
+Crime,GATAO: Like Father Like Son,1h 40m,100.0,6.8,67.0,Scripts\crime_movies
+Crime,The Troll Hunter,1h 22m,82.0,,,Scripts\crime_movies
+Crime,Killerwood,1h 24m,84.0,7.2,25.0,Scripts\crime_movies
+Crime,Dream Team,1h 31m,91.0,5.2,59.0,Scripts\crime_movies
+Crime,Gold Boy,2h 9m,129.0,6.5,129.0,Scripts\crime_movies
+Crime,Murder in the Village: Who Killed the Doctor's Wife?,2h 9m,,5.7,64.0,Scripts\crime_movies
+Crime,Dickweed,1h 30m,90.0,7.1,36.0,Scripts\crime_movies
+Crime,Kiyma: Orman Kanunlari,1h 21m,81.0,4.3,35.0,Scripts\crime_movies
+Crime,Nirangal Moondru,2h 2m,122.0,6.1,531.0,Scripts\crime_movies
+Crime,Scopophobia,1h 40m,100.0,5.9,46.0,Scripts\crime_movies
+Crime,Kiss of the Con Queen,1h 57m,117.0,7.5,27.0,Scripts\crime_movies
+Crime,Castillo,2h 8m,128.0,8.1,33.0,Scripts\crime_movies
+Crime,Gangs of Godavari,2h 45m,165.0,5.0,904.0,Scripts\crime_movies
+Crime,Risky Business,1h 47m,107.0,7.8,90.0,Scripts\crime_movies
+Crime,Unknown Caller,1h 3m,63.0,7.0,29.0,Scripts\crime_movies
+Crime,Shakhahaari,2h 25m,145.0,7.5,1300.0,Scripts\crime_movies
+Crime,Duffle Bag Boy,2h 25m,,6.9,57.0,Scripts\crime_movies
+Crime,Searching for Amani,1h 20m,80.0,7.9,31.0,Scripts\crime_movies
+Crime,Hyde Out,1h 20m,,6.5,21.0,Scripts\crime_movies
+Crime,Remember Us,1h 36m,96.0,6.2,39.0,Scripts\crime_movies
+Crime,Secret Home,1h 57m,117.0,8.3,148.0,Scripts\crime_movies
+Crime,Treasures of Terror: Vol 2,1h 57m,,,,Scripts\crime_movies
+Crime,Haunting Trophies,2h 30m,150.0,7.7,66.0,Scripts\crime_movies
+Crime,Jada,2h 30m,,,,Scripts\crime_movies
+Crime,Rakshana,2h 19m,139.0,5.4,1100.0,Scripts\crime_movies
+Crime,Second Life,1h 45m,105.0,6.8,47.0,Scripts\crime_movies
+Crime,Poslednji strelac,1h 30m,90.0,5.5,256.0,Scripts\crime_movies
+Crime,Mani nude,1h 30m,,6.5,19.0,Scripts\crime_movies
+Crime,Thirumbipaar,1h 41m,101.0,5.9,239.0,Scripts\crime_movies
+Crime,Breathe,1h 41m,,8.8,43.0,Scripts\crime_movies
+Crime,Kokuhaku Confession,1h 14m,74.0,5.6,147.0,Scripts\crime_movies
+Crime,Get Close 2,1h 14m,,5.7,46.0,Scripts\crime_movies
+Crime,Saint Michael of the City,1h 14m,,8.0,32.0,Scripts\crime_movies
+Crime,Baba Yaga,1h 14m,,,,Scripts\crime_movies
+Crime,Whatever It Takes,1h 33m,93.0,8.3,14.0,Scripts\crime_movies
+Crime,Nasha Jurm Aur Gangsters,2h 17m,137.0,6.9,2400.0,Scripts\crime_movies
+Crime,Meitantei Conan Bâsasu Kaitô Kiddo,1h 21m,81.0,6.1,158.0,Scripts\crime_movies
+Crime,Hotel Underground,1h 21m,,7.4,64.0,Scripts\crime_movies
+Crime,Raavsaheb,2h 18m,138.0,8.4,7.0,Scripts\crime_movies
+Crime,Assault in Progress,2h 18m,,7.0,16.0,Scripts\crime_movies
+Crime,Porch Pirates,1h 47m,107.0,5.0,102.0,Scripts\crime_movies
+Crime,Vergüenza,1h 43m,103.0,6.9,23.0,Scripts\crime_movies
+Crime,The Donor,23m,23.0,9.0,9.0,Scripts\crime_movies
+Crime,Wieczór kawalerski,1h 25m,85.0,4.8,436.0,Scripts\crime_movies
+Crime,What Lies Within,1h 30m,90.0,5.3,13.0,Scripts\crime_movies
+Crime,Vojna policajtov,2h 30m,150.0,6.5,339.0,Scripts\crime_movies
+Crime,"Milk, Rice, and the Blood",45m,45.0,9.0,53.0,Scripts\crime_movies
+Crime,Rebel,1h 40m,100.0,3.1,65.0,Scripts\crime_movies
+Crime,Holiday Hold-Up,1h 29m,89.0,5.7,68.0,Scripts\crime_movies
+Crime,The Dealer,2h,120.0,8.3,12.0,Scripts\crime_movies
+Crime,Nico,1h 49m,109.0,8.3,45.0,Scripts\crime_movies
+Crime,Indelebile,1h 49m,,,,Scripts\crime_movies
+Crime,Gam Gam Ganesha,2h 20m,140.0,5.3,309.0,Scripts\crime_movies
+Crime,CHAAW: Chapter 3 - Christmas Time Is Here,1h 12m,72.0,7.9,475.0,Scripts\crime_movies
+Crime,Protein,1h 40m,100.0,6.6,61.0,Scripts\crime_movies
+Crime,Housekeeping,1h 38m,98.0,6.0,41.0,Scripts\crime_movies
+Crime,Salvajes,1h 30m,90.0,5.6,59.0,Scripts\crime_movies
+Crime,Bhaje Vaayu Vegam,2h 16m,136.0,6.1,553.0,Scripts\crime_movies
+Crime,Telekinesis,1h 46m,106.0,5.9,60.0,Scripts\crime_movies
+Crime,Gde nashi dengi?,1h 16m,76.0,7.6,9.0,Scripts\crime_movies
+Crime,Deadly Ruphoria,1h 16m,,6.3,32.0,Scripts\crime_movies
+Crime,The Final List,1h 47m,107.0,,,Scripts\crime_movies
+Crime,Stealing Vows,2h,120.0,,,Scripts\crime_movies
+Crime,Chris Brown: A History of Violence,1h 22m,82.0,5.4,312.0,Scripts\crime_movies
+Crime,Marty's Big Poker Night,1h 23m,83.0,,,Scripts\crime_movies
+Crime,Common Sense,1h 8m,68.0,2.5,20.0,Scripts\crime_movies
+Crime,Rock,1h 8m,,3.4,11.0,Scripts\crime_movies
+Crime,Blackia 2,2h 12m,132.0,5.9,125.0,Scripts\crime_movies
+Crime,Murder in a Teacup,1h 33m,93.0,6.3,147.0,Scripts\crime_movies
+Crime,Chithini,2h 31m,151.0,6.0,551.0,Scripts\crime_movies
+Crime,Bury Him,1h 28m,88.0,7.4,13.0,Scripts\crime_movies
+Crime,Jafaican,1h 38m,98.0,,,Scripts\crime_movies
+Crime,Game Over,1h 14m,74.0,5.7,20.0,Scripts\crime_movies
+Crime,Money No Enough 3,2h 18m,138.0,6.0,264.0,Scripts\crime_movies
+Crime,Evidence,2h 18m,,9.4,209.0,Scripts\crime_movies
+Crime,Three Old Boys,1h 48m,108.0,4.8,97.0,Scripts\crime_movies
+Crime,Raqeeb Pashto New Film,2h 18m,138.0,,,Scripts\crime_movies
+Crime,West End Murders,2h 18m,,7.0,15.0,Scripts\crime_movies
+Crime,Blood Dried Hands,1h 55m,115.0,5.4,35.0,Scripts\crime_movies
+Crime,Villain - Life of a Gangster,2h 21m,141.0,8.9,156.0,Scripts\crime_movies
+Crime,Below the Rim,1h 29m,89.0,5.0,16.0,Scripts\crime_movies
+Crime,Jin Qian Bao Lei,1h 29m,,3.4,13.0,Scripts\crime_movies
+Crime,Anyone Else But Me,1h 35m,95.0,7.0,153.0,Scripts\crime_movies
+Crime,Beneath the Fold,1h 20m,80.0,8.0,23.0,Scripts\crime_movies
+Crime,Dai jia fa de ren,2h 1m,121.0,5.4,58.0,Scripts\crime_movies
+Crime,Kala Ratri,2h 2m,122.0,6.8,15.0,Scripts\crime_movies
+Crime,Shadows of Betrayal: Chronicles of Ian Blair,1h 5m,65.0,7.3,12.0,Scripts\crime_movies
+Crime,Valleyheart,1h 38m,98.0,8.8,37.0,Scripts\crime_movies
+Crime,Goon Squad,1h 38m,,6.2,19.0,Scripts\crime_movies
+Crime,Angry Squad: Civil Servants & Seven Swindlers,2h,120.0,8.1,37.0,Scripts\crime_movies
+Crime,Don't Love,2h 57m,177.0,7.9,1500.0,Scripts\crime_movies
+Crime,Agontuk,2h 5m,125.0,5.2,21.0,Scripts\crime_movies
+Crime,Maloney - Die ersten drei haarsträubenden Fälle,1h 38m,98.0,6.7,76.0,Scripts\crime_movies
+Crime,Martingale,1h 43m,103.0,5.4,105.0,Scripts\crime_movies
+Crime,Vampire's House of Cain,1h 43m,,4.0,17.0,Scripts\crime_movies
+Crime,Then Came the Bottle Girls,1h 19m,79.0,,,Scripts\crime_movies
+Crime,Gally Gang Stars,2h 37m,157.0,9.0,2000.0,Scripts\crime_movies
+Crime,The Unwavering Brotherhood,1h 34m,94.0,5.3,78.0,Scripts\crime_movies
+Crime,¿Quién Mató al Patrón?,1h 34m,,5.6,8.0,Scripts\crime_movies
+Crime,Bloody Money,1h 21m,81.0,,,Scripts\crime_movies
+Crime,Dark World,2h 15m,135.0,4.6,15.0,Scripts\crime_movies
+Crime,Nelma Kodama: The Queen of Dirty Money,1h 34m,94.0,5.5,184.0,Scripts\crime_movies
+Crime,Niyathi,1h 53m,113.0,6.8,174.0,Scripts\crime_movies
+Crime,Above the Trees,2h 5m,125.0,8.2,11.0,Scripts\crime_movies
+Crime,Halfway House Series,1h 40m,100.0,,,Scripts\crime_movies
+Crime,Dream Lock,1h 40m,100.0,8.6,21.0,Scripts\crime_movies
+Crime,Bond of Justice: Kizuna Part II - Judgement,1h 28m,88.0,,,Scripts\crime_movies
+Crime,Jog 101,1h 47m,107.0,6.5,496.0,Scripts\crime_movies
+Crime,Maven,2h 15m,135.0,9.5,37.0,Scripts\crime_movies
+Crime,Paraagan,2h 15m,,,,Scripts\crime_movies
+Crime,Raja Rani,2h 14m,134.0,9.3,100.0,Scripts\crime_movies
+Crime,Blue Ice,2h 14m,,8.8,23.0,Scripts\crime_movies
+Crime,The Notorious Finster,2h 14m,,6.5,88.0,Scripts\crime_movies
+Crime,Lipstick,2h 25m,145.0,6.3,27.0,Scripts\crime_movies
+Crime,Rupaiya : The Conclusion,45m,45.0,,,Scripts\crime_movies
+Crime,The Storm,1h 38m,98.0,,,Scripts\crime_movies
+Crime,The Hostage,1h 38m,,6.0,10.0,Scripts\crime_movies
+Crime,Gossip to Die For,1h 34m,94.0,5.3,81.0,Scripts\crime_movies
+Crime,Crime Reel,1h 51m,111.0,7.5,141.0,Scripts\crime_movies
+Crime,Red Night at Skye's,1h 22m,82.0,,,Scripts\crime_movies
+Crime,G - 21 scener från Gottsunda,1h 20m,80.0,7.0,183.0,Scripts\crime_movies
+Crime,The Journalist,1h 20m,,,,Scripts\crime_movies
+Crime,Aaro,2h,120.0,4.5,13.0,Scripts\crime_movies
+Crime,East Bay Confidential,18+,0.0,,,Scripts\crime_movies
+Crime,Dark Deceptions,1h 22m,82.0,6.2,36.0,Scripts\crime_movies
+Crime,Rangeet,1h 22m,,,,Scripts\crime_movies
+Crime,Supplier Shankara,2h 43m,163.0,9.3,70.0,Scripts\crime_movies
+Crime,Three Days or Else,2h 43m,,7.8,26.0,Scripts\crime_movies
+Crime,We Run These Streets,1h 24m,84.0,,,Scripts\crime_movies
+Crime,The Good Loan Sharks,2h 2m,122.0,5.0,75.0,Scripts\crime_movies
+Crime,The Housewife and the Hustler 2: The Reckoning,1h 34m,94.0,6.5,44.0,Scripts\crime_movies
+Crime,Even the Score,1h 34m,,5.4,16.0,Scripts\crime_movies
+Crime,Dangerous Rumors,1h 34m,,7.5,52.0,Scripts\crime_movies
+Crime,Wicked Season,1h 34m,,5.4,35.0,Scripts\crime_movies
+Crime,The Victims,1h 39m,99.0,5.9,82.0,Scripts\crime_movies
+Crime,Koresha,1h 26m,86.0,3.0,63.0,Scripts\crime_movies
+Crime,Evil Among Us: The Grim Sleeper,1h 26m,,6.4,30.0,Scripts\crime_movies
+Crime,The Cold Father,1h 26m,,7.0,17.0,Scripts\crime_movies
+Crime,Muroi Shinji: Yaburezaru Mono,1h 55m,115.0,7.7,7.0,Scripts\crime_movies
+Crime,Tschugger - Der Lätscht Fall,2h 27m,147.0,8.1,163.0,Scripts\crime_movies
+Crime,Shadows of Redemption,1h 22m,82.0,,,Scripts\crime_movies
+Crime,Sounds of the Streets,1h 22m,,,,Scripts\crime_movies
+Crime,We Are Tourists,1h 37m,97.0,,,Scripts\crime_movies
+Crime,Passagrana,1h 40m,100.0,6.5,126.0,Scripts\crime_movies
+Crime,Lorry Chapter-1,3h 3m,183.0,5.8,2400.0,Scripts\crime_movies
+Crime,Rancor,1h 23m,83.0,7.2,33.0,Scripts\crime_movies
+Crime,Saajish the Conspiracy,1h 35m,95.0,,,Scripts\crime_movies
+Crime,Swing Bout,1h 30m,90.0,8.7,174.0,Scripts\crime_movies
+Crime,Rhino Man,1h 36m,96.0,8.8,42.0,Scripts\crime_movies
+Crime,Ryding Durty,1h 36m,,8.9,8.0,Scripts\crime_movies
+Crime,We Came to Wreck Everything,1h 36m,,,,Scripts\crime_movies
+Crime,Jama,1h 11m,71.0,6.3,16.0,Scripts\crime_movies
+Crime,Paarijathaparvam,2h 13m,133.0,7.5,2300.0,Scripts\crime_movies
+Crime,Common Creed: Trafficking,1h 46m,106.0,6.7,8.0,Scripts\crime_movies
+Crime,Charlotte Link - Ohne Schuld,1h 29m,89.0,5.5,41.0,Scripts\crime_movies
+Crime,5D,2h 9m,129.0,8.8,577.0,Scripts\crime_movies
+Crime,Light House,1h 48m,108.0,,,Scripts\crime_movies
+Crime,Varchasva,1h 48m,,,,Scripts\crime_movies
+Crime,Dead Name,1h 24m,84.0,9.0,11.0,Scripts\crime_movies
+Drama,Anora,2h 19m,139.0,7.5,174000.0,Scripts\drama_movies
+Drama,Mufasa: The Lion King,1h 58m,118.0,6.6,58000.0,Scripts\drama_movies
+Drama,A Complete Unknown,2h 21m,141.0,7.4,69000.0,Scripts\drama_movies
+Drama,The Substance,2h 21m,141.0,7.3,291000.0,Scripts\drama_movies
+Drama,The Friend,1h 59m,119.0,6.8,597.0,Scripts\drama_movies
+Drama,The Brutalist,3h 36m,216.0,7.4,76000.0,Scripts\drama_movies
+Drama,Conclave,2h,120.0,7.4,142000.0,Scripts\drama_movies
+Drama,Gladiator II,2h 28m,148.0,6.5,224000.0,Scripts\drama_movies
+Drama,Babygirl,1h 54m,114.0,5.9,51000.0,Scripts\drama_movies
+Drama,Queer,2h 17m,137.0,6.4,20000.0,Scripts\drama_movies
+Drama,A Real Pain,1h 30m,90.0,7.1,84000.0,Scripts\drama_movies
+Drama,I'm Still Here,2h 17m,137.0,8.3,101000.0,Scripts\drama_movies
+Drama,Bring Them Down,1h 46m,106.0,6.5,2200.0,Scripts\drama_movies
+Drama,Pushpa: The Rule - Part 2,3h 21m,201.0,6.1,55000.0,Scripts\drama_movies
+Drama,Dune: Part Two,2h 46m,166.0,8.5,620000.0,Scripts\drama_movies
+Drama,"Husband, Father, Killer: The Alyssa Pladl Story",1h 27m,87.0,6.3,224.0,Scripts\drama_movies
+Drama,Parthenope,2h 17m,137.0,6.6,11000.0,Scripts\drama_movies
+Drama,The Penguin Lessons,1h 51m,111.0,7.3,844.0,Scripts\drama_movies
+Drama,It Ends with Us,2h 10m,130.0,6.4,84000.0,Scripts\drama_movies
+Drama,Mon Potongo,2h 29m,149.0,6.9,290.0,Scripts\drama_movies
+Drama,Freaky Tales,1h 46m,106.0,7.1,732.0,Scripts\drama_movies
+Drama,Juror #2,1h 54m,114.0,7.0,95000.0,Scripts\drama_movies
+Drama,Presence,1h 24m,84.0,6.1,20000.0,Scripts\drama_movies
+Drama,Speak No Evil,1h 50m,110.0,6.8,95000.0,Scripts\drama_movies
+Drama,The Order,1h 56m,116.0,6.8,40000.0,Scripts\drama_movies
+Drama,The Apprentice,2h 2m,122.0,7.1,53000.0,Scripts\drama_movies
+Drama,Emilia Pérez,2h 12m,132.0,5.4,87000.0,Scripts\drama_movies
+Drama,We Live in Time,1h 48m,108.0,7.0,50000.0,Scripts\drama_movies
+Drama,September 5,1h 35m,95.0,7.1,22000.0,Scripts\drama_movies
+Drama,The Fall Guy,2h 6m,126.0,6.8,219000.0,Scripts\drama_movies
+Drama,Horizon: An American Saga - Chapter 1,3h 1m,181.0,6.7,40000.0,Scripts\drama_movies
+Drama,Here,1h 44m,104.0,6.3,20000.0,Scripts\drama_movies
+Drama,The Last Showgirl,1h 28m,88.0,6.5,10000.0,Scripts\drama_movies
+Drama,The Life of Chuck,1h 50m,110.0,7.7,478.0,Scripts\drama_movies
+Drama,The Count of Monte-Cristo,2h 58m,178.0,7.6,33000.0,Scripts\drama_movies
+Drama,Ask Me What You Want,1h 54m,114.0,3.7,538.0,Scripts\drama_movies
+Drama,Saturday Night,1h 49m,109.0,6.9,30000.0,Scripts\drama_movies
+Drama,Challengers,2h 11m,131.0,7.0,153000.0,Scripts\drama_movies
+Drama,Joker: Folie à Deux,2h 18m,138.0,5.2,159000.0,Scripts\drama_movies
+Drama,The Lord of the Rings: The War of the Rohirrim,2h 14m,134.0,6.3,29000.0,Scripts\drama_movies
+Drama,Small Things Like These,1h 38m,98.0,6.8,22000.0,Scripts\drama_movies
+Drama,Inside Out 2,1h 36m,96.0,7.5,215000.0,Scripts\drama_movies
+Drama,A Quiet Place: Day One,1h 39m,99.0,6.3,148000.0,Scripts\drama_movies
+Drama,William Tell,2h 13m,133.0,5.7,2200.0,Scripts\drama_movies
+Drama,The Return,1h 56m,116.0,6.2,8000.0,Scripts\drama_movies
+Drama,Kinds of Kindness,2h 44m,164.0,6.5,59000.0,Scripts\drama_movies
+Drama,On Swift Horses,1h 57m,117.0,6.0,206.0,Scripts\drama_movies
+Drama,The Assessment,1h 54m,114.0,7.2,969.0,Scripts\drama_movies
+Drama,Rebel Ridge,2h 11m,131.0,6.8,87000.0,Scripts\drama_movies
+Drama,Megalopolis,2h 18m,138.0,4.7,35000.0,Scripts\drama_movies
+Drama,Road House,2h 1m,121.0,6.2,167000.0,Scripts\drama_movies
+Drama,Queen of the Ring,2h 20m,140.0,6.9,913.0,Scripts\drama_movies
+Drama,Lucky Baskhar,2h 28m,148.0,8.0,31000.0,Scripts\drama_movies
+Drama,Nickel Boys,2h 20m,140.0,7.0,18000.0,Scripts\drama_movies
+Drama,A Different Man,1h 52m,112.0,6.9,28000.0,Scripts\drama_movies
+Drama,The Idea of You,1h 55m,115.0,6.3,73000.0,Scripts\drama_movies
+Drama,My Old Ass,1h 29m,89.0,6.9,38000.0,Scripts\drama_movies
+Drama,Kingdom of the Planet of the Apes,2h 25m,145.0,6.9,151000.0,Scripts\drama_movies
+Drama,IF,1h 44m,104.0,6.4,58000.0,Scripts\drama_movies
+Drama,A Nice Indian Boy,1h 36m,96.0,7.8,295.0,Scripts\drama_movies
+Drama,Marco,2h 25m,145.0,6.9,21000.0,Scripts\drama_movies
+Drama,The Six Triple Eight,2h 7m,127.0,6.7,26000.0,Scripts\drama_movies
+Drama,Maria,2h 4m,124.0,6.4,19000.0,Scripts\drama_movies
+Drama,Homestead,1h 52m,112.0,5.3,3500.0,Scripts\drama_movies
+Drama,Love Lies Bleeding,1h 44m,104.0,6.6,56000.0,Scripts\drama_movies
+Drama,The Outrun,1h 58m,118.0,6.9,15000.0,Scripts\drama_movies
+Drama,Mothers' Instinct,1h 34m,94.0,6.3,20000.0,Scripts\drama_movies
+Drama,Caddo Lake,1h 43m,103.0,6.8,41000.0,Scripts\drama_movies
+Drama,Bob Trevino Likes It,1h 41m,101.0,8.0,689.0,Scripts\drama_movies
+Drama,Spaceman,1h 47m,107.0,5.7,43000.0,Scripts\drama_movies
+Drama,I Saw the TV Glow,1h 40m,100.0,5.8,35000.0,Scripts\drama_movies
+Drama,The Room Next Door,1h 47m,107.0,6.8,19000.0,Scripts\drama_movies
+Drama,Bird,1h 59m,119.0,7.0,8200.0,Scripts\drama_movies
+Drama,My Dead Friend Zoe,1h 43m,103.0,6.7,2000.0,Scripts\drama_movies
+Drama,The Girl with the Needle,2h 3m,123.0,7.5,13000.0,Scripts\drama_movies
+Drama,Uglies,1h 40m,100.0,4.7,32000.0,Scripts\drama_movies
+Drama,The Seed of the Sacred Fig,2h 47m,167.0,7.6,13000.0,Scripts\drama_movies
+Drama,Memoir of a Snail,1h 35m,95.0,7.8,16000.0,Scripts\drama_movies
+Drama,Kneecap,1h 45m,105.0,7.6,17000.0,Scripts\drama_movies
+Drama,Dirty Angels,1h 44m,104.0,4.3,3300.0,Scripts\drama_movies
+Drama,Blitz,2h,120.0,6.2,16000.0,Scripts\drama_movies
+Drama,Horizon: An American Saga - Chapter 2,3h 10m,190.0,7.1,1200.0,Scripts\drama_movies
+Drama,Miller's Girl,1h 33m,93.0,5.2,23000.0,Scripts\drama_movies
+Drama,Audrey's Children,1h 50m,110.0,7.2,337.0,Scripts\drama_movies
+Drama,Santosh,2h 8m,128.0,7.0,1800.0,Scripts\drama_movies
+Drama,The End,2h 28m,148.0,5.5,1800.0,Scripts\drama_movies
+Drama,Chosen Family,1h 28m,88.0,4.7,359.0,Scripts\drama_movies
+Drama,The Shrouds,1h 59m,119.0,6.0,933.0,Scripts\drama_movies
+Drama,Nr. 24,1h 51m,111.0,7.5,15000.0,Scripts\drama_movies
+Drama,A Family Affair,1h 51m,111.0,5.4,36000.0,Scripts\drama_movies
+Drama,Reagan,2h 21m,141.0,6.2,11000.0,Scripts\drama_movies
+Drama,In a Violent Nature,1h 34m,94.0,5.6,26000.0,Scripts\drama_movies
+Drama,Misericordia,1h 44m,104.0,6.9,1900.0,Scripts\drama_movies
+Drama,Arcadian,1h 32m,92.0,5.5,23000.0,Scripts\drama_movies
+Drama,All We Imagine as Light,1h 58m,118.0,7.1,9400.0,Scripts\drama_movies
+Drama,Attack on Titan the Movie: The Last Attack,2h 25m,145.0,9.2,15000.0,Scripts\drama_movies
+Drama,Lift,1h 47m,107.0,5.5,49000.0,Scripts\drama_movies
+Drama,Holy Cow,1h 32m,92.0,7.2,1400.0,Scripts\drama_movies
+Drama,Maharaja,2h 21m,141.0,8.4,66000.0,Scripts\drama_movies
+Drama,The Instigators,1h 41m,101.0,6.2,37000.0,Scripts\drama_movies
+Drama,Distant,1h 27m,87.0,5.7,3100.0,Scripts\drama_movies
+Drama,The Marching Band,1h 43m,103.0,7.4,2600.0,Scripts\drama_movies
+Drama,McVeigh,1h 30m,90.0,4.5,463.0,Scripts\drama_movies
+Drama,Beating Hearts,2h 46m,166.0,7.0,4500.0,Scripts\drama_movies
+Drama,Emmanuelle,1h 47m,107.0,4.2,1500.0,Scripts\drama_movies
+Drama,La cocina,2h 19m,139.0,7.2,2700.0,Scripts\drama_movies
+Drama,Eephus,1h 39m,99.0,7.2,460.0,Scripts\drama_movies
+Drama,Hey Joe,1h 57m,117.0,6.2,180.0,Scripts\drama_movies
+Drama,Culpa Tuya,1h 58m,118.0,5.2,13000.0,Scripts\drama_movies
+Drama,Absolution,1h 52m,112.0,5.2,7700.0,Scripts\drama_movies
+Drama,Ordinary Angels,1h 58m,118.0,7.4,16000.0,Scripts\drama_movies
+Drama,Sister Midnight,1h 47m,107.0,6.6,362.0,Scripts\drama_movies
+Drama,Young Hearts,1h 39m,99.0,8.0,4600.0,Scripts\drama_movies
+Drama,Hard Truths,1h 37m,97.0,7.3,5000.0,Scripts\drama_movies
+Drama,The Forge,2h 4m,124.0,6.7,4800.0,Scripts\drama_movies
+Drama,Die Alone,1h 31m,91.0,5.7,2800.0,Scripts\drama_movies
+Drama,Atlas,1h 58m,118.0,5.6,56000.0,Scripts\drama_movies
+Drama,The Deliverance,1h 52m,112.0,5.1,22000.0,Scripts\drama_movies
+Drama,Rebel Moon - Part Two: The Scargiver,2h 2m,122.0,5.3,59000.0,Scripts\drama_movies
+Drama,Psycho Therapy: The Shallow Tale of a Writer Who Decided to Write about a Serial Killer,1h 42m,102.0,8.6,92.0,Scripts\drama_movies
+Drama,Back to Black,2h 2m,122.0,6.3,26000.0,Scripts\drama_movies
+Drama,Young Woman and the Sea,2h 9m,129.0,7.5,17000.0,Scripts\drama_movies
+Drama,Joy,1h 55m,115.0,7.1,9200.0,Scripts\drama_movies
+Drama,Exhuma,2h 14m,134.0,6.9,23000.0,Scripts\drama_movies
+Drama,Killer Heat,1h 35m,95.0,5.6,13000.0,Scripts\drama_movies
+Drama,Sebastian,1h 50m,110.0,6.7,1700.0,Scripts\drama_movies
+Drama,Kalki 2898 AD,3h,180.0,7.0,66000.0,Scripts\drama_movies
+Drama,Loveable,1h 41m,101.0,7.9,1600.0,Scripts\drama_movies
+Drama,Goodrich,1h 50m,110.0,6.3,5100.0,Scripts\drama_movies
+Drama,Rumours,1h 44m,104.0,5.0,4500.0,Scripts\drama_movies
+Drama,Long Gone Heroes,1h 41m,101.0,5.2,1000.0,Scripts\drama_movies
+Drama,Arthur the King,1h 47m,107.0,7.0,34000.0,Scripts\drama_movies
+Drama,Canary Black,1h 41m,101.0,5.3,11000.0,Scripts\drama_movies
+Drama,Sound of Hope: The Story of Possum Trot,2h 10m,130.0,7.2,2100.0,Scripts\drama_movies
+Drama,Unstoppable,1h 56m,116.0,6.8,4000.0,Scripts\drama_movies
+Drama,The Damned,1h 29m,89.0,5.7,3900.0,Scripts\drama_movies
+Drama,The Fire Inside,1h 49m,109.0,6.7,2400.0,Scripts\drama_movies
+Drama,Vermiglio,1h 59m,119.0,6.9,3900.0,Scripts\drama_movies
+Drama,Cabrini,2h 22m,142.0,7.3,8600.0,Scripts\drama_movies
+Drama,Bonhoeffer: Pastor. Spy. Assassin.,2h 13m,133.0,6.3,3500.0,Scripts\drama_movies
+Drama,Lonely Planet,1h 34m,94.0,5.7,11000.0,Scripts\drama_movies
+Drama,Superboys of Malegaon,2h 7m,127.0,8.0,1400.0,Scripts\drama_movies
+Drama,How to Make Millions Before Grandma Dies,2h 5m,125.0,8.0,13000.0,Scripts\drama_movies
+Drama,The Salt Path,1h 55m,115.0,7.8,111.0,Scripts\drama_movies
+Drama,Darkest Miriam,1h 27m,87.0,6.8,55.0,Scripts\drama_movies
+Drama,Los Frikis,1h 51m,111.0,6.9,773.0,Scripts\drama_movies
+Drama,Teri Baaton Mein Aisa Uljha Jiya,2h 21m,141.0,6.2,54000.0,Scripts\drama_movies
+Drama,Under Paris,1h 44m,104.0,5.2,36000.0,Scripts\drama_movies
+Drama,Armand,1h 58m,118.0,6.2,2600.0,Scripts\drama_movies
+Drama,Midas Man,1h 52m,112.0,6.4,1500.0,Scripts\drama_movies
+Drama,Lilies Not for Me,1h 39m,99.0,7.8,105.0,Scripts\drama_movies
+Drama,Restless,1h 29m,89.0,6.8,136.0,Scripts\drama_movies
+Drama,Armor,1h 29m,89.0,3.6,3700.0,Scripts\drama_movies
+Drama,Watchmen: Chapter I,1h 23m,83.0,7.0,6400.0,Scripts\drama_movies
+Drama,Ghostlight,1h 55m,115.0,7.6,5800.0,Scripts\drama_movies
+Drama,My Penguin Friend,1h 37m,97.0,6.7,4900.0,Scripts\drama_movies
+Drama,Amaran,2h 47m,167.0,8.2,18000.0,Scripts\drama_movies
+Drama,Being Maria,1h 40m,100.0,6.1,576.0,Scripts\drama_movies
+Drama,Black Dog,1h 56m,116.0,7.2,2600.0,Scripts\drama_movies
+Drama,Modi: Three Days on the Wing of Madness,1h 50m,110.0,5.6,506.0,Scripts\drama_movies
+Drama,The Devil's Bath,2h 1m,121.0,6.6,6100.0,Scripts\drama_movies
+Drama,Goebbels and the Führer,2h 15m,135.0,6.7,2100.0,Scripts\drama_movies
+Drama,Love Me,1h 31m,91.0,5.1,2400.0,Scripts\drama_movies
+Drama,A Sacrifice,1h 34m,94.0,5.0,5200.0,Scripts\drama_movies
+Drama,When Fall Is Coming,1h 44m,104.0,6.8,1500.0,Scripts\drama_movies
+Drama,The Children's Train,1h 46m,106.0,7.4,7000.0,Scripts\drama_movies
+Drama,Look Back,58m,58.0,7.8,14000.0,Scripts\drama_movies
+Drama,Succubus,1h 43m,103.0,4.6,1200.0,Scripts\drama_movies
+Drama,Kishkindha Kaandam,2h 13m,133.0,8.0,11000.0,Scripts\drama_movies
+Drama,Winner,1h 43m,103.0,6.5,2400.0,Scripts\drama_movies
+Drama,Dìdi,1h 33m,93.0,7.3,12000.0,Scripts\drama_movies
+Drama,Out of My Mind,1h 42m,102.0,7.4,2600.0,Scripts\drama_movies
+Drama,Laura,1h 44m,104.0,6.5,229.0,Scripts\drama_movies
+Drama,Mother of the Bride,1h 28m,88.0,4.8,17000.0,Scripts\drama_movies
+Drama,On Falling,1h 44m,104.0,7.4,480.0,Scripts\drama_movies
+Drama,The Uninvited,1h 37m,97.0,5.9,154.0,Scripts\drama_movies
+Drama,Winter Spring Summer or Fall,1h 37m,97.0,7.0,481.0,Scripts\drama_movies
+Drama,The Tearsmith,1h 43m,103.0,5.2,12000.0,Scripts\drama_movies
+Drama,Do Patti,2h 6m,126.0,6.5,68000.0,Scripts\drama_movies
+Drama,Grafted,1h 36m,96.0,5.6,2200.0,Scripts\drama_movies
+Drama,"Oh, Canada",1h 31m,91.0,5.7,1900.0,Scripts\drama_movies
+Drama,Bob Marley: One Love,1h 47m,107.0,6.2,34000.0,Scripts\drama_movies
+Drama,Four Mothers,1h 29m,89.0,7.4,152.0,Scripts\drama_movies
+Drama,Watchmen: Chapter II,1h 30m,90.0,7.0,2900.0,Scripts\drama_movies
+Drama,Between Borders,1h 30m,90.0,6.4,188.0,Scripts\drama_movies
+Drama,Fighter,2h 46m,166.0,6.2,52000.0,Scripts\drama_movies
+Drama,Boneyard,1h 36m,96.0,4.1,4900.0,Scripts\drama_movies
+Drama,Faith of Angels,1h 38m,98.0,5.8,192.0,Scripts\drama_movies
+Drama,Mary,1h 52m,112.0,5.2,8000.0,Scripts\drama_movies
+Drama,Guilty Pleasure,1h 59m,119.0,5.9,113.0,Scripts\drama_movies
+Drama,Grand Tour,2h 8m,128.0,6.6,1500.0,Scripts\drama_movies
+Drama,Touch,2h 1m,121.0,7.4,5300.0,Scripts\drama_movies
+Drama,Mea Culpa,2h,120.0,4.2,7000.0,Scripts\drama_movies
+Drama,Four Letters of Love,2h 5m,125.0,6.6,31.0,Scripts\drama_movies
+Drama,Dard,2h 36m,156.0,6.8,1700.0,Scripts\drama_movies
+Drama,Uprising,2h 6m,126.0,6.6,5400.0,Scripts\drama_movies
+Drama,The Greatest Hits,1h 34m,94.0,6.2,7300.0,Scripts\drama_movies
+Drama,The Thicket,1h 48m,108.0,5.8,3000.0,Scripts\drama_movies
+Drama,The Wonderful Story of Henry Sugar and Three More,1h 28m,88.0,7.1,6500.0,Scripts\drama_movies
+Drama,Monsieur Aznavour,2h 13m,133.0,7.3,2300.0,Scripts\drama_movies
+Drama,No Way Up,1h 30m,90.0,4.6,10000.0,Scripts\drama_movies
+Drama,Baby John,2h 39m,159.0,5.4,17000.0,Scripts\drama_movies
+Drama,Millers in Marriage,1h 57m,117.0,5.3,349.0,Scripts\drama_movies
+Drama,Hold Your Breath,1h 34m,94.0,5.3,8500.0,Scripts\drama_movies
+Drama,Through My Window: Looking at You,1h 45m,105.0,5.4,5200.0,Scripts\drama_movies
+Drama,Girls Will Be Girls,1h 58m,118.0,7.1,2400.0,Scripts\drama_movies
+Drama,Bramayugam,2h 19m,139.0,7.8,14000.0,Scripts\drama_movies
+Drama,The Goat Life,2h 53m,173.0,7.1,47000.0,Scripts\drama_movies
+Drama,Unsung Hero,1h 53m,113.0,7.0,4900.0,Scripts\drama_movies
+Drama,Sikandar Ka Muqaddar,2h 22m,142.0,6.0,24000.0,Scripts\drama_movies
+Drama,The Girl in the Pool,1h 29m,89.0,4.3,1400.0,Scripts\drama_movies
+Drama,Scoop,1h 42m,102.0,6.5,20000.0,Scripts\drama_movies
+Drama,Black Heat,1h 33m,93.0,8.6,117.0,Scripts\drama_movies
+Drama,Omni Loop,1h 52m,112.0,5.6,2800.0,Scripts\drama_movies
+Drama,The Best Christmas Pageant Ever,1h 39m,99.0,6.8,6100.0,Scripts\drama_movies
+Drama,Swimming Home,1h 39m,99.0,4.8,398.0,Scripts\drama_movies
+Drama,Viduthalai Part 2,2h 50m,170.0,7.9,16000.0,Scripts\drama_movies
+Drama,The Wages of Fear,1h 44m,104.0,4.6,4100.0,Scripts\drama_movies
+Drama,Waltzing with Brando,1h 44m,104.0,8.6,326.0,Scripts\drama_movies
+Drama,The Piano Lesson,2h 7m,127.0,6.2,4800.0,Scripts\drama_movies
+Drama,Turtles All the Way Down,1h 51m,111.0,6.6,6900.0,Scripts\drama_movies
+Drama,Damaged,1h 37m,97.0,4.7,7200.0,Scripts\drama_movies
+Drama,Tyler Perry's Divorce in the Black,2h 23m,143.0,4.6,3500.0,Scripts\drama_movies
+Drama,Shaitaan,2h 12m,132.0,6.5,54000.0,Scripts\drama_movies
+Drama,Waves,2h 11m,131.0,8.1,1600.0,Scripts\drama_movies
+Drama,The Great Lillian Hall,1h 50m,110.0,7.4,1900.0,Scripts\drama_movies
+Drama,Maliko,2h 20m,140.0,6.1,75.0,Scripts\drama_movies
+Drama,Baby,1h 47m,107.0,7.4,467.0,Scripts\drama_movies
+Drama,Blackwater Lane,1h 48m,108.0,4.6,1800.0,Scripts\drama_movies
+Drama,The Most Precious of Cargoes,1h 21m,81.0,7.1,842.0,Scripts\drama_movies
+Drama,Sector 36,2h 3m,123.0,7.1,25000.0,Scripts\drama_movies
+Drama,This Is Me... Now,1h 5m,65.0,4.1,7100.0,Scripts\drama_movies
+Drama,Universal Language,1h 29m,89.0,7.1,1200.0,Scripts\drama_movies
+Drama,Reputation,1h 23m,83.0,9.3,8.0,Scripts\drama_movies
+Drama,Crossing,1h 46m,106.0,7.4,4900.0,Scripts\drama_movies
+Drama,Justice,1h 53m,113.0,6.3,3800.0,Scripts\drama_movies
+Drama,Lost on a Mountain in Maine,1h 38m,98.0,6.1,1200.0,Scripts\drama_movies
+Drama,Operation Undead,1h 50m,110.0,4.6,394.0,Scripts\drama_movies
+Drama,Souleymane's Story,1h 33m,93.0,7.7,2700.0,Scripts\drama_movies
+Drama,Devara Part 1,2h 56m,176.0,6.0,20000.0,Scripts\drama_movies
+Drama,Så länge hjärtat slår,1h 44m,104.0,7.2,222.0,Scripts\drama_movies
+Drama,Justice League: Crisis on Infinite Earths - Part Three,1h 34m,94.0,6.1,4400.0,Scripts\drama_movies
+Drama,Suncoast,1h 49m,109.0,6.7,7200.0,Scripts\drama_movies
+Drama,Rob Peace,2h,120.0,6.5,1900.0,Scripts\drama_movies
+Drama,My Favourite Cake,1h 37m,97.0,7.4,7100.0,Scripts\drama_movies
+Drama,Dead Wrong,1h 44m,104.0,3.9,257.0,Scripts\drama_movies
+Drama,Depravity,1h 57m,117.0,4.3,971.0,Scripts\drama_movies
+Drama,The Boy with Pink Trousers,1h 54m,114.0,6.7,710.0,Scripts\drama_movies
+Drama,Kontra,1h 41m,101.0,4.4,348.0,Scripts\drama_movies
+Drama,Singham Again,2h 24m,144.0,4.8,75000.0,Scripts\drama_movies
+Drama,The Dead Thing,1h 34m,94.0,4.7,884.0,Scripts\drama_movies
+Drama,Last Swim,1h 36m,96.0,6.9,173.0,Scripts\drama_movies
+Drama,Bookworm,1h 43m,103.0,6.0,1800.0,Scripts\drama_movies
+Drama,Escape from Germany,1h 37m,97.0,5.3,943.0,Scripts\drama_movies
+Drama,Hagen,2h 19m,139.0,6.1,1200.0,Scripts\drama_movies
+Drama,The Thundermans Return,1h 10m,70.0,5.0,1800.0,Scripts\drama_movies
+Drama,The Shameless,1h 54m,114.0,5.7,214.0,Scripts\drama_movies
+Drama,Colors of Evil: Red,1h 51m,111.0,6.4,8400.0,Scripts\drama_movies
+Drama,On Becoming a Guinea Fowl,1h 39m,99.0,7.2,810.0,Scripts\drama_movies
+Drama,High Tide,1h 41m,101.0,6.6,547.0,Scripts\drama_movies
+Drama,The Flood,1h 41m,101.0,6.5,245.0,Scripts\drama_movies
+Drama,Sex,2h 5m,125.0,6.6,965.0,Scripts\drama_movies
+Drama,The Colors Within,1h 41m,101.0,7.1,919.0,Scripts\drama_movies
+Drama,Julie Keeps Quiet,1h 40m,100.0,6.6,910.0,Scripts\drama_movies
+Drama,Ponyboi,1h 43m,103.0,5.8,284.0,Scripts\drama_movies
+Drama,All of You,1h 38m,98.0,7.3,80.0,Scripts\drama_movies
+Drama,Hounds of War,1h 35m,95.0,4.5,1700.0,Scripts\drama_movies
+Drama,In the Summers,1h 35m,95.0,6.5,947.0,Scripts\drama_movies
+Drama,Before Dawn,1h 41m,101.0,5.4,961.0,Scripts\drama_movies
+Drama,Exhibiting Forgiveness,1h 57m,117.0,7.0,1200.0,Scripts\drama_movies
+Drama,Something in the Water,1h 26m,86.0,4.1,4600.0,Scripts\drama_movies
+Drama,B.O.Y.: Bruises of Yesterday,1h 27m,87.0,7.6,361.0,Scripts\drama_movies
+Drama,The Wailing,1h 47m,107.0,6.1,1100.0,Scripts\drama_movies
+Drama,A True Gentleman,1h 50m,110.0,4.5,2100.0,Scripts\drama_movies
+Drama,Mr. K,1h 34m,94.0,6.2,376.0,Scripts\drama_movies
+Drama,Jigra,2h 33m,153.0,6.0,23000.0,Scripts\drama_movies
+Drama,Strictly Confidential,1h 34m,94.0,2.8,839.0,Scripts\drama_movies
+Drama,Reading Lolita in Tehran,1h 48m,108.0,6.9,212.0,Scripts\drama_movies
+Drama,Wild Diamond,1h 43m,103.0,6.4,656.0,Scripts\drama_movies
+Drama,Let Go,1h 50m,110.0,7.0,6400.0,Scripts\drama_movies
+Drama,Maharaj,2h 11m,131.0,6.5,15000.0,Scripts\drama_movies
+Drama,Love in the Big City,1h 58m,118.0,7.5,1400.0,Scripts\drama_movies
+Drama,Rez Ball,1h 51m,111.0,6.3,2400.0,Scripts\drama_movies
+Drama,Niki,1h 38m,98.0,6.0,345.0,Scripts\drama_movies
+Drama,Big World,2h 11m,131.0,7.3,1200.0,Scripts\drama_movies
+Drama,The Price of Money: A Largo Winch Adventure,1h 40m,100.0,5.0,1100.0,Scripts\drama_movies
+Drama,Bedspacer,1h 30m,90.0,4.4,336.0,Scripts\drama_movies
+Drama,Badland Hunters,1h 47m,107.0,5.9,12000.0,Scripts\drama_movies
+Drama,The Empire,1h 50m,110.0,5.2,1200.0,Scripts\drama_movies
+Drama,Viet and Nam,2h 9m,129.0,6.4,393.0,Scripts\drama_movies
+Drama,Good One,1h 29m,89.0,6.7,2500.0,Scripts\drama_movies
+Drama,"From Hilde, with Love",2h 5m,125.0,7.0,877.0,Scripts\drama_movies
+Drama,You Can't Run Forever,1h 42m,102.0,4.5,4300.0,Scripts\drama_movies
+Drama,The Mehta Boys,1h 56m,116.0,7.1,2400.0,Scripts\drama_movies
+Drama,Lola,1h 24m,84.0,3.8,1100.0,Scripts\drama_movies
+Drama,Dreams (Sex Love),1h 50m,110.0,7.7,372.0,Scripts\drama_movies
+Drama,Lilly,1h 33m,93.0,8.1,37.0,Scripts\drama_movies
+Drama,September Says,1h 40m,100.0,6.4,351.0,Scripts\drama_movies
+Drama,The Sand Castle,1h 38m,98.0,4.7,1600.0,Scripts\drama_movies
+Drama,Treasure,1h 51m,111.0,6.3,2000.0,Scripts\drama_movies
+Drama,The Supremes at Earl's All-You-Can-Eat,2h 4m,124.0,6.4,1400.0,Scripts\drama_movies
+Drama,Madgaon Express,2h 23m,143.0,7.0,41000.0,Scripts\drama_movies
+Drama,The Red Virgin,1h 54m,114.0,6.8,3100.0,Scripts\drama_movies
+Drama,Khel Khel Mein,2h 15m,135.0,6.5,27000.0,Scripts\drama_movies
+Drama,Pedro Páramo,2h 10m,130.0,6.3,2900.0,Scripts\drama_movies
+Drama,Code 8: Part II,1h 40m,100.0,5.7,16000.0,Scripts\drama_movies
+Drama,The Courier,1h 41m,101.0,6.0,4400.0,Scripts\drama_movies
+Drama,Kabitan,1h 4m,64.0,7.4,109.0,Scripts\drama_movies
+Drama,"The Way, My Way",1h 38m,98.0,6.5,451.0,Scripts\drama_movies
+Drama,Dead Mail,1h 46m,106.0,6.7,296.0,Scripts\drama_movies
+Drama,Toxic,1h 39m,99.0,6.9,444.0,Scripts\drama_movies
+Drama,Last Night on Earth,1h 26m,86.0,4.8,355.0,Scripts\drama_movies
+Drama,Timestalker,1h 29m,89.0,5.5,2900.0,Scripts\drama_movies
+Drama,House of Spoils,1h 41m,101.0,5.0,3800.0,Scripts\drama_movies
+Drama,Triumph,1h 38m,98.0,5.5,247.0,Scripts\drama_movies
+Drama,Sweet Dreams,1h 35m,95.0,5.4,1400.0,Scripts\drama_movies
+Drama,Bogota: City of the Lost,1h 48m,108.0,5.4,1900.0,Scripts\drama_movies
+Drama,The New Year That Never Came,2h 18m,138.0,8.2,4900.0,Scripts\drama_movies
+Drama,I Love You Forever,1h 29m,89.0,5.6,171.0,Scripts\drama_movies
+Drama,Cesium Fallout,2h 16m,136.0,6.6,560.0,Scripts\drama_movies
+Drama,Nutcrackers,1h 44m,104.0,5.5,9300.0,Scripts\drama_movies
+Drama,Handling the Undead,1h 37m,97.0,5.4,4300.0,Scripts\drama_movies
+Drama,11 Rebels,2h 35m,155.0,6.2,355.0,Scripts\drama_movies
+Drama,Sons,1h 40m,100.0,6.5,1700.0,Scripts\drama_movies
+Drama,Level Cross,1h 56m,116.0,6.8,2600.0,Scripts\drama_movies
+Drama,A Legend,2h 9m,129.0,4.7,884.0,Scripts\drama_movies
+Drama,Goldilocks and the Two Bears,2h 16m,136.0,6.0,41.0,Scripts\drama_movies
+Drama,Sujo,2h 6m,126.0,7.1,747.0,Scripts\drama_movies
+Drama,Barron's Cove,1h 56m,116.0,8.2,28.0,Scripts\drama_movies
+Drama,The Beautiful Game,2h 5m,125.0,6.3,8000.0,Scripts\drama_movies
+Drama,A Mistake,1h 41m,101.0,5.5,747.0,Scripts\drama_movies
+Drama,Cloud,2h 4m,124.0,6.3,1000.0,Scripts\drama_movies
+Drama,Manjummel Boys,2h 15m,135.0,8.2,27000.0,Scripts\drama_movies
+Drama,Anweshippin Kandethum,2h 22m,142.0,7.4,10000.0,Scripts\drama_movies
+Drama,Vanvaas,2h 40m,160.0,6.6,1300.0,Scripts\drama_movies
+Drama,Without Blood,1h 31m,91.0,7.6,93.0,Scripts\drama_movies
+Drama,Cinderella's Curse,1h 22m,82.0,3.3,1300.0,Scripts\drama_movies
+Drama,Saint-Exupéry,1h 38m,98.0,5.5,252.0,Scripts\drama_movies
+Drama,Happyend,1h 53m,113.0,7.1,506.0,Scripts\drama_movies
+Drama,Mond,1h 32m,92.0,7.0,244.0,Scripts\drama_movies
+Drama,Ulajh,2h 30m,150.0,6.0,24000.0,Scripts\drama_movies
+Drama,Gaslit by My Husband: The Morgan Metzer Story,1h 28m,88.0,6.4,355.0,Scripts\drama_movies
+Drama,The Kingdom,1h 52m,112.0,6.9,715.0,Scripts\drama_movies
+Drama,Blue Cave,1h 28m,88.0,5.5,6100.0,Scripts\drama_movies
+Drama,Wonderland,1h 53m,113.0,6.2,2200.0,Scripts\drama_movies
+Drama,Article 370,2h 38m,158.0,7.8,25000.0,Scripts\drama_movies
+Drama,An Ordinary Case,1h 55m,115.0,6.6,890.0,Scripts\drama_movies
+Drama,Babah,2h 9m,129.0,6.8,148.0,Scripts\drama_movies
+Drama,April,2h 14m,134.0,6.5,371.0,Scripts\drama_movies
+Drama,F-Buddies,53m,53.0,4.5,136.0,Scripts\drama_movies
+Drama,Same Old West,1h 38m,98.0,7.9,106.0,Scripts\drama_movies
+Drama,I Want to Talk,2h 2m,122.0,7.1,2100.0,Scripts\drama_movies
+Drama,Stormskerry Maja,2h 44m,164.0,7.7,2200.0,Scripts\drama_movies
+Drama,The Image of You,1h 30m,90.0,4.6,820.0,Scripts\drama_movies
+Drama,An Unfinished Film,1h 45m,105.0,7.2,518.0,Scripts\drama_movies
+Drama,Limonov: The Ballad of Eddie,2h 18m,138.0,6.0,771.0,Scripts\drama_movies
+Drama,I Wish You All the Best,1h 32m,92.0,6.9,74.0,Scripts\drama_movies
+Drama,Pure Love,1h 49m,109.0,7.2,142.0,Scripts\drama_movies
+Drama,The Tiger's Apprentice,1h 24m,84.0,5.7,2200.0,Scripts\drama_movies
+Drama,Cinderella's Revenge,1h 25m,85.0,3.7,1100.0,Scripts\drama_movies
