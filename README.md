@@ -4,12 +4,14 @@
 This project is an interactive data analytics dashboard built using Streamlit, focusing on movies from the 2024 IMDb dataset. The goal is to extract insights from movie metadata such as genre, rating, duration, and popularity, enabling users to explore trends and comparisons across different movie types.
 
 ---Technical Tags
+
 Languages: Python
 Database: Tidb database
 Visualization Tool: Streamlit
 Libraries: Pandas, Selenium, Matplotlib, SQLAlchemy, Seaborn, Regular Expressions
 
 ---Project Brief
+
 -Top 10 Movies by Genre
 View the highest-rated or most-voted movies across selected genres for 2024.
 
