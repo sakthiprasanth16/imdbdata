@@ -12,20 +12,20 @@ Libraries: Pandas, Selenium, Matplotlib, SQLAlchemy, Seaborn, Regular Expression
 
 ---Project Brief
 
--Top 10 Movies by Genre
+-Top 10 Movies by Genre : 
 View the highest-rated or most-voted movies across selected genres for 2024.
 
--Genre-Based Filtering
+-Genre-Based Filtering : 
 Interactive genre filter to explore data specific to Action, Drama, Comedy, etc.
 
--Correlation Analysis
+-Correlation Analysis : 
 Explore relationships between numeric features such as rating, votes, and duration.
 
--Duration Insights
+-Duration Insights : 
 Identify the shortest and longest movies and visualize distribution using boxplots.
 
--Comparisons
+-Comparisons : 
 Compare top genres, durations, or rating distributions side-by-side.
 
--Full Dataset View
+-Full Dataset View : 
 Access and filter the complete movie dataset with genre-level selection and total count.
