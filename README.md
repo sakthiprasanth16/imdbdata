@@ -1,4 +1,8 @@
 # imdbdata
+-----Problem Statement
+
+This project focuses on extracting and analyzing movie data from IMDb for the year 2024. The task involves scraping data such as movie names, genres, ratings, voting counts, and durations from IMDb's 2024 movie list using Selenium. The data will then be organized genre-wise, saved as individual CSV files, and combined into a single dataset stored in an Tidb database. Finally, the project will provide interactive visualizations and filtering functionality using Streamlit to answer key questions and allow users to customize their exploration of the dataset.
+
 ---Data Scraping and Visualizations
 
 This project is an interactive data analytics dashboard built using Streamlit, focusing on movies from the 2024 IMDb dataset. The goal is to extract insights from movie metadata such as genre, rating, duration, and popularity, enabling users to explore trends and comparisons across different movie types.
